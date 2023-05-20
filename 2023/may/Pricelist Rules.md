@@ -1,0 +1,8018 @@
+Pricelist Rules
+ - Darwin, 3-seater with one high back, one back and one armrest
+ - Darwin, 3-seater with one high back, one back and one armrest
+ - Darwin, 3-seater with one high back, one back and one armrest
+ - Darwin, 3-seater with one high back, one back and one armrest
+ - Darwin, 3-seater with one high back, one back and one armrest
+ - Darwin, 3-seater with one high back, one back and one armrest
+ - Darwin, 3-seater with one high back, one back and one armrest
+ - Darwin, 3-seater with five backs
+ - Darwin, 3-seater with five backs
+ - Darwin, 3-seater with five backs
+ - Darwin, 3-seater with five backs
+ - Darwin, 3-seater with five backs
+ - Darwin, 3-seater with five backs
+ - Darwin, 3-seater with five backs
+ - Darwin, 3-seater with five high backs
+ - Darwin, 3-seater with five high backs
+ - Darwin, 3-seater with five high backs
+ - Darwin, 3-seater with five high backs
+ - Darwin, 3-seater with five high backs
+ - Darwin, 3-seater with five high backs
+ - Darwin, 3-seater with five high backs
+ - Bankett, addition for staining (light cherry, teak, mahogny, white and black) per unit
+ - Santana, modular sofa 2-seater + 2-seater with wide armrests
+ - Santana, modular sofa 2-seater + 2-seater with wide armrests
+ - Santana, modular sofa 2-seater + 2-seater with wide armrests
+ - Santana, modular sofa 2-seater + 2-seater with wide armrests
+ - Santana, modular sofa 2-seater + 2-seater with wide armrests
+ - Santana, modular sofa 2-seater + 2-seater with wide armrests
+ - Santana, modular sofa 2-seater + 2-seater with wide armrests
+ - Annet, pillow 40x40 cm with zipper
+ - Annet, pillow 40x40 cm with zipper
+ - Annet, pillow 40x40 cm with zipper
+ - Annet, pillow 40x40 cm with zipper
+ - Annet, pillow 40x40 cm with zipper
+ - Annet, pillow 40x40 cm with zipper
+ - Annet, pillow 40x40 cm with zipper
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 2-seater + 2-seater with back with armrests (connected), oak
+ - Pivot, modular sofa, 2-seater + corner + 3-seater with high armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 2-seater + corner + 3-seater with high armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 2-seater + corner + 3-seater with high armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 2-seater + corner + 3-seater with high armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 2-seater + corner + 3-seater with high armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 2-seater + corner + 3-seater with high armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 2-seater + corner + 3-seater with high armrests, 8 cm, bolt legs
+ - Pivot Cave, extra high 3-seater + large corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + large corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + large corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + large corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + large corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + large corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + large corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + 2-seater with extra high armrests (connected)
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left back low and right back high + 2-seater, left corner high and right back low
+ - Bankett, stackable chair without armrest, birch
+ - Bankett, stackable chair without armrest, birch
+ - Bankett, stackable chair without armrest, birch
+ - Bankett, stackable chair without armrest, birch
+ - Bankett, stackable chair without armrest, birch
+ - Bankett, stackable chair without armrest, birch
+ - Bankett, stackable chair without armrest, birch
+ - Bankett, stackable chair with armrest, birch
+ - Bankett, stackable chair with armrest, birch
+ - Bankett, stackable chair with armrest, birch
+ - Bankett, stackable chair with armrest, birch
+ - Bankett, stackable chair with armrest, birch
+ - Bankett, stackable chair with armrest, birch
+ - Bankett, stackable chair with armrest, birch
+ - Bankett, extra removable seat cover
+ - Bankett, extra removable seat cover
+ - Bankett, extra removable seat cover
+ - Bankett, extra removable seat cover
+ - Bankett, extra removable seat cover
+ - Bankett, extra removable seat cover
+ - Bankett, extra removable seat cover
+ - Bankett, extra removable back cover
+ - Bankett, extra removable back cover
+ - Bankett, extra removable back cover
+ - Bankett, extra removable back cover
+ - Bankett, extra removable back cover
+ - Bankett, extra removable back cover
+ - Bankett, extra removable back cover
+ - Bankett, multi stackable chair with armrest, birch
+ - Bankett, multi stackable chair with armrest, birch
+ - Bankett, multi stackable chair with armrest, birch
+ - Bankett, multi stackable chair with armrest, birch
+ - Bankett, multi stackable chair with armrest, birch
+ - Bankett, multi stackable chair with armrest, birch
+ - Bankett, multi stackable chair with armrest, birch
+ - Bankett, extra removable seat cover Multi
+ - Bankett, extra removable seat cover Multi
+ - Bankett, extra removable seat cover Multi
+ - Bankett, extra removable seat cover Multi
+ - Bankett, extra removable seat cover Multi
+ - Bankett, extra removable seat cover Multi
+ - Bankett, extra removable seat cover Multi
+ - Bankett, rail joint
+ - Meet, 2-seater with back, armrest l. and connection r. + connection table 45 deg. + 2-seater with back, connection l. and armrest r.
+ - Meet, 2-seater with back, armrest l. and connection r. + connection table 45 deg. + 2-seater with back, connection l. and armrest r.
+ - Meet, 2-seater with back, armrest l. and connection r. + connection table 45 deg. + 2-seater with back, connection l. and armrest r.
+ - Meet, 2-seater with back, armrest l. and connection r. + connection table 45 deg. + 2-seater with back, connection l. and armrest r.
+ - Meet, 2-seater with back, armrest l. and connection r. + connection table 45 deg. + 2-seater with back, connection l. and armrest r.
+ - Meet, 2-seater with back, armrest l. and connection r. + connection table 45 deg. + 2-seater with back, connection l. and armrest r.
+ - Meet, 2-seater with back, armrest l. and connection r. + connection table 45 deg. + 2-seater with back, connection l. and armrest r.
+ - Meet, 3-seater with back, armrest left and armrest right, option back + no back + rear back
+ - Meet, 3-seater with back, armrest left and armrest right, option back + no back + rear back
+ - Meet, 3-seater with back, armrest left and armrest right, option back + no back + rear back
+ - Meet, 3-seater with back, armrest left and armrest right, option back + no back + rear back
+ - Meet, 3-seater with back, armrest left and armrest right, option back + no back + rear back
+ - Meet, 3-seater with back, armrest left and armrest right, option back + no back + rear back
+ - Meet, 3-seater with back, armrest left and armrest right, option back + no back + rear back
+ - Meet, 2-seater with back, connection l. and connection r. + connection table large 0 deg. + 2-seater with back, connection l. and connection r., option rear back + rear back
+ - Meet, 2-seater with back, connection l. and connection r. + connection table large 0 deg. + 2-seater with back, connection l. and connection r., option rear back + rear back
+ - Meet, 2-seater with back, connection l. and connection r. + connection table large 0 deg. + 2-seater with back, connection l. and connection r., option rear back + rear back
+ - Meet, 2-seater with back, connection l. and connection r. + connection table large 0 deg. + 2-seater with back, connection l. and connection r., option rear back + rear back
+ - Meet, 2-seater with back, connection l. and connection r. + connection table large 0 deg. + 2-seater with back, connection l. and connection r., option rear back + rear back
+ - Meet, 2-seater with back, connection l. and connection r. + connection table large 0 deg. + 2-seater with back, connection l. and connection r., option rear back + rear back
+ - Meet, 2-seater with back, connection l. and connection r. + connection table large 0 deg. + 2-seater with back, connection l. and connection r., option rear back + rear back
+ - Pivot, table leg, bolt, H43,5, straight, powder painted Ultra shine, per leg
+ - Meet, connection table small, 0 degrees, oak HPL
+ - Pivot, additional removeable seat cover for Gap 1.5-seater
+ - Pivot, additional removeable seat cover for Gap 1.5-seater
+ - Pivot, additional removeable seat cover for Gap 1.5-seater
+ - Pivot, additional removeable seat cover for Gap 1.5-seater
+ - Pivot, additional removeable seat cover for Gap 1.5-seater
+ - Pivot, additional removeable seat cover for Gap 1.5-seater
+ - Pivot, additional removeable seat cover for Gap 1.5-seater
+ - Pivot, additional removeable seat cover for Gap 2-seater
+ - Pivot, additional removeable seat cover for Gap 2-seater
+ - Pivot, additional removeable seat cover for Gap 2-seater
+ - Pivot, additional removeable seat cover for Gap 2-seater
+ - Pivot, additional removeable seat cover for Gap 2-seater
+ - Pivot, additional removeable seat cover for Gap 2-seater
+ - Pivot, additional removeable seat cover for Gap 2-seater
+ - Zeta, addition for staining (light cherry, teak, mahogny, white and black) per unit
+ - Meet, table H55, Ø60, oak veneer single color, oak
+ - Meet, table H55, Ø60, white melamine single color, white
+ - Meet, table H55, Ø60, black melamine single color, black
+ - Meet, table H55, Ø80, oak veneer single color, oak
+ - Meet, table H55, Ø80, white melamine single color, white
+ - Meet, table H55, Ø80, black melamine single color, black
+ - Meet, table H55, 50x50, oak veneer single color, oak
+ - Meet, table H55, 50x50, white melamine single color, white
+ - Meet, table H55, 50x50, black melamine single color, black
+ - Meet, table H55, 50x90, oak veneer single color, oak
+ - Meet, table H55, 50x90, white melamine single color, white
+ - Meet, table H55, 50x90, black melamine single color, black
+ - Meet, addition for other color on steel parts, per unit
+ - Lean, 1-seater with back without armrests, birch
+ - Lean, 1-seater with back without armrests, birch
+ - Lean, 1-seater with back without armrests, birch
+ - Lean, 1-seater with back without armrests, birch
+ - Lean, 1-seater with back without armrests, birch
+ - Lean, 1-seater with back without armrests, birch
+ - Lean, 1-seater with back without armrests, birch
+ - Lean, 1-seater with back and armrest left, birch
+ - Lean, 1-seater with back and armrest left, birch
+ - Lean, 1-seater with back and armrest left, birch
+ - Lean, 1-seater with back and armrest left, birch
+ - Lean, 1-seater with back and armrest left, birch
+ - Lean, 1-seater with back and armrest left, birch
+ - Lean, 1-seater with back and armrest left, birch
+ - Lean, 1-seater with back and armrest right, birch
+ - Lean, 1-seater with back and armrest right, birch
+ - Lean, 1-seater with back and armrest right, birch
+ - Lean, 1-seater with back and armrest right, birch
+ - Lean, 1-seater with back and armrest right, birch
+ - Lean, 1-seater with back and armrest right, birch
+ - Lean, 1-seater with back and armrest right, birch
+ - Lean, 2-seater without back, birch
+ - Lean, 2-seater without back, birch
+ - Lean, 2-seater without back, birch
+ - Lean, 2-seater without back, birch
+ - Lean, 2-seater without back, birch
+ - Lean, 2-seater without back, birch
+ - Lean, 2-seater without back, birch
+ - Lean, 2-seater with back without armrests, birch
+ - Lean, 2-seater with back without armrests, birch
+ - Lean, 2-seater with back without armrests, birch
+ - Lean, 2-seater with back without armrests, birch
+ - Lean, 2-seater with back without armrests, birch
+ - Lean, 2-seater with back without armrests, birch
+ - Lean, 2-seater with back without armrests, birch
+ - Lean, 2-seater with back and armrest left, birch
+ - Lean, 2-seater with back and armrest left, birch
+ - Lean, 2-seater with back and armrest left, birch
+ - Lean, 2-seater with back and armrest left, birch
+ - Lean, 2-seater with back and armrest left, birch
+ - Lean, 2-seater with back and armrest left, birch
+ - Lean, 2-seater with back and armrest left, birch
+ - Lean, 2-seater with back and armrest right, birch
+ - Lean, 2-seater with back and armrest right, birch
+ - Lean, 2-seater with back and armrest right, birch
+ - Lean, 2-seater with back and armrest right, birch
+ - Lean, 2-seater with back and armrest right, birch
+ - Lean, 2-seater with back and armrest right, birch
+ - Lean, 2-seater with back and armrest right, birch
+ - Lean, 2-seater with back and armrests both sides, birch
+ - Lean, 2-seater with back and armrests both sides, birch
+ - Lean, 2-seater with back and armrests both sides, birch
+ - Lean, 2-seater with back and armrests both sides, birch
+ - Lean, 2-seater with back and armrests both sides, birch
+ - Lean, 2-seater with back and armrests both sides, birch
+ - Lean, 2-seater with back and armrests both sides, birch
+ - Lean, 3-seater without back, birch
+ - Lean, 3-seater without back, birch
+ - Lean, 3-seater without back, birch
+ - Lean, 3-seater without back, birch
+ - Lean, 3-seater without back, birch
+ - Lean, 3-seater without back, birch
+ - Lean, 3-seater without back, birch
+ - Lean, 3-seater with back without armrests, birch
+ - Lean, 3-seater with back without armrests, birch
+ - Lean, 3-seater with back without armrests, birch
+ - Lean, 3-seater with back without armrests, birch
+ - Lean, 3-seater with back without armrests, birch
+ - Lean, 3-seater with back without armrests, birch
+ - Lean, 3-seater with back without armrests, birch
+ - Lean, 3-seater with back and armrest left, birch
+ - Lean, 3-seater with back and armrest left, birch
+ - Lean, 3-seater with back and armrest left, birch
+ - Lean, 3-seater with back and armrest left, birch
+ - Lean, 3-seater with back and armrest left, birch
+ - Lean, 3-seater with back and armrest left, birch
+ - Lean, 3-seater with back and armrest left, birch
+ - Lean, 3-seater with back and armrest right, birch
+ - Lean, 3-seater with back and armrest right, birch
+ - Lean, 3-seater with back and armrest right, birch
+ - Lean, 3-seater with back and armrest right, birch
+ - Lean, 3-seater with back and armrest right, birch
+ - Lean, 3-seater with back and armrest right, birch
+ - Lean, 3-seater with back and armrest right, birch
+ - Lean, 3-seater with back and armrests both sides, birch
+ - Lean, 3-seater with back and armrests both sides, birch
+ - Lean, 3-seater with back and armrests both sides, birch
+ - Lean, 3-seater with back and armrests both sides, birch
+ - Lean, 3-seater with back and armrests both sides, birch
+ - Lean, 3-seater with back and armrests both sides, birch
+ - Lean, 3-seater with back and armrests both sides, birch
+ - Lean, in-/outside arc 90 degrees without back, birch
+ - Lean, in-/outside arc 90 degrees without back, birch
+ - Lean, in-/outside arc 90 degrees without back, birch
+ - Lean, in-/outside arc 90 degrees without back, birch
+ - Lean, in-/outside arc 90 degrees without back, birch
+ - Lean, in-/outside arc 90 degrees without back, birch
+ - Lean, in-/outside arc 90 degrees without back, birch
+ - Lean, inside arc 90 degrees with back, birch
+ - Lean, inside arc 90 degrees with back, birch
+ - Lean, inside arc 90 degrees with back, birch
+ - Lean, inside arc 90 degrees with back, birch
+ - Lean, inside arc 90 degrees with back, birch
+ - Lean, inside arc 90 degrees with back, birch
+ - Lean, inside arc 90 degrees with back, birch
+ - Lean, coupling joint, per piece for joints
+ - Lean, customized, reduced width of straight element:
+ - Lean, customized, seating height 48 cm., per module
+ - Lean, addition for removeable seat cover for 1-seater
+ - Lean, addition for removeable seat cover for 1-seater
+ - Lean, addition for removeable seat cover for 1-seater
+ - Lean, addition for removeable seat cover for 1-seater
+ - Lean, addition for removeable seat cover for 1-seater
+ - Lean, addition for removeable seat cover for 1-seater
+ - Lean, addition for removeable seat cover for 1-seater
+ - Lean, addition for removeable seat cover for 2-seater
+ - Lean, addition for removeable seat cover for 2-seater
+ - Lean, addition for removeable seat cover for 2-seater
+ - Lean, addition for removeable seat cover for 2-seater
+ - Lean, addition for removeable seat cover for 2-seater
+ - Lean, addition for removeable seat cover for 2-seater
+ - Lean, addition for removeable seat cover for 2-seater
+ - Lean, addition for removeable seat cover for 3-seater
+ - Lean, addition for removeable seat cover for 3-seater
+ - Lean, addition for removeable seat cover for 3-seater
+ - Lean, addition for removeable seat cover for 3-seater
+ - Lean, addition for removeable seat cover for 3-seater
+ - Lean, addition for removeable seat cover for 3-seater
+ - Lean, addition for removeable seat cover for 3-seater
+ - Lean, addition for removeable seat cover for arc
+ - Lean, addition for removeable seat cover for arc
+ - Lean, addition for removeable seat cover for arc
+ - Lean, addition for removeable seat cover for arc
+ - Lean, addition for removeable seat cover for arc
+ - Lean, addition for removeable seat cover for arc
+ - Lean, addition for removeable seat cover for arc
+ - Zeta, extra removable seat cover (per seat)
+ - Zeta, extra removable seat cover (per seat)
+ - Zeta, extra removable seat cover (per seat)
+ - Zeta, extra removable seat cover (per seat)
+ - Zeta, extra removable seat cover (per seat)
+ - Zeta, extra removable seat cover (per seat)
+ - Zeta, extra removable seat cover (per seat)
+ - Zeta, extra removable back cover (low, per seat)
+ - Zeta, extra removable back cover (low, per seat)
+ - Zeta, extra removable back cover (low, per seat)
+ - Zeta, extra removable back cover (low, per seat)
+ - Zeta, extra removable back cover (low, per seat)
+ - Zeta, extra removable back cover (low, per seat)
+ - Zeta, extra removable back cover (low, per seat)
+ - Zeta, extra removable back cover (high, per seat)
+ - Zeta, extra removable back cover (high, per seat)
+ - Zeta, extra removable back cover (high, per seat)
+ - Zeta, extra removable back cover (high, per seat)
+ - Zeta, extra removable back cover (high, per seat)
+ - Zeta, extra removable back cover (high, per seat)
+ - Zeta, extra removable back cover (high, per seat)
+ - Zeta, extra removable cover for footrest
+ - Zeta, extra removable cover for footrest
+ - Zeta, extra removable cover for footrest
+ - Zeta, extra removable cover for footrest
+ - Zeta, extra removable cover for footrest
+ - Zeta, extra removable cover for footrest
+ - Zeta, extra removable cover for footrest
+ - Zeta, chair, fixed, oak
+ - Zeta, chair, fixed, oak
+ - Zeta, chair, fixed, oak
+ - Zeta, chair, fixed, oak
+ - Zeta, chair, fixed, oak
+ - Zeta, chair, fixed, oak
+ - Zeta, chair, fixed, oak
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 2-seater, fixed, oak
+ - Zeta, 2-seater, fixed, oak
+ - Zeta, 2-seater, fixed, oak
+ - Zeta, 2-seater, fixed, oak
+ - Zeta, 2-seater, fixed, oak
+ - Zeta, 2-seater, fixed, oak
+ - Zeta, 2-seater, fixed, oak
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 3-seater,fixed, oak
+ - Zeta, 3-seater,fixed, oak
+ - Zeta, 3-seater,fixed, oak
+ - Zeta, 3-seater,fixed, oak
+ - Zeta, 3-seater,fixed, oak
+ - Zeta, 3-seater,fixed, oak
+ - Zeta, 3-seater,fixed, oak
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, fixed, oak
+ - Zeta, high back chair, fixed, oak
+ - Zeta, high back chair, fixed, oak
+ - Zeta, high back chair, fixed, oak
+ - Zeta, high back chair, fixed, oak
+ - Zeta, high back chair, fixed, oak
+ - Zeta, high back chair, fixed, oak
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, stepless adjustment of back, oak
+ - Zeta, high back chair, stepless adjustment of back, oak
+ - Zeta, high back chair, stepless adjustment of back, oak
+ - Zeta, high back chair, stepless adjustment of back, oak
+ - Zeta, high back chair, stepless adjustment of back, oak
+ - Zeta, high back chair, stepless adjustment of back, oak
+ - Zeta, high back chair, stepless adjustment of back, oak
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, oak
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, oak
+ - Zeta, footrest with fixed cushion, oak
+ - Zeta, footrest with fixed cushion, oak
+ - Zeta, footrest with fixed cushion, oak
+ - Zeta, footrest with fixed cushion, oak
+ - Zeta, footrest with fixed cushion, oak
+ - Zeta, footrest with fixed cushion, oak
+ - Zeta, footrest with fixed cushion, oak
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Pivot, additional removeable seat cover for Gap corner inside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside large 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside large 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside large 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside large 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside large 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside large 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner inside large 90 dgr
+ - Dapple, no buttons on the back
+ - Pivot, additional removeable seat cover for Gap inside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 90 dgr
+ - Meet, connection table small, 0 degrees, white melamine
+ - Meet, connection table large, 0 degrees, white melamine
+ - Meet, connection table, 45 degrees, white melamine
+ - Meet, connection table, 90 degrees, white melamine
+ - Meet, connection table small, 0 degrees, black melamine
+ - Meet, connection table large, 0 degrees, black melamine
+ - Meet, connection table, 45 degrees, black melamine
+ - Meet, connection table, 90 degrees, black melamine
+ - Zeta, table, corner legs, birch, H60, 50x50, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 50x50, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 50x50, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 50x50, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 60x60, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 60x60, solid wood base, HPL, birch
+ - Marin, high chair (#100), swivel
+ - Marin, high chair (#100), swivel
+ - Marin, high chair (#100), swivel
+ - Marin, high chair (#100), swivel
+ - Marin, high chair (#100), swivel
+ - Marin, high chair (#100), swivel
+ - Marin, high chair (#100), swivel
+ - Marin, high chair (#100), with gas lift and carpet sliders in hard plastic
+ - Marin, high chair (#100), with gas lift and carpet sliders in hard plastic
+ - Marin, high chair (#100), with gas lift and carpet sliders in hard plastic
+ - Marin, high chair (#100), with gas lift and carpet sliders in hard plastic
+ - Marin, high chair (#100), with gas lift and carpet sliders in hard plastic
+ - Marin, high chair (#100), with gas lift and carpet sliders in hard plastic
+ - Marin, high chair (#100), with gas lift and carpet sliders in hard plastic
+ - Marin, high chair (#200), swivel with wings
+ - Marin, high chair (#200), swivel with wings
+ - Marin, high chair (#200), swivel with wings
+ - Marin, high chair (#200), swivel with wings
+ - Marin, high chair (#200), swivel with wings
+ - Marin, high chair (#200), swivel with wings
+ - Marin, high chair (#200), swivel with wings
+ - Marin, high chair (#200), with gas lift, carpet sliders in hard plastic and wings
+ - Marin, high chair (#200), with gas lift, carpet sliders in hard plastic and wings
+ - Marin, high chair (#200), with gas lift, carpet sliders in hard plastic and wings
+ - Marin, high chair (#200), with gas lift, carpet sliders in hard plastic and wings
+ - Marin, high chair (#200), with gas lift, carpet sliders in hard plastic and wings
+ - Marin, high chair (#200), with gas lift, carpet sliders in hard plastic and wings
+ - Marin, high chair (#200), with gas lift, carpet sliders in hard plastic and wings
+ - Marin, stool with swivel
+ - Marin, stool with swivel
+ - Marin, stool with swivel
+ - Marin, stool with swivel
+ - Marin, stool with swivel
+ - Marin, stool with swivel
+ - Marin, stool with swivel
+ - Marin, addition for wheels per chair (for 1142 or 1144)
+ - Nexus, chair low back, fixed, birch
+ - Nexus, chair low back, fixed, birch
+ - Nexus, chair low back, fixed, birch
+ - Nexus, chair low back, fixed, birch
+ - Nexus, chair low back, fixed, birch
+ - Nexus, chair low back, fixed, birch
+ - Nexus, chair low back, fixed, birch
+ - Nexus, 2-seater low back, fixed, birch
+ - Nexus, 2-seater low back, fixed, birch
+ - Nexus, 2-seater low back, fixed, birch
+ - Nexus, 2-seater low back, fixed, birch
+ - Nexus, 2-seater low back, fixed, birch
+ - Nexus, 2-seater low back, fixed, birch
+ - Nexus, 2-seater low back, fixed, birch
+ - Nexus, 3-seater low back, fixed, birch
+ - Nexus, 3-seater low back, fixed, birch
+ - Nexus, 3-seater low back, fixed, birch
+ - Nexus, 3-seater low back, fixed, birch
+ - Nexus, 3-seater low back, fixed, birch
+ - Nexus, 3-seater low back, fixed, birch
+ - Nexus, 3-seater low back, fixed, birch
+ - Nexus, extra removable back cover (high, per seat)
+ - Nexus, extra removable back cover (high, per seat)
+ - Nexus, extra removable back cover (high, per seat)
+ - Nexus, extra removable back cover (high, per seat)
+ - Nexus, extra removable back cover (high, per seat)
+ - Nexus, extra removable back cover (high, per seat)
+ - Nexus, extra removable back cover (high, per seat)
+ - Nexus, chair high back, fixed, neck rest, birch
+ - Nexus, chair high back, fixed, neck rest, birch
+ - Nexus, chair high back, fixed, neck rest, birch
+ - Nexus, chair high back, fixed, neck rest, birch
+ - Nexus, chair high back, fixed, neck rest, birch
+ - Nexus, chair high back, fixed, neck rest, birch
+ - Nexus, chair high back, fixed, neck rest, birch
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable back cover (low, per seat)
+ - Nexus, extra removable back cover (low, per seat)
+ - Nexus, extra removable back cover (low, per seat)
+ - Nexus, extra removable back cover (low, per seat)
+ - Nexus, extra removable back cover (low, per seat)
+ - Nexus, extra removable back cover (low, per seat)
+ - Nexus, extra removable back cover (low, per seat)
+ - Nexus, extra removable neck rest cover
+ - Nexus, extra removable neck rest cover
+ - Nexus, extra removable neck rest cover
+ - Nexus, extra removable neck rest cover
+ - Nexus, extra removable neck rest cover
+ - Nexus, extra removable neck rest cover
+ - Nexus, extra removable neck rest cover
+ - Nexus, adjusted seating height
+ - Nexus, chair high back, tilt, neck rest, birch
+ - Nexus, chair high back, tilt, neck rest, birch
+ - Nexus, chair high back, tilt, neck rest, birch
+ - Nexus, chair high back, tilt, neck rest, birch
+ - Nexus, chair high back, tilt, neck rest, birch
+ - Nexus, chair high back, tilt, neck rest, birch
+ - Nexus, chair high back, tilt, neck rest, birch
+ - Nexus, chair high back, electric elevating, neck rest, birch
+ - Nexus, chair high back, electric elevating, neck rest, birch
+ - Nexus, chair high back, electric elevating, neck rest, birch
+ - Nexus, chair high back, electric elevating, neck rest, birch
+ - Nexus, chair high back, electric elevating, neck rest, birch
+ - Nexus, chair high back, electric elevating, neck rest, birch
+ - Nexus, chair high back, electric elevating, neck rest, birch
+ - Nexus, cushion on armrest (pair)
+ - Nexus, cushion on armrest (pair)
+ - Nexus, cushion on armrest (pair)
+ - Nexus, cushion on armrest (pair)
+ - Nexus, cushion on armrest (pair)
+ - Nexus, cushion on armrest (pair)
+ - Nexus, cushion on armrest (pair)
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, birch
+ - Zeta, table, corner legs, oak, H60, 60x60, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 60x60, solid wood base, HPL, oak
+ - Nexus, footrest with fixed cushion, birch
+ - Nexus, footrest with fixed cushion, birch
+ - Nexus, footrest with fixed cushion, birch
+ - Nexus, footrest with fixed cushion, birch
+ - Nexus, footrest with fixed cushion, birch
+ - Nexus, footrest with fixed cushion, birch
+ - Nexus, footrest with fixed cushion, birch
+ - Zeta, table, corner legs, birch, H60, 70x70, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 70x70, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 70x70, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 70x70, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 120x70, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 120x70, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 120x70, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 120x70, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 140x70, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 140x70, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 140x70, solid wood base, melamine, oak
+ - Pivot, 1,5-seater, without armrest
+ - Pivot, 1,5-seater, without armrest
+ - Pivot, 1,5-seater, without armrest
+ - Pivot, 1,5-seater, without armrest
+ - Pivot, 1,5-seater, without armrest
+ - Pivot, 1,5-seater, without armrest
+ - Pivot, 1,5-seater, without armrest
+ - Pivot, additional arc legs Ø45, bolt, powder paint Ultra shine, per pcs
+ - Pivot, additional arc legs Ø68, bolt, powder paint Ultra shine, per pcs
+ - Pivot, corner element inside large (90 degrees)
+ - Pivot, corner element inside large (90 degrees)
+ - Pivot, corner element inside large (90 degrees)
+ - Pivot, corner element inside large (90 degrees)
+ - Pivot, corner element inside large (90 degrees)
+ - Pivot, corner element inside large (90 degrees)
+ - Pivot, corner element inside large (90 degrees)
+ - Pivot, corner element outside large (90 degrees)
+ - Pivot, corner element outside large (90 degrees)
+ - Pivot, corner element outside large (90 degrees)
+ - Pivot, corner element outside large (90 degrees)
+ - Pivot, corner element outside large (90 degrees)
+ - Pivot, corner element outside large (90 degrees)
+ - Pivot, corner element outside large (90 degrees)
+ - Pivot, inside arc (90 degrees)
+ - Pivot, inside arc (90 degrees)
+ - Pivot, inside arc (90 degrees)
+ - Pivot, inside arc (90 degrees)
+ - Pivot, inside arc (90 degrees)
+ - Pivot, inside arc (90 degrees)
+ - Pivot, inside arc (90 degrees)
+ - Pivot, inside arc large (90 degrees)
+ - Pivot, inside arc large (90 degrees)
+ - Pivot, inside arc large (90 degrees)
+ - Pivot, inside arc large (90 degrees)
+ - Pivot, inside arc large (90 degrees)
+ - Pivot, inside arc large (90 degrees)
+ - Pivot, inside arc large (90 degrees)
+ - Pivot, outside arc large (90 degrees)
+ - Pivot, outside arc large (90 degrees)
+ - Pivot, outside arc large (90 degrees)
+ - Pivot, outside arc large (90 degrees)
+ - Pivot, outside arc large (90 degrees)
+ - Pivot, outside arc large (90 degrees)
+ - Pivot, outside arc large (90 degrees)
+ - Pivot, outside arc (90 degrees)
+ - Pivot, outside arc (90 degrees)
+ - Pivot, outside arc (90 degrees)
+ - Pivot, outside arc (90 degrees)
+ - Pivot, outside arc (90 degrees)
+ - Pivot, outside arc (90 degrees)
+ - Pivot, outside arc (90 degrees)
+ - Pivot, arc outside 60 dgr
+ - Pivot, arc outside 60 dgr
+ - Pivot, arc outside 60 dgr
+ - Pivot, arc outside 60 dgr
+ - Pivot, arc outside 60 dgr
+ - Pivot, arc outside 60 dgr
+ - Pivot, arc outside 60 dgr
+ - Pivot, arc inside 30 dgr
+ - Pivot, arc inside 30 dgr
+ - Pivot, arc inside 30 dgr
+ - Pivot, arc inside 30 dgr
+ - Pivot, arc inside 30 dgr
+ - Pivot, arc inside 30 dgr
+ - Pivot, arc inside 30 dgr
+ - Pivot, arc outside 30 dgr
+ - Pivot, arc outside 30 dgr
+ - Pivot, arc outside 30 dgr
+ - Pivot, arc outside 30 dgr
+ - Pivot, arc outside 30 dgr
+ - Pivot, arc outside 30 dgr
+ - Pivot, arc outside 30 dgr
+ - Pivot, chair without back
+ - Pivot, chair without back
+ - Pivot, chair without back
+ - Pivot, chair without back
+ - Pivot, chair without back
+ - Pivot, chair without back
+ - Pivot, chair without back
+ - Pivot, 2-seater without back
+ - Pivot, 2-seater without back
+ - Pivot, 2-seater without back
+ - Pivot, 2-seater without back
+ - Pivot, 2-seater without back
+ - Pivot, 2-seater without back
+ - Pivot, 2-seater without back
+ - Pivot, 3-seater without back
+ - Pivot, 3-seater without back
+ - Pivot, 3-seater without back
+ - Pivot, 3-seater without back
+ - Pivot, 3-seater without back
+ - Pivot, 3-seater without back
+ - Pivot, 3-seater without back
+ - Pivot, corner element in-/outside large (90 degrees)
+ - Pivot, corner element in-/outside large (90 degrees)
+ - Pivot, corner element in-/outside large (90 degrees)
+ - Pivot, corner element in-/outside large (90 degrees)
+ - Pivot, corner element in-/outside large (90 degrees)
+ - Pivot, corner element in-/outside large (90 degrees)
+ - Pivot, corner element in-/outside large (90 degrees)
+ - Pivot, armrest/sidewall, LSF, high, per unit
+ - Pivot, armrest/sidewall, LSF, high, per unit
+ - Pivot, armrest/sidewall, LSF, high, per unit
+ - Pivot, armrest/sidewall, LSF, high, per unit
+ - Pivot, armrest/sidewall, LSF, high, per unit
+ - Pivot, armrest/sidewall, LSF, high, per unit
+ - Pivot, armrest/sidewall, LSF, high, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, bolt legs, powder painted, Ultra shine
+ - Pivot, coupling joint, for joining freestanding elements, per pair
+ - Pivot, additional end legs, bolt, powder paint Ultra shine, per pcs
+ - Pivot, additional connection legs, bolt, powder paint Ultra shine, per pcs
+ - Pivot, tube legs, powder painted, black
+ - Pivot, leg with powder paint in other standard color per piece (additional)
+ - Pivot, customized, reduced width of straight element
+ - Pivot, customized, odd angel
+ - Pivot, customized, seating height 48 cm., per leg (additional)
+ - Zeta, table, corner legs, oak, H60, 140x70, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 80x80, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 80x80, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 80x80, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 80x80, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 120x80, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 120x80, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 120x80, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 120x80, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 140x80, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 140x80, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 140x80, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 140x80, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 90x90, solid wood base, melamine, birch
+ - Pivot Cave, extra high chair without sidewalls
+ - Pivot Cave, extra high chair without sidewalls
+ - Pivot Cave, extra high chair without sidewalls
+ - Pivot Cave, extra high chair without sidewalls
+ - Pivot Cave, extra high chair without sidewalls
+ - Pivot Cave, extra high chair without sidewalls
+ - Pivot Cave, extra high chair without sidewalls
+ - Pivot Cave, extra high 1,5-seater without sidewalls
+ - Pivot Cave, extra high 1,5-seater without sidewalls
+ - Pivot Cave, extra high 1,5-seater without sidewalls
+ - Pivot Cave, extra high 1,5-seater without sidewalls
+ - Pivot Cave, extra high 1,5-seater without sidewalls
+ - Pivot Cave, extra high 1,5-seater without sidewalls
+ - Pivot Cave, extra high 1,5-seater without sidewalls
+ - Pivot Cave, extra high 2-seater without sidewalls
+ - Pivot Cave, extra high 2-seater without sidewalls
+ - Pivot Cave, extra high 2-seater without sidewalls
+ - Pivot Cave, extra high 2-seater without sidewalls
+ - Pivot Cave, extra high 2-seater without sidewalls
+ - Pivot Cave, extra high 2-seater without sidewalls
+ - Pivot Cave, extra high 2-seater without sidewalls
+ - Pivot Cave, extra high 3-seater without sidewalls
+ - Pivot Cave, extra high 3-seater without sidewalls
+ - Pivot Cave, extra high 3-seater without sidewalls
+ - Pivot Cave, extra high 3-seater without sidewalls
+ - Pivot Cave, extra high 3-seater without sidewalls
+ - Pivot Cave, extra high 3-seater without sidewalls
+ - Pivot Cave, extra high 3-seater without sidewalls
+ - Pivot Cave, extra high corner element inside 90 dgr, without sidewalls
+ - Pivot Cave, extra high corner element inside 90 dgr, without sidewalls
+ - Pivot Cave, extra high corner element inside 90 dgr, without sidewalls
+ - Pivot Cave, extra high corner element inside 90 dgr, without sidewalls
+ - Pivot Cave, extra high corner element inside 90 dgr, without sidewalls
+ - Pivot Cave, extra high corner element inside 90 dgr, without sidewalls
+ - Pivot Cave, extra high corner element inside 90 dgr, without sidewalls
+ - Pivot Cave, extra high corner element inside large 90 dgr
+ - Pivot Cave, extra high corner element inside large 90 dgr
+ - Pivot Cave, extra high corner element inside large 90 dgr
+ - Pivot Cave, extra high corner element inside large 90 dgr
+ - Pivot Cave, extra high corner element inside large 90 dgr
+ - Pivot Cave, extra high corner element inside large 90 dgr
+ - Pivot Cave, extra high corner element inside large 90 dgr
+ - Meet, addition for other color on steel parts, per unit
+ - Pivot, corner element outside (90 degrees)
+ - Pivot, corner element outside (90 degrees)
+ - Pivot, corner element outside (90 degrees)
+ - Pivot, corner element outside (90 degrees)
+ - Pivot, corner element outside (90 degrees)
+ - Pivot, corner element outside (90 degrees)
+ - Pivot, corner element outside (90 degrees)
+ - Pivot Cave, extra high sidewall LSF, per unit
+ - Pivot Cave, extra high sidewall LSF, per unit
+ - Pivot Cave, extra high sidewall LSF, per unit
+ - Pivot Cave, extra high sidewall LSF, per unit
+ - Pivot Cave, extra high sidewall LSF, per unit
+ - Pivot Cave, extra high sidewall LSF, per unit
+ - Pivot Cave, extra high sidewall LSF, per unit
+ - Pivot Cave, extra high sidewall LSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall LSF, C-shape, per unit
+ - Pivot Cave, end plate 3 cm LSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm LSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm LSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm LSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm LSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm LSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm LSF, when no armrest, per unit
+ - Pivot Cave, customized, reduced width of straight element
+ - Pivot Cave, customized, odd angel
+ - Zeta, table, corner legs, birch, H60, 90x90, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 90x90, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 90x90, solid wood base, HPL, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, birch
+ - Zeta, table, corner legs, birch, H60, Ø60, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, Ø60, solid wood base, HPL, birch
+ - Nexus, large forward oriented wheels for front legs for chair with wheels, per pair
+ - Nexus, removable armrest for high-backed chair (one side)
+ - Nexus, footrest for high-backed chair with wheels
+ - Nexus, height adjustable legs
+ - Zeta, table, corner legs, oak, H60, Ø60, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, Ø60, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, Ø70, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, Ø70, solid wood base, HPL, birch
+ - Pivot, 1.5-seater without back
+ - Pivot, 1.5-seater without back
+ - Pivot, 1.5-seater without back
+ - Pivot, 1.5-seater without back
+ - Pivot, 1.5-seater without back
+ - Pivot, 1.5-seater without back
+ - Pivot, 1.5-seater without back
+ - Zeta, table, corner legs, oak, H60, Ø70, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, Ø70, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, Ø90, solid wood base, melamine, birch
+ - Pivot, in-/outside arc (90 degrees) without back
+ - Pivot, in-/outside arc (90 degrees) without back
+ - Pivot, in-/outside arc (90 degrees) without back
+ - Pivot, in-/outside arc (90 degrees) without back
+ - Pivot, in-/outside arc (90 degrees) without back
+ - Pivot, in-/outside arc (90 degrees) without back
+ - Pivot, in-/outside arc (90 degrees) without back
+ - Pivot, in-/outside arc (60 degrees) without back
+ - Pivot, in-/outside arc (60 degrees) without back
+ - Pivot, in-/outside arc (60 degrees) without back
+ - Pivot, in-/outside arc (60 degrees) without back
+ - Pivot, in-/outside arc (60 degrees) without back
+ - Pivot, in-/outside arc (60 degrees) without back
+ - Pivot, in-/outside arc (60 degrees) without back
+ - Pivot, in-/outside arc (30 degrees) without back
+ - Pivot, in-/outside arc (30 degrees) without back
+ - Pivot, in-/outside arc (30 degrees) without back
+ - Pivot, in-/outside arc (30 degrees) without back
+ - Pivot, in-/outside arc (30 degrees) without back
+ - Pivot, in-/outside arc (30 degrees) without back
+ - Pivot, in-/outside arc (30 degrees) without back
+ - Zeta, table, corner legs, birch, H60, Ø90, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, Ø90, solid wood base, melamine, oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), birch
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), birch
+ - Pivot, rest bench without back (three legs)
+ - Pivot, rest bench without back (three legs)
+ - Pivot, rest bench without back (three legs)
+ - Pivot, rest bench without back (three legs)
+ - Pivot, rest bench without back (three legs)
+ - Pivot, rest bench without back (three legs)
+ - Pivot, rest bench without back (three legs)
+ - Pivot, diamond-shape
+ - Pivot, diamond-shape
+ - Pivot, diamond-shape
+ - Pivot, diamond-shape
+ - Pivot, diamond-shape
+ - Pivot, diamond-shape
+ - Pivot, diamond-shape
+ - Zeta, table, corner legs, oak, H60, Ø90, solid wood base, HPL, oak
+ - Pivot, 1-seater, armrest both sides, low 8 cm
+ - Pivot, 1-seater, armrest both sides, low 8 cm
+ - Pivot, 1-seater, armrest both sides, low 8 cm
+ - Pivot, 1-seater, armrest both sides, low 8 cm
+ - Pivot, 1-seater, armrest both sides, low 8 cm
+ - Pivot, 1-seater, armrest both sides, low 8 cm
+ - Pivot, 1-seater, armrest both sides, low 8 cm
+ - Pivot, 2-seater, armrest both sides, low 8 cm
+ - Pivot, 2-seater, armrest both sides, low 8 cm
+ - Pivot, 2-seater, armrest both sides, low 8 cm
+ - Pivot, 2-seater, armrest both sides, low 8 cm
+ - Pivot, 2-seater, armrest both sides, low 8 cm
+ - Pivot, 2-seater, armrest both sides, low 8 cm
+ - Pivot, 2-seater, armrest both sides, low 8 cm
+ - Santana, chair, LSF narrow armrest and RSF narrow armrest
+ - Santana, chair, LSF narrow armrest and RSF narrow armrest
+ - Santana, chair, LSF narrow armrest and RSF narrow armrest
+ - Santana, chair, LSF narrow armrest and RSF narrow armrest
+ - Santana, chair, LSF narrow armrest and RSF narrow armrest
+ - Santana, chair, LSF narrow armrest and RSF narrow armrest
+ - Santana, chair, LSF narrow armrest and RSF narrow armrest
+ - Santana, chair, LSF wide armrest and RSF wide armrest
+ - Santana, chair, LSF wide armrest and RSF wide armrest
+ - Santana, chair, LSF wide armrest and RSF wide armrest
+ - Santana, chair, LSF wide armrest and RSF wide armrest
+ - Santana, chair, LSF wide armrest and RSF wide armrest
+ - Santana, chair, LSF wide armrest and RSF wide armrest
+ - Santana, chair, LSF wide armrest and RSF wide armrest
+ - Santana, 2-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 2-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 2-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 2-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 2-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 2-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 2-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 3-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 3-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 3-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 3-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 3-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 3-seater, LSF wide armrest and RSF wide armrest
+ - Santana, 3-seater, LSF wide armrest and RSF wide armrest
+ - Santana, chair , LSF without armrest and RSF without armrest (51 cm.) (insert unit, no legs)
+ - Santana, chair , LSF without armrest and RSF without armrest (51 cm.) (insert unit, no legs)
+ - Santana, chair , LSF without armrest and RSF without armrest (51 cm.) (insert unit, no legs)
+ - Santana, chair , LSF without armrest and RSF without armrest (51 cm.) (insert unit, no legs)
+ - Santana, chair , LSF without armrest and RSF without armrest (51 cm.) (insert unit, no legs)
+ - Santana, chair , LSF without armrest and RSF without armrest (51 cm.) (insert unit, no legs)
+ - Santana, chair , LSF without armrest and RSF without armrest (51 cm.) (insert unit, no legs)
+ - Santana, 2-seater , LSF without armrest and RSF without armrest (102 cm.) (insert unit, no legs)
+ - Santana, 2-seater , LSF without armrest and RSF without armrest (102 cm.) (insert unit, no legs)
+ - Santana, 2-seater , LSF without armrest and RSF without armrest (102 cm.) (insert unit, no legs)
+ - Santana, 2-seater , LSF without armrest and RSF without armrest (102 cm.) (insert unit, no legs)
+ - Santana, 2-seater , LSF without armrest and RSF without armrest (102 cm.) (insert unit, no legs)
+ - Santana, 2-seater , LSF without armrest and RSF without armrest (102 cm.) (insert unit, no legs)
+ - Santana, 2-seater , LSF without armrest and RSF without armrest (102 cm.) (insert unit, no legs)
+ - Santana, 3-seater , LSF without armrest and RSF without armrest (153 cm.) (insert unit, no legs)
+ - Santana, 3-seater , LSF without armrest and RSF without armrest (153 cm.) (insert unit, no legs)
+ - Santana, 3-seater , LSF without armrest and RSF without armrest (153 cm.) (insert unit, no legs)
+ - Santana, 3-seater , LSF without armrest and RSF without armrest (153 cm.) (insert unit, no legs)
+ - Santana, 3-seater , LSF without armrest and RSF without armrest (153 cm.) (insert unit, no legs)
+ - Santana, 3-seater , LSF without armrest and RSF without armrest (153 cm.) (insert unit, no legs)
+ - Santana, 3-seater , LSF without armrest and RSF without armrest (153 cm.) (insert unit, no legs)
+ - Santana, 2.5-seater sleeping sofa with wide armrest (matress: 7x130x185)
+ - Santana, 2.5-seater sleeping sofa with wide armrest (matress: 7x130x185)
+ - Santana, 2.5-seater sleeping sofa with wide armrest (matress: 7x130x185)
+ - Santana, 2.5-seater sleeping sofa with wide armrest (matress: 7x130x185)
+ - Santana, 2.5-seater sleeping sofa with wide armrest (matress: 7x130x185)
+ - Santana, 2.5-seater sleeping sofa with wide armrest (matress: 7x130x185)
+ - Santana, 2.5-seater sleeping sofa with wide armrest (matress: 7x130x185)
+ - Santana, corner element 90 dgr, incl. legs
+ - Santana, corner element 90 dgr, incl. legs
+ - Santana, corner element 90 dgr, incl. legs
+ - Santana, corner element 90 dgr, incl. legs
+ - Santana, corner element 90 dgr, incl. legs
+ - Santana, corner element 90 dgr, incl. legs
+ - Santana, corner element 90 dgr, incl. legs
+ - Santana, arc 90 dgr, incl. legs
+ - Santana, arc 90 dgr, incl. legs
+ - Santana, arc 90 dgr, incl. legs
+ - Santana, arc 90 dgr, incl. legs
+ - Santana, arc 90 dgr, incl. legs
+ - Santana, arc 90 dgr, incl. legs
+ - Santana, arc 90 dgr, incl. legs
+ - Santana, armrest LSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest LSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest LSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest LSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest LSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest LSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest LSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest LSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest LSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest LSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest LSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest LSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest LSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest LSF wide 12 cm with legs, 1 pcs
+ - Santana, end plate LSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate LSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate LSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate LSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate LSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate LSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate LSF 3 cm with connection legs, 1 pcs
+ - Santana, connection legs per pair for joints
+ - Santana, armrest protection per pair
+ - Santana, armrest protection per pair
+ - Santana, armrest protection per pair
+ - Santana, armrest protection per pair
+ - Santana, armrest protection per pair
+ - Santana, armrest protection per pair
+ - Santana, armrest protection per pair
+ - Santana, covered end for end without armrest, with legs, per end
+ - Santana, covered end for end without armrest, with legs, per end
+ - Santana, covered end for end without armrest, with legs, per end
+ - Santana, covered end for end without armrest, with legs, per end
+ - Santana, covered end for end without armrest, with legs, per end
+ - Santana, covered end for end without armrest, with legs, per end
+ - Santana, covered end for end without armrest, with legs, per end
+ - Santana, customized, additional seating height +4 cm., per pair legs
+ - Santana, separate seat cushions, per seat (not arc)
+ - Santana, separate seat cushions, per seat (not arc)
+ - Santana, separate seat cushions, per seat (not arc)
+ - Santana, separate seat cushions, per seat (not arc)
+ - Santana, separate seat cushions, per seat (not arc)
+ - Santana, separate seat cushions, per seat (not arc)
+ - Santana, separate seat cushions, per seat (not arc)
+ - Santana, separate seat cushions and incontinence sheet, per seat (not arc)
+ - Santana, separate seat cushions and incontinence sheet, per seat (not arc)
+ - Santana, separate seat cushions and incontinence sheet, per seat (not arc)
+ - Santana, separate seat cushions and incontinence sheet, per seat (not arc)
+ - Santana, separate seat cushions and incontinence sheet, per seat (not arc)
+ - Santana, separate seat cushions and incontinence sheet, per seat (not arc)
+ - Santana, separate seat cushions and incontinence sheet, per seat (not arc)
+ - Santana, extra square wooden legs, birch, laquered
+ - Santana, extra square wooden legs, oak, laquered
+ - Santana, reduced width of straight element
+ - Santana, special arcs
+ - Zeta, table, corner legs, birch, H60, Ø110, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, Ø110, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, Ø110, solid wood base, melamine, oak
+ - Santana, arc 60 degree stool
+ - Santana, arc 60 degree stool
+ - Santana, arc 60 degree stool
+ - Santana, arc 60 degree stool
+ - Santana, arc 60 degree stool
+ - Santana, arc 60 degree stool
+ - Santana, arc 60 degree stool
+ - Santana, arc 20 degree stool
+ - Santana, arc 20 degree stool
+ - Santana, arc 20 degree stool
+ - Santana, arc 20 degree stool
+ - Santana, arc 20 degree stool
+ - Santana, arc 20 degree stool
+ - Santana, arc 20 degree stool
+ - Santana, wheels, per unit (4 wheels)
+ - Zeta, table, corner legs, oak, H60, Ø110, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 65 x 65 rounded, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H60, 65 x 65 rounded, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 65 x 65 rounded, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 65 x 65 rounded, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H60, 120 x 70 rounded, solid wood base, melamine, birch
+ - Pivot, additional support legs, bolt, powder paint Ultra shine, per pcs
+ - Zeta, table, corner legs, birch, H60, 120 x 70 rounded, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H60, 120 x 70 rounded, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H60, 120 x 70 rounded, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 60x60, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 60x60, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 60x60, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 60x60, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 70x70, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 70x70, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 70x70, solid wood base, melamine, oak
+ - Santana, extra cover for loose seat cushions
+ - Santana, extra cover for loose seat cushions
+ - Santana, extra cover for loose seat cushions
+ - Santana, extra cover for loose seat cushions
+ - Santana, extra cover for loose seat cushions
+ - Santana, extra cover for loose seat cushions
+ - Santana, extra cover for loose seat cushions
+ - Zeta, table, corner legs, oak, H75, 70x70, solid wood base, HPL, oak
+ - Annet, top pillow 2 cm 40x40 cm
+ - Annet, top pillow 2 cm 40x40 cm
+ - Annet, top pillow 2 cm 40x40 cm
+ - Annet, top pillow 2 cm 40x40 cm
+ - Annet, top pillow 2 cm 40x40 cm
+ - Annet, top pillow 2 cm 40x40 cm
+ - Annet, top pillow 2 cm 40x40 cm
+ - Zeta, table, corner legs, birch, H75, 120x70, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 120x70, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 120x70, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 120x70, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 140x70, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 140x70, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 140x70, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 140x70, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 80x80, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 80x80, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 80x80, solid wood base, melamine, oak
+ - Nexus, extra removable cover for footrest
+ - Nexus, extra removable cover for footrest
+ - Nexus, extra removable cover for footrest
+ - Nexus, extra removable cover for footrest
+ - Nexus, extra removable cover for footrest
+ - Nexus, extra removable cover for footrest
+ - Nexus, extra removable cover for footrest
+ - Pivot, 3-seater, armrest both sides, low 8 cm
+ - Pivot, 3-seater, armrest both sides, low 8 cm
+ - Pivot, 3-seater, armrest both sides, low 8 cm
+ - Pivot, 3-seater, armrest both sides, low 8 cm
+ - Pivot, 3-seater, armrest both sides, low 8 cm
+ - Pivot, 3-seater, armrest both sides, low 8 cm
+ - Pivot, 3-seater, armrest both sides, low 8 cm
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 8 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 8 cm, bolt legs
+ - Zeta, table, corner legs, oak, H75, 80x80, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 120x80, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 120x80, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 120x80, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 120x80, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 140x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 50x50, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 60x60, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 70x70, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 120x70, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 140x70, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 80x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 120x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 140x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 90x90, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, Ø60, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, Ø70, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, Ø90, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, Ø110, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 65 x 65 rounded, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 120 x 70 rounded, solid wood base, HPL, birch
+ - Lip, table, corner legs, birch, H60, 50x50, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 60x60, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 70x70, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 120x70, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 140x70, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 80x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 120x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 140x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 90x90, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, Ø60, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, Ø70, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, Ø90, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, Ø110, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 65 x 65 rounded, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 120 x 70 rounded, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 140x80, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 140x80, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 140x80, solid wood base, HPL, oak
+ - Lip, addition for adjustment for lower/higher height, per unit
+ - Lip, rail joint for suspension table, per set
+ - Lip, locking clips, per piece
+ - Zeta, table, corner legs, birch, H75, 180x80, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 180x80, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 180x80, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 180x80, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 90x90, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 90x90, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 90x90, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 90x90, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 120x90, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 120x90, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 120x90, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 120x90, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 140x90, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 140x90, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 140x90, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 140x90, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 180x90, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 180x90, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 180x90, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 180x90, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, Ø60, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, Ø60, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H60, 50x50, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 60x60, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 70x70, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 120x70, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 140x70, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 80x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 120x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 140x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 90x90, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, Ø60, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, Ø70, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, Ø90, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, Ø110, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 65 x 65 rounded, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 120 x 70 rounded, solid wood base, HPL, oak
+ - Lip, table, corner legs, oak, H60, 50x50, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 60x60, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 70x70, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 120x70, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 140x70, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 80x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 120x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 140x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 90x90, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, Ø60, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, Ø70, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, Ø90, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, Ø110, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 65 x 65 rounded, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 120 x 70 rounded, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, Ø60, solid wood base, melamine, oak
+ - Pivot Cave, extra high chair with extra high sidewalls
+ - Pivot Cave, extra high chair with extra high sidewalls
+ - Pivot Cave, extra high chair with extra high sidewalls
+ - Pivot Cave, extra high chair with extra high sidewalls
+ - Pivot Cave, extra high chair with extra high sidewalls
+ - Pivot Cave, extra high chair with extra high sidewalls
+ - Pivot Cave, extra high chair with extra high sidewalls
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls
+ - Pivot Cave, extra high 2-seater with extra high sidewalls
+ - Pivot Cave, extra high 2-seater with extra high sidewalls
+ - Pivot Cave, extra high 2-seater with extra high sidewalls
+ - Pivot Cave, extra high 2-seater with extra high sidewalls
+ - Pivot Cave, extra high 2-seater with extra high sidewalls
+ - Pivot Cave, extra high 2-seater with extra high sidewalls
+ - Pivot Cave, extra high 2-seater with extra high sidewalls
+ - Nexus, table, corner legs, birch, H60, 50x50, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H60, 60x60, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H60, 70x70, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H60, 120x70, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H60, 140x70, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H60, 80x80, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H60, 120x80, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H60, 140x80, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H60, 90x90, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, Ø60, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, Ø70, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, Ø70, solid wood base, HPL, birch
+ - Nexus, table, corner legs, oak, H60, 50x50, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H60, 60x60, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H60, 70x70, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H60, 120x70, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H60, 140x70, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H60, 80x80, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H60, 120x80, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H60, 140x80, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H60, 90x90, solid wood base, HPL, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, birch
+ - Nexus, max chair high back, fixed, neck rest, birch
+ - Nexus, max chair high back, fixed, neck rest, birch
+ - Nexus, max chair high back, fixed, neck rest, birch
+ - Nexus, max chair high back, fixed, neck rest, birch
+ - Nexus, max chair high back, fixed, neck rest, birch
+ - Nexus, max chair high back, fixed, neck rest, birch
+ - Nexus, max chair high back, fixed, neck rest, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, birch
+ - Nexus, max extra removable seat cover (per seat)
+ - Nexus, max extra removable seat cover (per seat)
+ - Nexus, max extra removable seat cover (per seat)
+ - Nexus, max extra removable seat cover (per seat)
+ - Nexus, max extra removable seat cover (per seat)
+ - Nexus, max extra removable seat cover (per seat)
+ - Nexus, max extra removable seat cover (per seat)
+ - Nexus, max extra removable back cover (high, per seat)
+ - Nexus, max extra removable back cover (high, per seat)
+ - Nexus, max extra removable back cover (high, per seat)
+ - Nexus, max extra removable back cover (high, per seat)
+ - Nexus, max extra removable back cover (high, per seat)
+ - Nexus, max extra removable back cover (high, per seat)
+ - Nexus, max extra removable back cover (high, per seat)
+ - Pivot, connection sidewall (low) between two frames
+ - Pivot, connection sidewall (low) between two frames
+ - Pivot, connection sidewall (low) between two frames
+ - Pivot, connection sidewall (low) between two frames
+ - Pivot, connection sidewall (low) between two frames
+ - Pivot, connection sidewall (low) between two frames
+ - Pivot, connection sidewall (low) between two frames
+ - Zeta, table, corner legs, birch, H75, Ø90, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, Ø90, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, Ø90, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, Ø90, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, Ø110, solid wood base, melamine, birch
+ - Pivot, table, cube, birch, H43,5, 65x65, HPL, birch
+ - Pivot, table, cube, birch, H43,5, 65x65, melamine, birch
+ - Pivot, table, cube, oak, H43,5, 65x65, HPL, oak
+ - Pivot, table, cube, oak, H43,5, 65x65, melamine, oak
+ - Pivot, table, cube, birch, H43,5, 130x65, HPL, birch
+ - Pivot, table, cube, birch, H43,5, 130x65, melamine, birch
+ - Pivot, table, cube, oak, H43,5, 130x65, HPL, oak
+ - Pivot, table, cube, oak, H43,5, 130x65, melamine, oak
+ - Pivot, table, cube, birch, H43,5, Ø68, HPL, birch
+ - Pivot, table, cube, birch, H43,5, Ø68, melamine, birch
+ - Pivot, table, cube, oak, H43,5, Ø68, HPL, oak
+ - Pivot, table, cube, oak, H43,5, Ø68, melamine, oak
+ - Zeta, table, corner legs, birch, H75, Ø110, solid wood base, HPL, birch
+ - Pivot, chaiselonge
+ - Pivot, chaiselonge
+ - Pivot, chaiselonge
+ - Pivot, chaiselonge
+ - Pivot, chaiselonge
+ - Pivot, chaiselonge
+ - Pivot, chaiselonge
+ - Pivot, end piece, D-shape
+ - Pivot, end piece, D-shape
+ - Pivot, end piece, D-shape
+ - Pivot, end piece, D-shape
+ - Pivot, end piece, D-shape
+ - Pivot, end piece, D-shape
+ - Pivot, end piece, D-shape
+ - Zeta, table, corner legs, oak, H75, Ø110, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, Ø110, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, Ø120, solid wood base, melamine, birch
+ - Pivot Cave, extra high 3-seater with extra high sidewalls
+ - Pivot Cave, extra high 3-seater with extra high sidewalls
+ - Pivot Cave, extra high 3-seater with extra high sidewalls
+ - Pivot Cave, extra high 3-seater with extra high sidewalls
+ - Pivot Cave, extra high 3-seater with extra high sidewalls
+ - Pivot Cave, extra high 3-seater with extra high sidewalls
+ - Pivot Cave, extra high 3-seater with extra high sidewalls
+ - Pivot Cave, extra high 3-seater + corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + corner + 2-seater with extra high armrests (connected)
+ - Pivot Cave, extra high 3-seater + corner + 2-seater with extra high armrests (connected)
+ - Santana, modular sofa 3-seater + 2-seater with wide armrests (2 units)
+ - Santana, modular sofa 3-seater + 2-seater with wide armrests (2 units)
+ - Santana, modular sofa 3-seater + 2-seater with wide armrests (2 units)
+ - Santana, modular sofa 3-seater + 2-seater with wide armrests (2 units)
+ - Santana, modular sofa 3-seater + 2-seater with wide armrests (2 units)
+ - Santana, modular sofa 3-seater + 2-seater with wide armrests (2 units)
+ - Santana, modular sofa 3-seater + 2-seater with wide armrests (2 units)
+ - Santana, modular sofa 3-seater + 1-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 1-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 1-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 1-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 1-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 1-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 1-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 2-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 2-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 2-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 2-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 2-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 2-seater + 1-seater with wide armrests (3 units)
+ - Santana, modular sofa 3-seater + 2-seater + 1-seater with wide armrests (3 units)
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Zeta, table, corner legs, birch, H75, Ø120, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, Ø120, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, Ø120, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 1/2 1/2 Ø120, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 1/2 Ø120, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 1/2 Ø120, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 1/2 Ø120, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 1/2 1/2 Ø140, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 1/2 Ø140, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 1/2 Ø140, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 1/2 Ø140, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 65 x 65 rounded, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 65 x 65 rounded, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 65 x 65 rounded, solid wood base, melamine, oak
+ - Annet, chair trolley
+ - Zeta, table, corner legs, oak, H75, 65 x 65 rounded, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 120 x 70 rounded, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 120 x 70 rounded, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 120 x 70 rounded, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 120 x 70 rounded, solid wood base, HPL, oak
+ - Zeta, table, corner legs, birch, H75, 200 x 90 arc, solid wood base, melamine, birch
+ - Zeta, table, corner legs, birch, H75, 200 x 90 arc, solid wood base, HPL, birch
+ - Zeta, table, corner legs, oak, H75, 200 x 90 arc, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, 200 x 90 arc, solid wood base, HPL, oak
+ - Pivot, laptop table, white, 50x25x35, melamine, white
+ - Pivot, addition for incontience sheet for 1- and 1,5-seater, per pcs.
+ - Pivot, addition for incontience sheet for 2-seater, corner and arc 30 dgr, per pcs.
+ - Pivot, addition for incontience sheet for 3-seater, arc 60 dgr and 90 dgr, per pcs.
+ - Zeta, extra removable neck rest cover
+ - Zeta, extra removable neck rest cover
+ - Zeta, extra removable neck rest cover
+ - Zeta, extra removable neck rest cover
+ - Zeta, extra removable neck rest cover
+ - Zeta, extra removable neck rest cover
+ - Zeta, extra removable neck rest cover
+ - Nexus, dining chair without armrest, birch
+ - Nexus, dining chair without armrest, birch
+ - Nexus, dining chair without armrest, birch
+ - Nexus, dining chair without armrest, birch
+ - Nexus, dining chair without armrest, birch
+ - Nexus, dining chair without armrest, birch
+ - Nexus, dining chair without armrest, birch
+ - Nexus, dining chair with armrest, birch
+ - Nexus, dining chair with armrest, birch
+ - Nexus, dining chair with armrest, birch
+ - Nexus, dining chair with armrest, birch
+ - Nexus, dining chair with armrest, birch
+ - Nexus, dining chair with armrest, birch
+ - Nexus, dining chair with armrest, birch
+ - Nexus, multi dining chair with armrest, birch
+ - Nexus, multi dining chair with armrest, birch
+ - Nexus, multi dining chair with armrest, birch
+ - Nexus, multi dining chair with armrest, birch
+ - Nexus, multi dining chair with armrest, birch
+ - Nexus, multi dining chair with armrest, birch
+ - Nexus, multi dining chair with armrest, birch
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, removable back cover (per seat)
+ - Nexus, removable back cover (per seat)
+ - Nexus, removable back cover (per seat)
+ - Nexus, removable back cover (per seat)
+ - Nexus, removable back cover (per seat)
+ - Nexus, removable back cover (per seat)
+ - Nexus, removable back cover (per seat)
+ - Nexus, dining chair with armrest, upholstred back, oak
+ - Nexus, dining chair with armrest, upholstred back, oak
+ - Nexus, dining chair with armrest, upholstred back, oak
+ - Nexus, dining chair with armrest, upholstred back, oak
+ - Nexus, dining chair with armrest, upholstred back, oak
+ - Nexus, dining chair with armrest, upholstred back, oak
+ - Nexus, dining chair with armrest, upholstred back, oak
+ - Dapple, chair
+ - Dapple, chair
+ - Dapple, chair
+ - Dapple, chair
+ - Dapple, chair
+ - Dapple, chair
+ - Dapple, chair
+ - Dapple, 2-seater
+ - Dapple, 2-seater
+ - Dapple, 2-seater
+ - Dapple, 2-seater
+ - Dapple, 2-seater
+ - Dapple, 2-seater
+ - Dapple, 2-seater
+ - Dapple, 3-seater
+ - Dapple, 3-seater
+ - Dapple, 3-seater
+ - Dapple, 3-seater
+ - Dapple, 3-seater
+ - Dapple, 3-seater
+ - Dapple, 3-seater
+ - Dapple, bench, 2-seater
+ - Dapple, bench, 2-seater
+ - Dapple, bench, 2-seater
+ - Dapple, bench, 2-seater
+ - Dapple, bench, 2-seater
+ - Dapple, bench, 2-seater
+ - Dapple, bench, 2-seater
+ - Dapple, table H46, Ø60, oak veneer with oak dots, oak
+ - Nexus, dining chair with armrest, upholstred back, birch
+ - Nexus, dining chair with armrest, upholstred back, birch
+ - Nexus, dining chair with armrest, upholstred back, birch
+ - Nexus, dining chair with armrest, upholstred back, birch
+ - Nexus, dining chair with armrest, upholstred back, birch
+ - Nexus, dining chair with armrest, upholstred back, birch
+ - Nexus, dining chair with armrest, upholstred back, birch
+ - Dapple, table H41, 80x55, oak veneer with oak dots, oak
+ - Dapple, addition for other color on steel parts per unit
+ - Lip, addition for rounded corners, per unit
+ - Pivot Cave, extra high sidewall RSF, per unit
+ - Pivot Cave, extra high sidewall RSF, per unit
+ - Pivot Cave, extra high sidewall RSF, per unit
+ - Pivot Cave, extra high sidewall RSF, per unit
+ - Pivot Cave, extra high sidewall RSF, per unit
+ - Pivot Cave, extra high sidewall RSF, per unit
+ - Pivot Cave, extra high sidewall RSF, per unit
+ - Pivot Cave, extra high sidewall RSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, L-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, C-shape, per unit
+ - Pivot Cave, extra high sidewall RSF, C-shape, per unit
+ - Pivot Cave, end plate 3 cm RSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm RSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm RSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm RSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm RSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm RSF, when no armrest, per unit
+ - Pivot Cave, end plate 3 cm RSF, when no armrest, per unit
+ - Zeta, addition for rounded corners, per unit
+ - Zeta, addition for adjustment for lower/higher height, per unit
+ - Pivot, laptop table, birch, 50x25x35, melamine, birch
+ - Pivot, laptop table, oak, 50x25x35, melamine, oak
+ - Zeta, table, corner legs, oak, H75, Ø70, solid wood base, melamine, oak
+ - Zeta, table, corner legs, oak, H75, Ø70, solid wood base, HPL, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Santana, 2-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF narrow armrest
+ - Zeta, extra removable seat cover
+ - Zeta, extra removable seat cover
+ - Zeta, extra removable seat cover
+ - Zeta, extra removable seat cover
+ - Zeta, extra removable seat cover
+ - Zeta, extra removable seat cover
+ - Zeta, extra removable seat cover
+ - Zeta, extra back pillow
+ - Zeta, extra back pillow
+ - Zeta, extra back pillow
+ - Zeta, extra back pillow
+ - Zeta, extra back pillow
+ - Zeta, extra back pillow
+ - Zeta, extra back pillow
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Pivot, adjustment fro removable seat cover for 1- and 1,5-seater, per pcs
+ - Pivot, additional removeable seat cover for Gap 1-seater
+ - Pivot, additional removeable seat cover for Gap 1-seater
+ - Pivot, additional removeable seat cover for Gap 1-seater
+ - Pivot, additional removeable seat cover for Gap 1-seater
+ - Pivot, additional removeable seat cover for Gap 1-seater
+ - Pivot, additional removeable seat cover for Gap 1-seater
+ - Pivot, additional removeable seat cover for Gap 1-seater
+ - Pivot, additional removeable seat cover for Gap 3-seater
+ - Pivot, additional removeable seat cover for Gap 3-seater
+ - Pivot, additional removeable seat cover for Gap 3-seater
+ - Pivot, additional removeable seat cover for Gap 3-seater
+ - Pivot, additional removeable seat cover for Gap 3-seater
+ - Pivot, additional removeable seat cover for Gap 3-seater
+ - Pivot, additional removeable seat cover for Gap 3-seater
+ - Pivot, additional removeable seat cover for Gap corner outside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner outside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner outside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner outside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner outside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner outside 90 dgr
+ - Pivot, additional removeable seat cover for Gap corner outside 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc large 90 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap inside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Pivot, additional removeable seat cover for Gap outside arc 60 dgr
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Dapple, bench, 1-seater
+ - Dapple, bench, 1-seater
+ - Dapple, bench, 1-seater
+ - Dapple, bench, 1-seater
+ - Dapple, bench, 1-seater
+ - Dapple, bench, 1-seater
+ - Dapple, bench, 1-seater
+ - Dapple, bench, 3-seater
+ - Dapple, bench, 3-seater
+ - Dapple, bench, 3-seater
+ - Dapple, bench, 3-seater
+ - Dapple, bench, 3-seater
+ - Dapple, bench, 3-seater
+ - Dapple, bench, 3-seater
+ - Dapple, buttons in other color than the back per back
+ - Dapple, buttons in other color than the back per back
+ - Dapple, buttons in other color than the back per back
+ - Dapple, buttons in other color than the back per back
+ - Dapple, buttons in other color than the back per back
+ - Dapple, buttons in other color than the back per back
+ - Dapple, buttons in other color than the back per back
+ - Pivot, laptop table, birch, 50x25x35, HPL, birch
+ - Pivot, laptop table, oak, 50x25x35, HPL, oak
+ - Pivot, laptop table, white, 50x25x35, HPL, white
+ - Nexus, max dining chair with armrest, birch
+ - Nexus, max dining chair with armrest, birch
+ - Nexus, max dining chair with armrest, birch
+ - Nexus, max dining chair with armrest, birch
+ - Nexus, max dining chair with armrest, birch
+ - Nexus, max dining chair with armrest, birch
+ - Nexus, max dining chair with armrest, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Dapple, cabinet medium 75x110x51, with 2 sliding doors, oak melamine, oak
+ - Dapple, cabinet large 75x160x51, with 2 sliding doors, oak melamine, oak
+ - Dapple, cabinet medium 105x110x51, with 1 sliding door, oak melamine, oak
+ - Dapple, additional shelf for cabinet medium per shelf, oak melamine, oak
+ - Dapple, additional shelf for cabinet large per shelf, oak melamine, oak
+ - Dapple, coat stand, black powder paint, black
+ - Dapple, table H46, Ø60, oak melamine single color, oak
+ - Dapple, table H41, 80x55, oak melamine single color, oak
+ - Dapple, cabinet medium 75x110x51, with 2 sliding doors, white melamine, white
+ - Dapple, cabinet large 75x160x51, with 2 sliding doors, white melamine, white
+ - Dapple, cabinet medium 105x110x51, with 1 sliding door, white melamine, white
+ - Dapple, additional shelf for cabinet medium per shelf, white melamine, white
+ - Dapple, additional shelf for cabinet large per shelf, white melamine, white
+ - Soft, light for upper cabinet with glass doors
+ - Pivot, table, cube, white, H43,5, 65x65, melamine, black
+ - Pivot, table, cube, white, H43,5, 130x65, melamine, black
+ - Pivot, table, cube, white, H43,5, Ø68, melamine, black
+ - Pivot, table, cube, white, H43,5, 65x65, HPL, black
+ - Pivot, table, cube, white, H43,5, 130x65, HPL, black
+ - Pivot, table, cube, white, H43,5, Ø68, HPL, black
+ - Pivot, table, cube, white, H53, 65x65, melamine, black
+ - Pivot, table, cube, white, H53, 130x65, melamine, black
+ - Pivot, table, cube, white, H53, Ø68, melamine, black
+ - Pivot, table, cube, white, H53, 65x65, HPL, black
+ - Pivot, table, cube, white, H53, 130x65, HPL, black
+ - Pivot, table, cube, white, H53, Ø68, HPL, black
+ - Pivot, laptop table, white, 50x25x35, melamine, black
+ - Pivot, laptop table, white, 50x25x35, HPL, black
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, birch
+ - Pivot, armrest/sidewall LSF, high, per unit
+ - Pivot, armrest/sidewall LSF, high, per unit
+ - Pivot, armrest/sidewall LSF, high, per unit
+ - Pivot, armrest/sidewall LSF, high, per unit
+ - Pivot, armrest/sidewall LSF, high, per unit
+ - Pivot, armrest/sidewall LSF, high, per unit
+ - Pivot, armrest/sidewall LSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall RSF, high, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall LSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, armrest/sidewall RSF, low, per unit
+ - Pivot, additional end legs, pipe, powder paint black, per pcs
+ - Pivot, additional connection legs, pipe, powder paint black, per pcs
+ - Pivot, additional support legs, pipe, powder paint black, per pcs
+ - Pivot, fixation to floor for sled, per unit
+ - Pivot, sofa base with HPL (black or white), seating height 45-48 cm, per meter
+ - Pivot, sofa base with HPL (black or white), seating height 65-68 cm, per meter
+ - Pivot, additional round adjustable legs, aluminium
+ - Pivot, toeboard stainless, per unit
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), birch
+ - Pivot, table, cube, birch, H53, 65x65, melamine, birch
+ - Pivot, table, cube, birch, H53, 130x65, melamine, birch
+ - Pivot, table, cube, birch, H53, Ø68, melamine, birch
+ - Pivot, table, cube, birch, H53, 65x65, HPL, birch
+ - Soft, addition for flap on bedside table, birch HPL, birch
+ - Pivot, table, cube, birch, H53, 130x65, HPL, birch
+ - Pivot, table, cube, birch, H53, Ø68, HPL, birch
+ - Pivot, table, cube, oak, H53, 65x65, melamine, oak
+ - Pivot, table, cube, oak, H53, 130x65, melamine, oak
+ - Pivot, table, cube, oak, H53, Ø68, melamine, oak
+ - Pivot, table, cube, oak, H53, 65x65, HPL, oak
+ - Pivot, table, cube, oak, H53, 130x65, HPL, oak
+ - Pivot, table, cube, oak, H53, Ø68, HPL, oak
+ - Pivot, table leg, bolt, H43,5, arc, powder painted Ultra shine, per leg
+ - Pivot, table leg, tube, metallic powder painted, per leg (extra)
+ - Pivot, table leg, tube, metallic powder painted, per leg (extra)
+ - Soft, sideboard, 84x98x45 cm, open, birch HPL, birch
+ - Soft, sideboard, 84x98x45 cm, open, oak HPL, oak
+ - Pivot Cave, connection sidewall (extra high) between two frames, per pcs
+ - Pivot Cave, connection sidewall (extra high) between two frames, per pcs
+ - Pivot Cave, connection sidewall (extra high) between two frames, per pcs
+ - Pivot Cave, connection sidewall (extra high) between two frames, per pcs
+ - Pivot Cave, connection sidewall (extra high) between two frames, per pcs
+ - Pivot Cave, connection sidewall (extra high) between two frames, per pcs
+ - Pivot Cave, connection sidewall (extra high) between two frames, per pcs
+ - Pivot, connection sidewall (high) between two frames
+ - Pivot, connection sidewall (high) between two frames
+ - Pivot, connection sidewall (high) between two frames
+ - Pivot, connection sidewall (high) between two frames
+ - Pivot, connection sidewall (high) between two frames
+ - Pivot, connection sidewall (high) between two frames
+ - Pivot, connection sidewall (high) between two frames
+ - Annet, pillow 50x50 cm with zipper
+ - Annet, pillow 50x50 cm with zipper
+ - Annet, pillow 50x50 cm with zipper
+ - Annet, pillow 50x50 cm with zipper
+ - Annet, pillow 50x50 cm with zipper
+ - Annet, pillow 50x50 cm with zipper
+ - Annet, pillow 50x50 cm with zipper
+ - Annet, pillow 40x60 cm with zipper
+ - Annet, pillow 40x60 cm with zipper
+ - Annet, pillow 40x60 cm with zipper
+ - Annet, pillow 40x60 cm with zipper
+ - Annet, pillow 40x60 cm with zipper
+ - Annet, pillow 40x60 cm with zipper
+ - Annet, pillow 40x60 cm with zipper
+ - Soft, addition for flap on bedside table, oak HPL, oak
+ - Pivot, additional arc legs Ø45, pipe, powder paint black, per pcs
+ - Pivot, additional arc legs Ø68, pipe, powder paint black, per pcs
+ - Dapple, cabinet medium 75x110x51, with 2 sliding doors, black melamine, black
+ - Dapple, cabinet large 75x160x51, with 2 sliding doors, black melamine, black
+ - Dapple, cabinet medium 105x110x51, with 1 sliding door, black melamine, black
+ - Dapple, additional shelf for cabinet medium per shelf, black melamine, black
+ - Dapple, additional shelf for cabinet large per shelf, black melamine, black
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, birch
+ - Pivot, round wooden legs, birch, laquered
+ - Pivot, round wooden legs, oak, laquered
+ - Pivot, round adjustable legs, aluminium
+ - Pivot, gap seat and back for 1- and 1,5-seater, per pcs
+ - Pivot, gap seat and back for 2-seater, corner and arc 30 dgr, per pcs
+ - Pivot, gap seat and back for 3-seater, arc 60 dgr and 90 dgr, per pcs
+ - Zeta, dining chair, stackable, upholstered back, without armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, oak
+ - Join, table, corner legs, birch, H60, 50x50, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 60x60, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 70x70, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 120x70, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 140x70, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 80x80, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 120x80, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 140x80, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 90x90, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, Ø60, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, Ø70, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, Ø90, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, Ø110, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 65 x 65 rounded, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H60, 120 x 70 rounded, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 60x60, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 70x70, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 120x70, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 140x70, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 80x80, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 120x80, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 140x80, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 180x80, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 90x90, solid wood base, HPL, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat cover, oak
+ - Join, table, corner legs, birch, H75, 120x90, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 140x90, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 180x90, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, Ø60, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, Ø70, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, Ø90, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, Ø110, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, Ø120, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 1/2 Ø120, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 1/2 Ø140, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 65 x 65 rounded, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 120 x 70 rounded, solid wood base, HPL, birch
+ - Join, table, corner legs, birch, H75, 200 x Arc 90, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H60, 120x70, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H60, 140x70, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H60, 120x80, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H60, 140x80, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H75, 120x70, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H75, 140x70, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H75, 120x80, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H75, 140x80, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H75, 180x80, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H75, 120x90, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H75, 140x90, solid wood base, HPL, birch
+ - Join, table, T-legs, birch, H75, 180x90, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H60, 50x50, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H60, 60x60, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H60, 70x70, solid wood base, HPL, birch
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, without armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, oak
+ - Join, table, cross legs, birch, H60, 80x80, solid wood base, HPL, birch
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, without armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, oak
+ - Join, table, cross legs, birch, H60, 90x90, solid wood base, HPL, birch
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, oak
+ - Join, table, cross legs, birch, H60, Ø60, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H60, Ø70, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H60, Ø90, solid wood base, HPL, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Join, table, cross legs, birch, H75, 50x50, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H75, 60x60, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H75, 70x70, solid wood base, HPL, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Join, table, cross legs, birch, H75, 80x80, solid wood base, HPL, birch
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Join, table, cross legs, birch, H75, 90x90, solid wood base, HPL, birch
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Join, table, cross legs, birch, H75, Ø60, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H75, Ø70, solid wood base, HPL, birch
+ - Join, table, cross legs, birch, H75, Ø90, solid wood base, HPL, birch
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Join, table, center column, birch, H60, 50x50, solid wood base, HPL, birch
+ - Join, table, center column, birch, H60, 60x60, solid wood base, HPL, birch
+ - Join, table, center column, birch, H60, 70x70, solid wood base, HPL, birch
+ - Join, table, center column, birch, H60, 80x80, solid wood base, HPL, birch
+ - Join, table, center column, birch, H60, 90x90, solid wood base, HPL, birch
+ - Join, table, center column, birch, H60, Ø60, solid wood base, HPL, birch
+ - Join, table, center column, birch, H60, Ø70, solid wood base, HPL, birch
+ - Join, table, center column, birch, H60, Ø90, solid wood base, HPL, birch
+ - Join, table, center column, birch, H75, 50x50, solid wood base, HPL, birch
+ - Join, table, center column, birch, H75, 60x60, solid wood base, HPL, birch
+ - Join, table, center column, birch, H75, 70x70, solid wood base, HPL, birch
+ - Join, table, center column, birch, H75, 80x80, solid wood base, HPL, birch
+ - Join, table, center column, birch, H75, 90x90, solid wood base, HPL, birch
+ - Join, table, center column, birch, H75, Ø60, solid wood base, HPL, birch
+ - Join, table, center column, birch, H75, Ø70, solid wood base, HPL, birch
+ - Join, table, center column, birch, H75, Ø90, solid wood base, HPL, birch
+ - Pivot, 1-seater, armrest both sides, low 6 cm
+ - Pivot, 1-seater, armrest both sides, low 6 cm
+ - Pivot, 1-seater, armrest both sides, low 6 cm
+ - Pivot, 1-seater, armrest both sides, low 6 cm
+ - Pivot, 1-seater, armrest both sides, low 6 cm
+ - Pivot, 1-seater, armrest both sides, low 6 cm
+ - Pivot, 1-seater, armrest both sides, low 6 cm
+ - Pivot, 1-seater, armrest both sides, high 6 cm
+ - Pivot, 1-seater, armrest both sides, high 6 cm
+ - Pivot, 1-seater, armrest both sides, high 6 cm
+ - Pivot, 1-seater, armrest both sides, high 6 cm
+ - Pivot, 1-seater, armrest both sides, high 6 cm
+ - Pivot, 1-seater, armrest both sides, high 6 cm
+ - Pivot, 1-seater, armrest both sides, high 6 cm
+ - Pivot, no connection
+ - Pivot, 1-seater, armrest both sides, high 8 cm
+ - Pivot, 1-seater, armrest both sides, high 8 cm
+ - Pivot, 1-seater, armrest both sides, high 8 cm
+ - Pivot, 1-seater, armrest both sides, high 8 cm
+ - Pivot, 1-seater, armrest both sides, high 8 cm
+ - Pivot, 1-seater, armrest both sides, high 8 cm
+ - Pivot, 1-seater, armrest both sides, high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, armrest both sides, low 6 cm
+ - Pivot, 1,5-seater, armrest both sides, low 6 cm
+ - Pivot, 1,5-seater, armrest both sides, low 6 cm
+ - Pivot, 1,5-seater, armrest both sides, low 6 cm
+ - Pivot, 1,5-seater, armrest both sides, low 6 cm
+ - Pivot, 1,5-seater, armrest both sides, low 6 cm
+ - Pivot, 1,5-seater, armrest both sides, low 6 cm
+ - Pivot, 1,5-seater, armrest both sides, high 6 cm
+ - Pivot, 1,5-seater, armrest both sides, high 6 cm
+ - Pivot, 1,5-seater, armrest both sides, high 6 cm
+ - Pivot, 1,5-seater, armrest both sides, high 6 cm
+ - Pivot, 1,5-seater, armrest both sides, high 6 cm
+ - Pivot, 1,5-seater, armrest both sides, high 6 cm
+ - Pivot, 1,5-seater, armrest both sides, high 6 cm
+ - Pivot, 1,5-seater, armrest both sides, low 8 cm
+ - Pivot, 1,5-seater, armrest both sides, low 8 cm
+ - Pivot, 1,5-seater, armrest both sides, low 8 cm
+ - Pivot, 1,5-seater, armrest both sides, low 8 cm
+ - Pivot, 1,5-seater, armrest both sides, low 8 cm
+ - Pivot, 1,5-seater, armrest both sides, low 8 cm
+ - Pivot, 1,5-seater, armrest both sides, low 8 cm
+ - Pivot, 1,5-seater, armrest both sides, high 8 cm
+ - Pivot, 1,5-seater, armrest both sides, high 8 cm
+ - Pivot, 1,5-seater, armrest both sides, high 8 cm
+ - Pivot, 1,5-seater, armrest both sides, high 8 cm
+ - Pivot, 1,5-seater, armrest both sides, high 8 cm
+ - Pivot, 1,5-seater, armrest both sides, high 8 cm
+ - Pivot, 1,5-seater, armrest both sides, high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1,5-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 1,5-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 1,5-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 2-seater, armrest both sides, low 6 cm
+ - Pivot, 2-seater, armrest both sides, low 6 cm
+ - Pivot, 2-seater, armrest both sides, low 6 cm
+ - Pivot, 2-seater, armrest both sides, low 6 cm
+ - Pivot, 2-seater, armrest both sides, low 6 cm
+ - Pivot, 2-seater, armrest both sides, low 6 cm
+ - Pivot, 2-seater, armrest both sides, low 6 cm
+ - Pivot, 2-seater, armrest both sides, high 6 cm
+ - Pivot, 2-seater, armrest both sides, high 6 cm
+ - Pivot, 2-seater, armrest both sides, high 6 cm
+ - Pivot, 2-seater, armrest both sides, high 6 cm
+ - Pivot, 2-seater, armrest both sides, high 6 cm
+ - Pivot, 2-seater, armrest both sides, high 6 cm
+ - Pivot, 2-seater, armrest both sides, high 6 cm
+ - Pivot, connection one side
+ - Pivot, 2-seater, armrest both sides, high 8 cm
+ - Pivot, 2-seater, armrest both sides, high 8 cm
+ - Pivot, 2-seater, armrest both sides, high 8 cm
+ - Pivot, 2-seater, armrest both sides, high 8 cm
+ - Pivot, 2-seater, armrest both sides, high 8 cm
+ - Pivot, 2-seater, armrest both sides, high 8 cm
+ - Pivot, 2-seater, armrest both sides, high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 2-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 2-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 2-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 3-seater, armrest both sides, low 6 cm
+ - Pivot, 3-seater, armrest both sides, low 6 cm
+ - Pivot, 3-seater, armrest both sides, low 6 cm
+ - Pivot, 3-seater, armrest both sides, low 6 cm
+ - Pivot, 3-seater, armrest both sides, low 6 cm
+ - Pivot, 3-seater, armrest both sides, low 6 cm
+ - Pivot, 3-seater, armrest both sides, low 6 cm
+ - Pivot, 3-seater, armrest both sides, high 6 cm
+ - Pivot, 3-seater, armrest both sides, high 6 cm
+ - Pivot, 3-seater, armrest both sides, high 6 cm
+ - Pivot, 3-seater, armrest both sides, high 6 cm
+ - Pivot, 3-seater, armrest both sides, high 6 cm
+ - Pivot, 3-seater, armrest both sides, high 6 cm
+ - Pivot, 3-seater, armrest both sides, high 6 cm
+ - Pivot, connection two sides
+ - Pivot, 3-seater, armrest both sides, high 8 cm
+ - Pivot, 3-seater, armrest both sides, high 8 cm
+ - Pivot, 3-seater, armrest both sides, high 8 cm
+ - Pivot, 3-seater, armrest both sides, high 8 cm
+ - Pivot, 3-seater, armrest both sides, high 8 cm
+ - Pivot, 3-seater, armrest both sides, high 8 cm
+ - Pivot, 3-seater, armrest both sides, high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 6 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF armrest high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection low 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 3-seater, LSF without armrest and RSF connection high 8 cm
+ - Pivot, 3-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 6 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF armrest high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection low 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, 3-seater, LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, corner outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, corner outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside large 90 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside large 90 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 60 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 60 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc inside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc inside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 6 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF armrest high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection low 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 30 dgr LSF without armrest and RSF connection high 8 cm
+ - Pivot, arc outside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 6 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF armrest high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection low 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, arc outside 30 dgr LSF connection high 8 cm and RSF without armrest
+ - Pivot, customized, seating height 51 cm., per leg (additional)
+ - Pivot, additional square wooden legs, birch, laquered
+ - Pivot, additional square wooden legs, oak, laquered
+ - Pivot, additional round wooden legs, birch, laquered
+ - Pivot, additional round wooden legs, oak, laquered
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 6 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF armrest high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection low 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection high 8 cm
+ - Pivot, chaiselonge LSF without armrest and RSF connection high 8 cm
+ - Pivot, chaiselonge LSF armrest low 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 6 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF armrest high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection low 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection high 8 cm and RSF without armrest
+ - Pivot, chaiselonge LSF connection high 8 cm and RSF without armrest
+ - Pivot Step, 2-seater, left back high and right back low
+ - Pivot Step, 2-seater, left back high and right back low
+ - Pivot Step, 2-seater, left back high and right back low
+ - Pivot Step, 2-seater, left back high and right back low
+ - Pivot Step, 2-seater, left back high and right back low
+ - Pivot Step, 2-seater, left back high and right back low
+ - Pivot Step, 2-seater, left back high and right back low
+ - Pivot Step, 2-seater, left back low and right back high
+ - Pivot Step, 2-seater, left back low and right back high
+ - Pivot Step, 2-seater, left back low and right back high
+ - Pivot Step, 2-seater, left back low and right back high
+ - Pivot Step, 2-seater, left back low and right back high
+ - Pivot Step, 2-seater, left back low and right back high
+ - Pivot Step, 2-seater, left back low and right back high
+ - Pivot Step, 2-seater, left corner low and right back low
+ - Pivot Step, 2-seater, left corner low and right back low
+ - Pivot Step, 2-seater, left corner low and right back low
+ - Pivot Step, 2-seater, left corner low and right back low
+ - Pivot Step, 2-seater, left corner low and right back low
+ - Pivot Step, 2-seater, left corner low and right back low
+ - Pivot Step, 2-seater, left corner low and right back low
+ - Pivot Step, 2-seater, left back low and right corner low
+ - Pivot Step, 2-seater, left back low and right corner low
+ - Pivot Step, 2-seater, left back low and right corner low
+ - Pivot Step, 2-seater, left back low and right corner low
+ - Pivot Step, 2-seater, left back low and right corner low
+ - Pivot Step, 2-seater, left back low and right corner low
+ - Pivot Step, 2-seater, left back low and right corner low
+ - Pivot Step, 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left corner high and right back low
+ - Pivot Step, 2-seater, left back low and right corner high
+ - Pivot Step, 2-seater, left back low and right corner high
+ - Pivot Step, 2-seater, left back low and right corner high
+ - Pivot Step, 2-seater, left back low and right corner high
+ - Pivot Step, 2-seater, left back low and right corner high
+ - Pivot Step, 2-seater, left back low and right corner high
+ - Pivot Step, 2-seater, left back low and right corner high
+ - Pivot Step, 3-seater, left back high, mid back low and right back low
+ - Pivot Step, 3-seater, left back high, mid back low and right back low
+ - Pivot Step, 3-seater, left back high, mid back low and right back low
+ - Pivot Step, 3-seater, left back high, mid back low and right back low
+ - Pivot Step, 3-seater, left back high, mid back low and right back low
+ - Pivot Step, 3-seater, left back high, mid back low and right back low
+ - Pivot Step, 3-seater, left back high, mid back low and right back low
+ - Pivot Step, 3-seater, left back high, mid back high and right back low
+ - Pivot Step, 3-seater, left back high, mid back high and right back low
+ - Pivot Step, 3-seater, left back high, mid back high and right back low
+ - Pivot Step, 3-seater, left back high, mid back high and right back low
+ - Pivot Step, 3-seater, left back high, mid back high and right back low
+ - Pivot Step, 3-seater, left back high, mid back high and right back low
+ - Pivot Step, 3-seater, left back high, mid back high and right back low
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left back low, mid back high and right back high
+ - Pivot Step, 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 3-seater, left corner high, mid back low and right back low
+ - Pivot Step, 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 3-seater, left corner high, mid back high and right back low
+ - Pivot Step, 3-seater, left corner high, mid back high and right back high
+ - Pivot Step, 3-seater, left corner high, mid back high and right back high
+ - Pivot Step, 3-seater, left corner high, mid back high and right back high
+ - Pivot Step, 3-seater, left corner high, mid back high and right back high
+ - Pivot Step, 3-seater, left corner high, mid back high and right back high
+ - Pivot Step, 3-seater, left corner high, mid back high and right back high
+ - Pivot Step, 3-seater, left corner high, mid back high and right back high
+ - Pivot Step, 3-seater, left back high, mid back high and right corner high
+ - Pivot Step, 3-seater, left back high, mid back high and right corner high
+ - Pivot Step, 3-seater, left back high, mid back high and right corner high
+ - Pivot Step, 3-seater, left back high, mid back high and right corner high
+ - Pivot Step, 3-seater, left back high, mid back high and right corner high
+ - Pivot Step, 3-seater, left back high, mid back high and right corner high
+ - Pivot Step, 3-seater, left back high, mid back high and right corner high
+ - Pivot Step, 3-seater, left back low, mid back high and right corner high
+ - Pivot Step, 3-seater, left back low, mid back high and right corner high
+ - Pivot Step, 3-seater, left back low, mid back high and right corner high
+ - Pivot Step, 3-seater, left back low, mid back high and right corner high
+ - Pivot Step, 3-seater, left back low, mid back high and right corner high
+ - Pivot Step, 3-seater, left back low, mid back high and right corner high
+ - Pivot Step, 3-seater, left back low, mid back high and right corner high
+ - Pivot Step, 3-seater, left back low, mid back low and right corner high
+ - Pivot Step, 3-seater, left back low, mid back low and right corner high
+ - Pivot Step, 3-seater, left back low, mid back low and right corner high
+ - Pivot Step, 3-seater, left back low, mid back low and right corner high
+ - Pivot Step, 3-seater, left back low, mid back low and right corner high
+ - Pivot Step, 3-seater, left back low, mid back low and right corner high
+ - Pivot Step, 3-seater, left back low, mid back low and right corner high
+ - Santana, chair, LSF narrow armrest and RSF without armrest
+ - Santana, chair, LSF narrow armrest and RSF without armrest
+ - Santana, chair, LSF narrow armrest and RSF without armrest
+ - Santana, chair, LSF narrow armrest and RSF without armrest
+ - Santana, chair, LSF narrow armrest and RSF without armrest
+ - Santana, chair, LSF narrow armrest and RSF without armrest
+ - Santana, chair, LSF narrow armrest and RSF without armrest
+ - Santana, chair, LSF without armrest and RSF narrow armrest
+ - Santana, chair, LSF without armrest and RSF narrow armrest
+ - Santana, chair, LSF without armrest and RSF narrow armrest
+ - Santana, chair, LSF without armrest and RSF narrow armrest
+ - Santana, chair, LSF without armrest and RSF narrow armrest
+ - Santana, chair, LSF without armrest and RSF narrow armrest
+ - Santana, chair, LSF without armrest and RSF narrow armrest
+ - Santana, chair, LSF wide armrest and RSF without armrest
+ - Santana, chair, LSF wide armrest and RSF without armrest
+ - Santana, chair, LSF wide armrest and RSF without armrest
+ - Santana, chair, LSF wide armrest and RSF without armrest
+ - Santana, chair, LSF wide armrest and RSF without armrest
+ - Santana, chair, LSF wide armrest and RSF without armrest
+ - Santana, chair, LSF wide armrest and RSF without armrest
+ - Santana, chair, LSF without armrest and RSF wide armrest
+ - Santana, chair, LSF without armrest and RSF wide armrest
+ - Santana, chair, LSF without armrest and RSF wide armrest
+ - Santana, chair, LSF without armrest and RSF wide armrest
+ - Santana, chair, LSF without armrest and RSF wide armrest
+ - Santana, chair, LSF without armrest and RSF wide armrest
+ - Santana, chair, LSF without armrest and RSF wide armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 2-seater, LSF narrow armrest and RSF without armrest
+ - Pivot, uSB Charging socket
+ - Pivot Cave, extra high chair with extra high sidewalls, C-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, C-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, C-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, C-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, C-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, C-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, C-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, L-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, L-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, L-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, L-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, L-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, L-shape
+ - Pivot Cave, extra high chair with extra high sidewalls, L-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high chair LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high chair LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high chair LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high chair LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high chair LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high chair LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high chair LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high chair LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high chair LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high chair LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high chair LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high chair LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high chair LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high chair LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF extra high side wall
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, multi dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Pivot Cave, extra high chair LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high chair LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high chair LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high chair LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF extra high side wall and RSF without sidewall
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat cover, oak
+ - Pivot Cave, extra high chair LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high chair LSF connection extra high wall and RSF without sidewall
+ - Pivot, adjustment fro removable seat cover for 2-seater, corner and arc 30 dgr, per pcs
+ - Pivot, adjustment fro removable seat cover for 3-seater, arc 60 dgr and 90 dgr, per pcs
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 1,5-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 1,5-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF extra high side wall
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, oak
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 1,5-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF extra high side wall and RSF without sidewall
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, oak
+ - Pivot Cave, extra high 1,5-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 1,5-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 2-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF extra high side wall
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, oak
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 2-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 2-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF extra high side wall and RSF without sidewall
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, oak
+ - Pivot Cave, extra high 2-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater with extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high 3-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF extra high side wall
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, incontinence sheet and removable seat cover, oak
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 3-seater LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high 3-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF extra high side wall and RSF without sidewall
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Zeta, max dining chair, stackable, back with bars, with armrest, wheels on front legs, removable back pillow, incontinence sheet and removable seat cover, oak
+ - Pivot Cave, extra high 3-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 3-seater LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high corner element inside 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high corner element inside large 90 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc inside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Zeta, extra removable back cover
+ - Zeta, extra removable back cover
+ - Zeta, extra removable back cover
+ - Zeta, extra removable back cover
+ - Zeta, extra removable back cover
+ - Zeta, extra removable back cover
+ - Zeta, extra removable back cover
+ - Zeta, extra removable seat cover Multi
+ - Zeta, extra removable seat cover Multi
+ - Zeta, extra removable seat cover Multi
+ - Zeta, extra removable seat cover Multi
+ - Zeta, extra removable seat cover Multi
+ - Zeta, extra removable seat cover Multi
+ - Zeta, extra removable seat cover Multi
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Zeta, extra removable seat cover Max
+ - Zeta, extra removable seat cover Max
+ - Zeta, extra removable seat cover Max
+ - Zeta, extra removable seat cover Max
+ - Zeta, extra removable seat cover Max
+ - Zeta, extra removable seat cover Max
+ - Zeta, extra removable seat cover Max
+ - Zeta, extra removable back cover Max
+ - Zeta, extra removable back cover Max
+ - Zeta, extra removable back cover Max
+ - Zeta, extra removable back cover Max
+ - Zeta, extra removable back cover Max
+ - Zeta, extra removable back cover Max
+ - Zeta, extra removable back cover Max
+ - Pivot Cave, extra high arc inside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc inside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF end plate
+ - Pivot Cave, extra high arc outside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF end plate and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, L-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF side wall, C-shape
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF extra high side wall
+ - Zeta, cushion on armrest (pair)
+ - Zeta, cushion on armrest (pair)
+ - Zeta, cushion on armrest (pair)
+ - Zeta, cushion on armrest (pair)
+ - Zeta, cushion on armrest (pair)
+ - Zeta, cushion on armrest (pair)
+ - Zeta, cushion on armrest (pair)
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Zeta, max dining chair, stackable, upholstered back, with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF without sidewall and RSF connection extra high wall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, L-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF side wall, C-shape and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF extra high side wall and RSF without sidewall
+ - Zeta, rail joint
+ - Zeta, addition for staining (light cherry, teak, mahogny, white and black) per unit
+ - Pivot Cave, extra high arc outside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high arc outside 60 dgr LSF connection extra high wall and RSF without sidewall
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 2-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, L-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls, C-shape
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot Cave, extra high 3-seater connection wall with table, power supply and extra high sidewalls
+ - Pivot, square wooden legs, birch, laquered
+ - Pivot, square wooden legs, oak, laquered
+ - Nexus, table, corner legs, birch, H75, 50x50, solid wood base, HPL, birch
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 6 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 6 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 6 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 6 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 6 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 6 cm, bolt legs
+ - Pivot, modular sofa, 3-seater + corner + 2-seater with low armrests, 6 cm, bolt legs
+ - Santana, 2-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 2-seater, LSF wide armrest and RSF without armrest
+ - Santana, 2-seater, LSF wide armrest and RSF without armrest
+ - Santana, 2-seater, LSF wide armrest and RSF without armrest
+ - Santana, 2-seater, LSF wide armrest and RSF without armrest
+ - Santana, 2-seater, LSF wide armrest and RSF without armrest
+ - Santana, 2-seater, LSF wide armrest and RSF without armrest
+ - Santana, 2-seater, LSF wide armrest and RSF without armrest
+ - Santana, 2-seater, LSF without armrest and RSF wide armrest
+ - Santana, 2-seater, LSF without armrest and RSF wide armrest
+ - Santana, 2-seater, LSF without armrest and RSF wide armrest
+ - Santana, 2-seater, LSF without armrest and RSF wide armrest
+ - Santana, 2-seater, LSF without armrest and RSF wide armrest
+ - Santana, 2-seater, LSF without armrest and RSF wide armrest
+ - Santana, 2-seater, LSF without armrest and RSF wide armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF without armrest
+ - Santana, 3-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF without armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF wide armrest and RSF without armrest
+ - Santana, 3-seater, LSF wide armrest and RSF without armrest
+ - Santana, 3-seater, LSF wide armrest and RSF without armrest
+ - Santana, 3-seater, LSF wide armrest and RSF without armrest
+ - Santana, 3-seater, LSF wide armrest and RSF without armrest
+ - Santana, 3-seater, LSF wide armrest and RSF without armrest
+ - Santana, 3-seater, LSF wide armrest and RSF without armrest
+ - Santana, 3-seater, LSF without armrest and RSF wide armrest
+ - Santana, 3-seater, LSF without armrest and RSF wide armrest
+ - Santana, 3-seater, LSF without armrest and RSF wide armrest
+ - Santana, 3-seater, LSF without armrest and RSF wide armrest
+ - Santana, 3-seater, LSF without armrest and RSF wide armrest
+ - Santana, 3-seater, LSF without armrest and RSF wide armrest
+ - Santana, 3-seater, LSF without armrest and RSF wide armrest
+ - Santana, armrest RSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest RSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest RSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest RSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest RSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest RSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest RSF narrow 6 cm with legs, 1 pcs
+ - Santana, armrest RSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest RSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest RSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest RSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest RSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest RSF wide 12 cm with legs, 1 pcs
+ - Santana, armrest RSF wide 12 cm with legs, 1 pcs
+ - Santana, end plate RSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate RSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate RSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate RSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate RSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate RSF 3 cm with connection legs, 1 pcs
+ - Santana, end plate RSF 3 cm with connection legs, 1 pcs
+ - Pivot, additional end legs for corner, pipe, powder paint black, per pcs
+ - Santana, round adjustable legs, aluminium
+ - Santana, square wooden legs, birch, laquered
+ - Santana, square wooden legs, oak, laquered
+ - Santana, round wooden legs, birch, laquered
+ - Santana, round wooden legs, oak, laquered
+ - Santana, no connection
+ - Santana, connection one side
+ - Santana, connection two sides
+ - Santana, extra round adjustable legs, aluminium (low armrest) per pcs
+ - Santana, extra round adjustable legs, aluminium (high armrest) per pcs
+ - Santana, extra round wooden legs, birch, laquered
+ - Santana, extra round wooden legs, oak, laquered
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Santana, corner solution; 3-seater + corner + 2-seater with wide armrests
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, birch
+ - Darwin, 1-seater with no back
+ - Darwin, 1-seater with no back
+ - Darwin, 1-seater with no back
+ - Darwin, 1-seater with no back
+ - Darwin, 1-seater with no back
+ - Darwin, 1-seater with no back
+ - Darwin, 1-seater with no back
+ - Darwin, 1-seater with one back
+ - Darwin, 1-seater with one back
+ - Darwin, 1-seater with one back
+ - Darwin, 1-seater with one back
+ - Darwin, 1-seater with one back
+ - Darwin, 1-seater with one back
+ - Darwin, 1-seater with one back
+ - Darwin, 1-seater with one back and one armrest
+ - Darwin, 1-seater with one back and one armrest
+ - Darwin, 1-seater with one back and one armrest
+ - Darwin, 1-seater with one back and one armrest
+ - Darwin, 1-seater with one back and one armrest
+ - Darwin, 1-seater with one back and one armrest
+ - Darwin, 1-seater with one back and one armrest
+ - Nexus, chair low back, fixed, oak
+ - Nexus, chair low back, fixed, oak
+ - Nexus, chair low back, fixed, oak
+ - Nexus, chair low back, fixed, oak
+ - Nexus, chair low back, fixed, oak
+ - Nexus, chair low back, fixed, oak
+ - Nexus, chair low back, fixed, oak
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair low back fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 2-seater low back, fixed, oak
+ - Nexus, 2-seater low back, fixed, oak
+ - Nexus, 2-seater low back, fixed, oak
+ - Nexus, 2-seater low back, fixed, oak
+ - Nexus, 2-seater low back, fixed, oak
+ - Nexus, 2-seater low back, fixed, oak
+ - Nexus, 2-seater low back, fixed, oak
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 2-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 3-seater low back, fixed, oak
+ - Nexus, 3-seater low back, fixed, oak
+ - Nexus, 3-seater low back, fixed, oak
+ - Nexus, 3-seater low back, fixed, oak
+ - Nexus, 3-seater low back, fixed, oak
+ - Nexus, 3-seater low back, fixed, oak
+ - Nexus, 3-seater low back, fixed, oak
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, 3-seater low back, fixed, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, fixed, neck rest, oak
+ - Nexus, chair high back, fixed, neck rest, oak
+ - Nexus, chair high back, fixed, neck rest, oak
+ - Nexus, chair high back, fixed, neck rest, oak
+ - Nexus, chair high back, fixed, neck rest, oak
+ - Nexus, chair high back, fixed, neck rest, oak
+ - Nexus, chair high back, fixed, neck rest, oak
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, stepless adjustment of back, neck rest (gas spring), removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, tilt, neck rest, oak
+ - Nexus, chair high back, tilt, neck rest, oak
+ - Nexus, chair high back, tilt, neck rest, oak
+ - Nexus, chair high back, tilt, neck rest, oak
+ - Nexus, chair high back, tilt, neck rest, oak
+ - Nexus, chair high back, tilt, neck rest, oak
+ - Nexus, chair high back, tilt, neck rest, oak
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, tilt, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, electric elevating, neck rest, oak
+ - Nexus, chair high back, electric elevating, neck rest, oak
+ - Nexus, chair high back, electric elevating, neck rest, oak
+ - Nexus, chair high back, electric elevating, neck rest, oak
+ - Nexus, chair high back, electric elevating, neck rest, oak
+ - Nexus, chair high back, electric elevating, neck rest, oak
+ - Nexus, chair high back, electric elevating, neck rest, oak
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back, electric elevating, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, fixed, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, chair high back w/wheels, stepless adjustment of back, neck rest, handle, foot plate, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, fixed, neck rest, oak
+ - Nexus, max chair high back, fixed, neck rest, oak
+ - Nexus, max chair high back, fixed, neck rest, oak
+ - Nexus, max chair high back, fixed, neck rest, oak
+ - Nexus, max chair high back, fixed, neck rest, oak
+ - Nexus, max chair high back, fixed, neck rest, oak
+ - Nexus, max chair high back, fixed, neck rest, oak
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, fixed, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Nexus, max chair high back, stepless adjustment of back, neck rest, removable seat and back cover with incontinence sheet, oak
+ - Darwin, 1-seater with one back and two armrests
+ - Darwin, 1-seater with one back and two armrests
+ - Darwin, 1-seater with one back and two armrests
+ - Darwin, 1-seater with one back and two armrests
+ - Darwin, 1-seater with one back and two armrests
+ - Darwin, 1-seater with one back and two armrests
+ - Darwin, 1-seater with one back and two armrests
+ - Darwin, 1-seater with two backs
+ - Darwin, 1-seater with two backs
+ - Darwin, 1-seater with two backs
+ - Darwin, 1-seater with two backs
+ - Darwin, 1-seater with two backs
+ - Darwin, 1-seater with two backs
+ - Darwin, 1-seater with two backs
+ - Nexus, addition for staining (light cherry, teak, mahogny, white and black) per unit
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, birch
+ - Nexus, footrest with fixed cushion, oak
+ - Nexus, footrest with fixed cushion, oak
+ - Nexus, footrest with fixed cushion, oak
+ - Nexus, footrest with fixed cushion, oak
+ - Nexus, footrest with fixed cushion, oak
+ - Nexus, footrest with fixed cushion, oak
+ - Nexus, footrest with fixed cushion, oak
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with fixed cushion, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, oak
+ - Nexus, footrest with adjustable cushion, movable footplate, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair without armrest, upholstred back, birch
+ - Nexus, dining chair without armrest, upholstred back, birch
+ - Nexus, dining chair without armrest, upholstred back, birch
+ - Nexus, dining chair without armrest, upholstred back, birch
+ - Nexus, dining chair without armrest, upholstred back, birch
+ - Nexus, dining chair without armrest, upholstred back, birch
+ - Nexus, dining chair without armrest, upholstred back, birch
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, dining chair with armrest, wheel on front leg, birch
+ - Nexus, dining chair with armrest, wheel on front leg, birch
+ - Nexus, dining chair with armrest, wheel on front leg, birch
+ - Nexus, dining chair with armrest, wheel on front leg, birch
+ - Nexus, dining chair with armrest, wheel on front leg, birch
+ - Nexus, dining chair with armrest, wheel on front leg, birch
+ - Nexus, dining chair with armrest, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, multi dining chair with armrest, upholstred back, birch
+ - Nexus, multi dining chair with armrest, upholstred back, birch
+ - Nexus, multi dining chair with armrest, upholstred back, birch
+ - Nexus, multi dining chair with armrest, upholstred back, birch
+ - Nexus, multi dining chair with armrest, upholstred back, birch
+ - Nexus, multi dining chair with armrest, upholstred back, birch
+ - Nexus, multi dining chair with armrest, upholstred back, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, birch
+ - Nexus, max dining chair with armrest, upholstred back, birch
+ - Nexus, max dining chair with armrest, upholstred back, birch
+ - Nexus, max dining chair with armrest, upholstred back, birch
+ - Nexus, max dining chair with armrest, upholstred back, birch
+ - Nexus, max dining chair with armrest, upholstred back, birch
+ - Nexus, max dining chair with armrest, upholstred back, birch
+ - Nexus, max dining chair with armrest, upholstred back, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, birch
+ - Nexus, max dining chair with armrest, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, birch
+ - Nexus, dining chair without armrest, oak
+ - Nexus, dining chair without armrest, oak
+ - Nexus, dining chair without armrest, oak
+ - Nexus, dining chair without armrest, oak
+ - Nexus, dining chair without armrest, oak
+ - Nexus, dining chair without armrest, oak
+ - Nexus, dining chair without armrest, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair without armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair without armrest, upholstred back, oak
+ - Nexus, dining chair without armrest, upholstred back, oak
+ - Nexus, dining chair without armrest, upholstred back, oak
+ - Nexus, dining chair without armrest, upholstred back, oak
+ - Nexus, dining chair without armrest, upholstred back, oak
+ - Nexus, dining chair without armrest, upholstred back, oak
+ - Nexus, dining chair without armrest, upholstred back, oak
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair without armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, oak
+ - Nexus, dining chair with armrest, oak
+ - Nexus, dining chair with armrest, oak
+ - Nexus, dining chair with armrest, oak
+ - Nexus, dining chair with armrest, oak
+ - Nexus, dining chair with armrest, oak
+ - Nexus, dining chair with armrest, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, dining chair with armrest, wheel on front leg, oak
+ - Nexus, dining chair with armrest, wheel on front leg, oak
+ - Nexus, dining chair with armrest, wheel on front leg, oak
+ - Nexus, dining chair with armrest, wheel on front leg, oak
+ - Nexus, dining chair with armrest, wheel on front leg, oak
+ - Nexus, dining chair with armrest, wheel on front leg, oak
+ - Nexus, dining chair with armrest, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, oak
+ - Nexus, multi dining chair with armrest, oak
+ - Nexus, multi dining chair with armrest, oak
+ - Nexus, multi dining chair with armrest, oak
+ - Nexus, multi dining chair with armrest, oak
+ - Nexus, multi dining chair with armrest, oak
+ - Nexus, multi dining chair with armrest, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, multi dining chair with armrest, upholstred back, oak
+ - Nexus, multi dining chair with armrest, upholstred back, oak
+ - Nexus, multi dining chair with armrest, upholstred back, oak
+ - Nexus, multi dining chair with armrest, upholstred back, oak
+ - Nexus, multi dining chair with armrest, upholstred back, oak
+ - Nexus, multi dining chair with armrest, upholstred back, oak
+ - Nexus, multi dining chair with armrest, upholstred back, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, multi dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, oak
+ - Nexus, max dining chair with armrest, oak
+ - Nexus, max dining chair with armrest, oak
+ - Nexus, max dining chair with armrest, oak
+ - Nexus, max dining chair with armrest, oak
+ - Nexus, max dining chair with armrest, oak
+ - Nexus, max dining chair with armrest, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, oak
+ - Nexus, max dining chair with armrest, upholstred back, oak
+ - Nexus, max dining chair with armrest, upholstred back, oak
+ - Nexus, max dining chair with armrest, upholstred back, oak
+ - Nexus, max dining chair with armrest, upholstred back, oak
+ - Nexus, max dining chair with armrest, upholstred back, oak
+ - Nexus, max dining chair with armrest, upholstred back, oak
+ - Nexus, max dining chair with armrest, upholstred back, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, oak
+ - Nexus, max dining chair with armrest, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, removable seat cover with incontinence sheet, with back pillow, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, max dining chair with armrest, upholstred back, removable seat cover with incontinence sheet, wheel on front leg, oak
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Nexus, extra removable seat cover Multi (per seat)
+ - Lean, 1-seater with back without armrests, oak
+ - Lean, 1-seater with back without armrests, oak
+ - Lean, 1-seater with back without armrests, oak
+ - Lean, 1-seater with back without armrests, oak
+ - Lean, 1-seater with back without armrests, oak
+ - Lean, 1-seater with back without armrests, oak
+ - Lean, 1-seater with back without armrests, oak
+ - Lean, 1-seater with back and armrest left, oak
+ - Lean, 1-seater with back and armrest left, oak
+ - Lean, 1-seater with back and armrest left, oak
+ - Lean, 1-seater with back and armrest left, oak
+ - Lean, 1-seater with back and armrest left, oak
+ - Lean, 1-seater with back and armrest left, oak
+ - Lean, 1-seater with back and armrest left, oak
+ - Lean, 1-seater with back and armrest right, oak
+ - Lean, 1-seater with back and armrest right, oak
+ - Lean, 1-seater with back and armrest right, oak
+ - Lean, 1-seater with back and armrest right, oak
+ - Lean, 1-seater with back and armrest right, oak
+ - Lean, 1-seater with back and armrest right, oak
+ - Lean, 1-seater with back and armrest right, oak
+ - Lean, 2-seater with back without armrests, oak
+ - Lean, 2-seater with back without armrests, oak
+ - Lean, 2-seater with back without armrests, oak
+ - Lean, 2-seater with back without armrests, oak
+ - Lean, 2-seater with back without armrests, oak
+ - Lean, 2-seater with back without armrests, oak
+ - Lean, 2-seater with back without armrests, oak
+ - Lean, 2-seater with back and armrest left, oak
+ - Lean, 2-seater with back and armrest left, oak
+ - Lean, 2-seater with back and armrest left, oak
+ - Lean, 2-seater with back and armrest left, oak
+ - Lean, 2-seater with back and armrest left, oak
+ - Lean, 2-seater with back and armrest left, oak
+ - Lean, 2-seater with back and armrest left, oak
+ - Lean, 2-seater with back and armrest right, oak
+ - Lean, 2-seater with back and armrest right, oak
+ - Lean, 2-seater with back and armrest right, oak
+ - Lean, 2-seater with back and armrest right, oak
+ - Lean, 2-seater with back and armrest right, oak
+ - Lean, 2-seater with back and armrest right, oak
+ - Lean, 2-seater with back and armrest right, oak
+ - Lean, 2-seater with back and armrests both sides, oak
+ - Lean, 2-seater with back and armrests both sides, oak
+ - Lean, 2-seater with back and armrests both sides, oak
+ - Lean, 2-seater with back and armrests both sides, oak
+ - Lean, 2-seater with back and armrests both sides, oak
+ - Lean, 2-seater with back and armrests both sides, oak
+ - Lean, 2-seater with back and armrests both sides, oak
+ - Lean, 2-seater without back, oak
+ - Lean, 2-seater without back, oak
+ - Lean, 2-seater without back, oak
+ - Lean, 2-seater without back, oak
+ - Lean, 2-seater without back, oak
+ - Lean, 2-seater without back, oak
+ - Lean, 2-seater without back, oak
+ - Lean, 3-seater with back without armrests, oak
+ - Lean, 3-seater with back without armrests, oak
+ - Lean, 3-seater with back without armrests, oak
+ - Lean, 3-seater with back without armrests, oak
+ - Lean, 3-seater with back without armrests, oak
+ - Lean, 3-seater with back without armrests, oak
+ - Lean, 3-seater with back without armrests, oak
+ - Lean, 3-seater with back and armrest left, oak
+ - Lean, 3-seater with back and armrest left, oak
+ - Lean, 3-seater with back and armrest left, oak
+ - Lean, 3-seater with back and armrest left, oak
+ - Lean, 3-seater with back and armrest left, oak
+ - Lean, 3-seater with back and armrest left, oak
+ - Lean, 3-seater with back and armrest left, oak
+ - Lean, 3-seater with back and armrest right, oak
+ - Lean, 3-seater with back and armrest right, oak
+ - Lean, 3-seater with back and armrest right, oak
+ - Lean, 3-seater with back and armrest right, oak
+ - Lean, 3-seater with back and armrest right, oak
+ - Lean, 3-seater with back and armrest right, oak
+ - Lean, 3-seater with back and armrest right, oak
+ - Lean, 3-seater with back and armrests both sides, oak
+ - Lean, 3-seater with back and armrests both sides, oak
+ - Lean, 3-seater with back and armrests both sides, oak
+ - Lean, 3-seater with back and armrests both sides, oak
+ - Lean, 3-seater with back and armrests both sides, oak
+ - Lean, 3-seater with back and armrests both sides, oak
+ - Lean, 3-seater with back and armrests both sides, oak
+ - Lean, 3-seater without back, oak
+ - Lean, 3-seater without back, oak
+ - Lean, 3-seater without back, oak
+ - Lean, 3-seater without back, oak
+ - Lean, 3-seater without back, oak
+ - Lean, 3-seater without back, oak
+ - Lean, 3-seater without back, oak
+ - Lean, in-/outside arc 90 degrees without back, oak
+ - Lean, in-/outside arc 90 degrees without back, oak
+ - Lean, in-/outside arc 90 degrees without back, oak
+ - Lean, in-/outside arc 90 degrees without back, oak
+ - Lean, in-/outside arc 90 degrees without back, oak
+ - Lean, in-/outside arc 90 degrees without back, oak
+ - Lean, in-/outside arc 90 degrees without back, oak
+ - Lean, inside arc 90 degrees with back, oak
+ - Lean, inside arc 90 degrees with back, oak
+ - Lean, inside arc 90 degrees with back, oak
+ - Lean, inside arc 90 degrees with back, oak
+ - Lean, inside arc 90 degrees with back, oak
+ - Lean, inside arc 90 degrees with back, oak
+ - Lean, inside arc 90 degrees with back, oak
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair without armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Bankett, multi stackable chair with armrest, wheels on front legs, incontinence sheet and removable seat and back cover, birch
+ - Dapple, table H46, Ø60, white melamine single color, white
+ - Dapple, table H46, Ø60, black melamine single color, black
+ - Dapple, table H41, 80x55, white melamine single color, white
+ - Dapple, table H41, 80x55, black melamine single color, black
+ - Join, table, corner legs, birch, H60, 50x50, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 50x50, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 50x50, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 60x60, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 60x60, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 60x60, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 70x70, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 70x70, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 70x70, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 120x70, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 120x70, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 120x70, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 140x70, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 140x70, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 140x70, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 80x80, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 80x80, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 80x80, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 120x80, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 120x80, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 120x80, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 140x80, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 140x80, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 140x80, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 90x90, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 90x90, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 90x90, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, Ø60, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, Ø60, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, Ø60, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, Ø70, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, Ø70, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, Ø70, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, Ø90, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, Ø90, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, Ø90, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, Ø110, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, Ø110, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, Ø110, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 65 x 65 rounded, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 65 x 65 rounded, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 65 x 65 rounded, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H60, 120 x 70 rounded, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H60, 120 x 70 rounded, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H60, 120 x 70 rounded, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 60x60, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 60x60, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 60x60, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 70x70, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 70x70, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 70x70, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 120x70, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 120x70, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 120x70, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 140x70, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 140x70, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 140x70, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 80x80, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 80x80, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 80x80, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 120x80, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 120x80, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 120x80, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 140x80, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 140x80, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 140x80, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 180x80, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 180x80, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 180x80, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 90x90, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 90x90, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 90x90, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 120x90, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 120x90, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 120x90, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 140x90, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 140x90, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 140x90, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 180x90, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 180x90, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 180x90, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, Ø60, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, Ø60, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, Ø60, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, Ø70, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, Ø70, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, Ø70, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, Ø90, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, Ø90, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, Ø90, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, Ø110, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, Ø110, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, Ø110, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, Ø120, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, Ø120, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, Ø120, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 1/2 1/2 Ø120, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 1/2 Ø120, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 1/2 Ø120, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 1/2 1/2 Ø140, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 1/2 Ø140, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 1/2 Ø140, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 65 x 65 rounded, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 65 x 65 rounded, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 65 x 65 rounded, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 120 x 70 rounded, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 120 x 70 rounded, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 120 x 70 rounded, solid wood base, HPL, oak
+ - Join, table, corner legs, birch, H75, 200 x Arc 90, solid wood base, melamine, birch
+ - Join, table, corner legs, oak, H75, 200 x Arc 90, solid wood base, melamine, oak
+ - Join, table, corner legs, oak, H75, 200 x Arc 90, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H60, 120x70, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H60, 120x70, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H60, 120x70, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H60, 140x70, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H60, 140x70, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H60, 140x70, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H60, 120x80, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H60, 120x80, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H60, 120x80, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H60, 140x80, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H60, 140x80, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H60, 140x80, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H75, 120x70, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H75, 120x70, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H75, 120x70, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H75, 140x70, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H75, 140x70, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H75, 140x70, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H75, 120x80, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H75, 120x80, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H75, 120x80, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H75, 140x80, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H75, 140x80, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H75, 140x80, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H75, 180x80, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H75, 180x80, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H75, 180x80, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H75, 120x90, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H75, 120x90, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H75, 120x90, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H75, 140x90, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H75, 140x90, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H75, 140x90, solid wood base, HPL, oak
+ - Join, table, T-legs, birch, H75, 180x90, solid wood base, melamine, birch
+ - Join, table, T-legs, oak, H75, 180x90, solid wood base, melamine, oak
+ - Join, table, T-legs, oak, H75, 180x90, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H60, 50x50, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H60, 50x50, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H60, 50x50, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H60, 60x60, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H60, 60x60, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H60, 60x60, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H60, 70x70, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H60, 70x70, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H60, 70x70, solid wood base, HPL, oak
+ - Darwin, 1-seater with three backs
+ - Darwin, 1-seater with three backs
+ - Darwin, 1-seater with three backs
+ - Darwin, 1-seater with three backs
+ - Darwin, 1-seater with three backs
+ - Darwin, 1-seater with three backs
+ - Darwin, 1-seater with three backs
+ - Darwin, 1-seater with one high back
+ - Darwin, 1-seater with one high back
+ - Darwin, 1-seater with one high back
+ - Darwin, 1-seater with one high back
+ - Darwin, 1-seater with one high back
+ - Darwin, 1-seater with one high back
+ - Darwin, 1-seater with one high back
+ - Darwin, 1-seater with one high back and one armrest
+ - Darwin, 1-seater with one high back and one armrest
+ - Darwin, 1-seater with one high back and one armrest
+ - Darwin, 1-seater with one high back and one armrest
+ - Darwin, 1-seater with one high back and one armrest
+ - Darwin, 1-seater with one high back and one armrest
+ - Darwin, 1-seater with one high back and one armrest
+ - Darwin, 1-seater with one high back and one back
+ - Darwin, 1-seater with one high back and one back
+ - Darwin, 1-seater with one high back and one back
+ - Darwin, 1-seater with one high back and one back
+ - Darwin, 1-seater with one high back and one back
+ - Darwin, 1-seater with one high back and one back
+ - Darwin, 1-seater with one high back and one back
+ - Darwin, 1-seater with one high back and two backs
+ - Darwin, 1-seater with one high back and two backs
+ - Darwin, 1-seater with one high back and two backs
+ - Darwin, 1-seater with one high back and two backs
+ - Darwin, 1-seater with one high back and two backs
+ - Darwin, 1-seater with one high back and two backs
+ - Darwin, 1-seater with one high back and two backs
+ - Darwin, 1-seater with two high backs
+ - Darwin, 1-seater with two high backs
+ - Darwin, 1-seater with two high backs
+ - Darwin, 1-seater with two high backs
+ - Darwin, 1-seater with two high backs
+ - Darwin, 1-seater with two high backs
+ - Darwin, 1-seater with two high backs
+ - Join, table, cross legs, birch, H60, 80x80, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H60, 80x80, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H60, 80x80, solid wood base, HPL, oak
+ - Darwin, 1-seater with three high backs
+ - Darwin, 1-seater with three high backs
+ - Darwin, 1-seater with three high backs
+ - Darwin, 1-seater with three high backs
+ - Darwin, 1-seater with three high backs
+ - Darwin, 1-seater with three high backs
+ - Darwin, 1-seater with three high backs
+ - Darwin, 2-seater with no backs
+ - Darwin, 2-seater with no backs
+ - Darwin, 2-seater with no backs
+ - Darwin, 2-seater with no backs
+ - Darwin, 2-seater with no backs
+ - Darwin, 2-seater with no backs
+ - Darwin, 2-seater with no backs
+ - Darwin, 2-seater with one back
+ - Darwin, 2-seater with one back
+ - Darwin, 2-seater with one back
+ - Darwin, 2-seater with one back
+ - Darwin, 2-seater with one back
+ - Darwin, 2-seater with one back
+ - Darwin, 2-seater with one back
+ - Darwin, 2-seater with one back and an armrest
+ - Darwin, 2-seater with one back and an armrest
+ - Darwin, 2-seater with one back and an armrest
+ - Darwin, 2-seater with one back and an armrest
+ - Darwin, 2-seater with one back and an armrest
+ - Darwin, 2-seater with one back and an armrest
+ - Darwin, 2-seater with one back and an armrest
+ - Darwin, 2-seater with two backs
+ - Darwin, 2-seater with two backs
+ - Darwin, 2-seater with two backs
+ - Darwin, 2-seater with two backs
+ - Darwin, 2-seater with two backs
+ - Darwin, 2-seater with two backs
+ - Darwin, 2-seater with two backs
+ - Darwin, 2-seater with two backs and one armrest
+ - Darwin, 2-seater with two backs and one armrest
+ - Darwin, 2-seater with two backs and one armrest
+ - Darwin, 2-seater with two backs and one armrest
+ - Darwin, 2-seater with two backs and one armrest
+ - Darwin, 2-seater with two backs and one armrest
+ - Darwin, 2-seater with two backs and one armrest
+ - Darwin, 2-seater with two backs and two armrests
+ - Darwin, 2-seater with two backs and two armrests
+ - Darwin, 2-seater with two backs and two armrests
+ - Darwin, 2-seater with two backs and two armrests
+ - Darwin, 2-seater with two backs and two armrests
+ - Darwin, 2-seater with two backs and two armrests
+ - Darwin, 2-seater with two backs and two armrests
+ - Darwin, 2-seater with three backs
+ - Darwin, 2-seater with three backs
+ - Darwin, 2-seater with three backs
+ - Darwin, 2-seater with three backs
+ - Darwin, 2-seater with three backs
+ - Darwin, 2-seater with three backs
+ - Darwin, 2-seater with three backs
+ - Darwin, 2-seater with three backs and one armrest
+ - Darwin, 2-seater with three backs and one armrest
+ - Darwin, 2-seater with three backs and one armrest
+ - Darwin, 2-seater with three backs and one armrest
+ - Darwin, 2-seater with three backs and one armrest
+ - Darwin, 2-seater with three backs and one armrest
+ - Darwin, 2-seater with three backs and one armrest
+ - Join, table, cross legs, birch, H60, 90x90, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H60, 90x90, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H60, 90x90, solid wood base, HPL, oak
+ - Darwin, 2-seater with four backs
+ - Darwin, 2-seater with four backs
+ - Darwin, 2-seater with four backs
+ - Darwin, 2-seater with four backs
+ - Darwin, 2-seater with four backs
+ - Darwin, 2-seater with four backs
+ - Darwin, 2-seater with four backs
+ - Darwin, 2-seater with one high back
+ - Darwin, 2-seater with one high back
+ - Darwin, 2-seater with one high back
+ - Darwin, 2-seater with one high back
+ - Darwin, 2-seater with one high back
+ - Darwin, 2-seater with one high back
+ - Darwin, 2-seater with one high back
+ - Darwin, 2-seater with one high back and one armrest
+ - Darwin, 2-seater with one high back and one armrest
+ - Darwin, 2-seater with one high back and one armrest
+ - Darwin, 2-seater with one high back and one armrest
+ - Darwin, 2-seater with one high back and one armrest
+ - Darwin, 2-seater with one high back and one armrest
+ - Darwin, 2-seater with one high back and one armrest
+ - Darwin, 2-seater with one high back and one back
+ - Darwin, 2-seater with one high back and one back
+ - Darwin, 2-seater with one high back and one back
+ - Darwin, 2-seater with one high back and one back
+ - Darwin, 2-seater with one high back and one back
+ - Darwin, 2-seater with one high back and one back
+ - Darwin, 2-seater with one high back and one back
+ - Darwin, 2-seater with two high backs
+ - Darwin, 2-seater with two high backs
+ - Darwin, 2-seater with two high backs
+ - Darwin, 2-seater with two high backs
+ - Darwin, 2-seater with two high backs
+ - Darwin, 2-seater with two high backs
+ - Darwin, 2-seater with two high backs
+ - Darwin, 2-seater with two high backs and one armrest
+ - Darwin, 2-seater with two high backs and one armrest
+ - Darwin, 2-seater with two high backs and one armrest
+ - Darwin, 2-seater with two high backs and one armrest
+ - Darwin, 2-seater with two high backs and one armrest
+ - Darwin, 2-seater with two high backs and one armrest
+ - Darwin, 2-seater with two high backs and one armrest
+ - Darwin, 2-seater with two high backs and one back
+ - Darwin, 2-seater with two high backs and one back
+ - Darwin, 2-seater with two high backs and one back
+ - Darwin, 2-seater with two high backs and one back
+ - Darwin, 2-seater with two high backs and one back
+ - Darwin, 2-seater with two high backs and one back
+ - Darwin, 2-seater with two high backs and one back
+ - Darwin, 2-seater with two high backs and two armrests
+ - Darwin, 2-seater with two high backs and two armrests
+ - Darwin, 2-seater with two high backs and two armrests
+ - Darwin, 2-seater with two high backs and two armrests
+ - Darwin, 2-seater with two high backs and two armrests
+ - Darwin, 2-seater with two high backs and two armrests
+ - Darwin, 2-seater with two high backs and two armrests
+ - Darwin, 2-seater with two high backs and two backs
+ - Darwin, 2-seater with two high backs and two backs
+ - Darwin, 2-seater with two high backs and two backs
+ - Darwin, 2-seater with two high backs and two backs
+ - Darwin, 2-seater with two high backs and two backs
+ - Darwin, 2-seater with two high backs and two backs
+ - Darwin, 2-seater with two high backs and two backs
+ - Join, table, cross legs, birch, H60, Ø60, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H60, Ø60, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H60, Ø60, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H60, Ø70, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H60, Ø70, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H60, Ø70, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H60, Ø90, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H60, Ø90, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H60, Ø90, solid wood base, HPL, oak
+ - Darwin, 2-seater with three high backs
+ - Darwin, 2-seater with three high backs
+ - Darwin, 2-seater with three high backs
+ - Darwin, 2-seater with three high backs
+ - Darwin, 2-seater with three high backs
+ - Darwin, 2-seater with three high backs
+ - Darwin, 2-seater with three high backs
+ - Darwin, 2-seater with three high backs and one armrest
+ - Darwin, 2-seater with three high backs and one armrest
+ - Darwin, 2-seater with three high backs and one armrest
+ - Darwin, 2-seater with three high backs and one armrest
+ - Darwin, 2-seater with three high backs and one armrest
+ - Darwin, 2-seater with three high backs and one armrest
+ - Darwin, 2-seater with three high backs and one armrest
+ - Darwin, 2-seater with three high backs and one back
+ - Darwin, 2-seater with three high backs and one back
+ - Darwin, 2-seater with three high backs and one back
+ - Darwin, 2-seater with three high backs and one back
+ - Darwin, 2-seater with three high backs and one back
+ - Darwin, 2-seater with three high backs and one back
+ - Darwin, 2-seater with three high backs and one back
+ - Darwin, 2-seater with four high backs
+ - Darwin, 2-seater with four high backs
+ - Darwin, 2-seater with four high backs
+ - Darwin, 2-seater with four high backs
+ - Darwin, 2-seater with four high backs
+ - Darwin, 2-seater with four high backs
+ - Darwin, 2-seater with four high backs
+ - Darwin, 3-seater with no back
+ - Darwin, 3-seater with no back
+ - Darwin, 3-seater with no back
+ - Darwin, 3-seater with no back
+ - Darwin, 3-seater with no back
+ - Darwin, 3-seater with no back
+ - Darwin, 3-seater with no back
+ - Darwin, 3-seater with one back
+ - Darwin, 3-seater with one back
+ - Darwin, 3-seater with one back
+ - Darwin, 3-seater with one back
+ - Darwin, 3-seater with one back
+ - Darwin, 3-seater with one back
+ - Darwin, 3-seater with one back
+ - Darwin, 3-seater with one back and one armrest
+ - Darwin, 3-seater with one back and one armrest
+ - Darwin, 3-seater with one back and one armrest
+ - Darwin, 3-seater with one back and one armrest
+ - Darwin, 3-seater with one back and one armrest
+ - Darwin, 3-seater with one back and one armrest
+ - Darwin, 3-seater with one back and one armrest
+ - Darwin, 3-seater with two backs
+ - Darwin, 3-seater with two backs
+ - Darwin, 3-seater with two backs
+ - Darwin, 3-seater with two backs
+ - Darwin, 3-seater with two backs
+ - Darwin, 3-seater with two backs
+ - Darwin, 3-seater with two backs
+ - Darwin, 3-seater with two backs and one armrest
+ - Darwin, 3-seater with two backs and one armrest
+ - Darwin, 3-seater with two backs and one armrest
+ - Darwin, 3-seater with two backs and one armrest
+ - Darwin, 3-seater with two backs and one armrest
+ - Darwin, 3-seater with two backs and one armrest
+ - Darwin, 3-seater with two backs and one armrest
+ - Darwin, 3-seater with two backs and two armrests
+ - Darwin, 3-seater with two backs and two armrests
+ - Darwin, 3-seater with two backs and two armrests
+ - Darwin, 3-seater with two backs and two armrests
+ - Darwin, 3-seater with two backs and two armrests
+ - Darwin, 3-seater with two backs and two armrests
+ - Darwin, 3-seater with two backs and two armrests
+ - Darwin, 3-seater with three backs
+ - Darwin, 3-seater with three backs
+ - Darwin, 3-seater with three backs
+ - Darwin, 3-seater with three backs
+ - Darwin, 3-seater with three backs
+ - Darwin, 3-seater with three backs
+ - Darwin, 3-seater with three backs
+ - Darwin, 3-seater with three backs and one armrest
+ - Darwin, 3-seater with three backs and one armrest
+ - Darwin, 3-seater with three backs and one armrest
+ - Darwin, 3-seater with three backs and one armrest
+ - Darwin, 3-seater with three backs and one armrest
+ - Darwin, 3-seater with three backs and one armrest
+ - Darwin, 3-seater with three backs and one armrest
+ - Darwin, 3-seater with three backs and two armrests
+ - Darwin, 3-seater with three backs and two armrests
+ - Darwin, 3-seater with three backs and two armrests
+ - Darwin, 3-seater with three backs and two armrests
+ - Darwin, 3-seater with three backs and two armrests
+ - Darwin, 3-seater with three backs and two armrests
+ - Darwin, 3-seater with three backs and two armrests
+ - Darwin, 3-seater with four backs
+ - Darwin, 3-seater with four backs
+ - Darwin, 3-seater with four backs
+ - Darwin, 3-seater with four backs
+ - Darwin, 3-seater with four backs
+ - Darwin, 3-seater with four backs
+ - Darwin, 3-seater with four backs
+ - Darwin, 3-seater with one high back
+ - Darwin, 3-seater with one high back
+ - Darwin, 3-seater with one high back
+ - Darwin, 3-seater with one high back
+ - Darwin, 3-seater with one high back
+ - Darwin, 3-seater with one high back
+ - Darwin, 3-seater with one high back
+ - Darwin, 3-seater with one high back and one armrest
+ - Darwin, 3-seater with one high back and one armrest
+ - Darwin, 3-seater with one high back and one armrest
+ - Darwin, 3-seater with one high back and one armrest
+ - Darwin, 3-seater with one high back and one armrest
+ - Darwin, 3-seater with one high back and one armrest
+ - Darwin, 3-seater with one high back and one armrest
+ - Darwin, 3-seater with one high back and one back
+ - Darwin, 3-seater with one high back and one back
+ - Darwin, 3-seater with one high back and one back
+ - Darwin, 3-seater with one high back and one back
+ - Darwin, 3-seater with one high back and one back
+ - Darwin, 3-seater with one high back and one back
+ - Darwin, 3-seater with one high back and one back
+ - Darwin, 3-seater with one high back and two backs
+ - Darwin, 3-seater with one high back and two backs
+ - Darwin, 3-seater with one high back and two backs
+ - Darwin, 3-seater with one high back and two backs
+ - Darwin, 3-seater with one high back and two backs
+ - Darwin, 3-seater with one high back and two backs
+ - Darwin, 3-seater with one high back and two backs
+ - Darwin, 3-seater with one high back, two backs and one armrest
+ - Darwin, 3-seater with one high back, two backs and one armrest
+ - Darwin, 3-seater with one high back, two backs and one armrest
+ - Darwin, 3-seater with one high back, two backs and one armrest
+ - Darwin, 3-seater with one high back, two backs and one armrest
+ - Darwin, 3-seater with one high back, two backs and one armrest
+ - Darwin, 3-seater with one high back, two backs and one armrest
+ - Darwin, 3-seater with one high back, two backs and two armrests
+ - Darwin, 3-seater with one high back, two backs and two armrests
+ - Darwin, 3-seater with one high back, two backs and two armrests
+ - Darwin, 3-seater with one high back, two backs and two armrests
+ - Darwin, 3-seater with one high back, two backs and two armrests
+ - Darwin, 3-seater with one high back, two backs and two armrests
+ - Darwin, 3-seater with one high back, two backs and two armrests
+ - Darwin, 3-seater with one high back and three backs
+ - Darwin, 3-seater with one high back and three backs
+ - Darwin, 3-seater with one high back and three backs
+ - Darwin, 3-seater with one high back and three backs
+ - Darwin, 3-seater with one high back and three backs
+ - Darwin, 3-seater with one high back and three backs
+ - Darwin, 3-seater with one high back and three backs
+ - Join, table, cross legs, birch, H75, 50x50, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H75, 50x50, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H75, 50x50, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H75, 60x60, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H75, 60x60, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H75, 60x60, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H75, 70x70, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H75, 70x70, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H75, 70x70, solid wood base, HPL, oak
+ - Darwin, 3-seater with one high back, three backs and one armrest
+ - Darwin, 3-seater with one high back, three backs and one armrest
+ - Darwin, 3-seater with one high back, three backs and one armrest
+ - Darwin, 3-seater with one high back, three backs and one armrest
+ - Darwin, 3-seater with one high back, three backs and one armrest
+ - Darwin, 3-seater with one high back, three backs and one armrest
+ - Darwin, 3-seater with one high back, three backs and one armrest
+ - Darwin, 3-seater with one high back and four backs
+ - Darwin, 3-seater with one high back and four backs
+ - Darwin, 3-seater with one high back and four backs
+ - Darwin, 3-seater with one high back and four backs
+ - Darwin, 3-seater with one high back and four backs
+ - Darwin, 3-seater with one high back and four backs
+ - Darwin, 3-seater with one high back and four backs
+ - Darwin, 3-seater with two high backs
+ - Darwin, 3-seater with two high backs
+ - Darwin, 3-seater with two high backs
+ - Darwin, 3-seater with two high backs
+ - Darwin, 3-seater with two high backs
+ - Darwin, 3-seater with two high backs
+ - Darwin, 3-seater with two high backs
+ - Darwin, 3-seater with two high backs and one armrest
+ - Darwin, 3-seater with two high backs and one armrest
+ - Darwin, 3-seater with two high backs and one armrest
+ - Darwin, 3-seater with two high backs and one armrest
+ - Darwin, 3-seater with two high backs and one armrest
+ - Darwin, 3-seater with two high backs and one armrest
+ - Darwin, 3-seater with two high backs and one armrest
+ - Darwin, 3-seater with two high backs and one back
+ - Darwin, 3-seater with two high backs and one back
+ - Darwin, 3-seater with two high backs and one back
+ - Darwin, 3-seater with two high backs and one back
+ - Darwin, 3-seater with two high backs and one back
+ - Darwin, 3-seater with two high backs and one back
+ - Darwin, 3-seater with two high backs and one back
+ - Darwin, 3-seater with two high backs, one back and one armrest
+ - Darwin, 3-seater with two high backs, one back and one armrest
+ - Darwin, 3-seater with two high backs, one back and one armrest
+ - Darwin, 3-seater with two high backs, one back and one armrest
+ - Darwin, 3-seater with two high backs, one back and one armrest
+ - Darwin, 3-seater with two high backs, one back and one armrest
+ - Darwin, 3-seater with two high backs, one back and one armrest
+ - Join, table, cross legs, birch, H75, 80x80, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H75, 80x80, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H75, 80x80, solid wood base, HPL, oak
+ - Darwin, 3-seater with two high backs, one back and two armrests
+ - Darwin, 3-seater with two high backs, one back and two armrests
+ - Darwin, 3-seater with two high backs, one back and two armrests
+ - Darwin, 3-seater with two high backs, one back and two armrests
+ - Darwin, 3-seater with two high backs, one back and two armrests
+ - Darwin, 3-seater with two high backs, one back and two armrests
+ - Darwin, 3-seater with two high backs, one back and two armrests
+ - Darwin, 3-seater with two high backs and two armrests
+ - Darwin, 3-seater with two high backs and two armrests
+ - Darwin, 3-seater with two high backs and two armrests
+ - Darwin, 3-seater with two high backs and two armrests
+ - Darwin, 3-seater with two high backs and two armrests
+ - Darwin, 3-seater with two high backs and two armrests
+ - Darwin, 3-seater with two high backs and two armrests
+ - Darwin, 3-seater with two high backs and two backs
+ - Darwin, 3-seater with two high backs and two backs
+ - Darwin, 3-seater with two high backs and two backs
+ - Darwin, 3-seater with two high backs and two backs
+ - Darwin, 3-seater with two high backs and two backs
+ - Darwin, 3-seater with two high backs and two backs
+ - Darwin, 3-seater with two high backs and two backs
+ - Darwin, 3-seater with two high backs, two backs and one armrest
+ - Darwin, 3-seater with two high backs, two backs and one armrest
+ - Darwin, 3-seater with two high backs, two backs and one armrest
+ - Darwin, 3-seater with two high backs, two backs and one armrest
+ - Darwin, 3-seater with two high backs, two backs and one armrest
+ - Darwin, 3-seater with two high backs, two backs and one armrest
+ - Darwin, 3-seater with two high backs, two backs and one armrest
+ - Darwin, 3-seater with two high backs and three backs
+ - Darwin, 3-seater with two high backs and three backs
+ - Darwin, 3-seater with two high backs and three backs
+ - Darwin, 3-seater with two high backs and three backs
+ - Darwin, 3-seater with two high backs and three backs
+ - Darwin, 3-seater with two high backs and three backs
+ - Darwin, 3-seater with two high backs and three backs
+ - Darwin, 3-seater with three high backs
+ - Darwin, 3-seater with three high backs
+ - Darwin, 3-seater with three high backs
+ - Darwin, 3-seater with three high backs
+ - Darwin, 3-seater with three high backs
+ - Darwin, 3-seater with three high backs
+ - Darwin, 3-seater with three high backs
+ - Darwin, 3-seater with three high backs and one armrest
+ - Darwin, 3-seater with three high backs and one armrest
+ - Darwin, 3-seater with three high backs and one armrest
+ - Darwin, 3-seater with three high backs and one armrest
+ - Darwin, 3-seater with three high backs and one armrest
+ - Darwin, 3-seater with three high backs and one armrest
+ - Darwin, 3-seater with three high backs and one armrest
+ - Darwin, 3-seater with three high backs and two armrests
+ - Darwin, 3-seater with three high backs and two armrests
+ - Darwin, 3-seater with three high backs and two armrests
+ - Darwin, 3-seater with three high backs and two armrests
+ - Darwin, 3-seater with three high backs and two armrests
+ - Darwin, 3-seater with three high backs and two armrests
+ - Darwin, 3-seater with three high backs and two armrests
+ - Darwin, 3-seater with three high backs and one back
+ - Darwin, 3-seater with three high backs and one back
+ - Darwin, 3-seater with three high backs and one back
+ - Darwin, 3-seater with three high backs and one back
+ - Darwin, 3-seater with three high backs and one back
+ - Darwin, 3-seater with three high backs and one back
+ - Darwin, 3-seater with three high backs and one back
+ - Join, table, cross legs, birch, H75, 90x90, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H75, 90x90, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H75, 90x90, solid wood base, HPL, oak
+ - Darwin, 3-seater with three high backs, one back and one armrest
+ - Darwin, 3-seater with three high backs, one back and one armrest
+ - Darwin, 3-seater with three high backs, one back and one armrest
+ - Darwin, 3-seater with three high backs, one back and one armrest
+ - Darwin, 3-seater with three high backs, one back and one armrest
+ - Darwin, 3-seater with three high backs, one back and one armrest
+ - Darwin, 3-seater with three high backs, one back and one armrest
+ - Darwin, 3-seater with three high backs and two backs
+ - Darwin, 3-seater with three high backs and two backs
+ - Darwin, 3-seater with three high backs and two backs
+ - Darwin, 3-seater with three high backs and two backs
+ - Darwin, 3-seater with three high backs and two backs
+ - Darwin, 3-seater with three high backs and two backs
+ - Darwin, 3-seater with three high backs and two backs
+ - Darwin, 3-seater with four high backs
+ - Darwin, 3-seater with four high backs
+ - Darwin, 3-seater with four high backs
+ - Darwin, 3-seater with four high backs
+ - Darwin, 3-seater with four high backs
+ - Darwin, 3-seater with four high backs
+ - Darwin, 3-seater with four high backs
+ - Darwin, 3-seater with four high backs and one armrest
+ - Darwin, 3-seater with four high backs and one armrest
+ - Darwin, 3-seater with four high backs and one armrest
+ - Darwin, 3-seater with four high backs and one armrest
+ - Darwin, 3-seater with four high backs and one armrest
+ - Darwin, 3-seater with four high backs and one armrest
+ - Darwin, 3-seater with four high backs and one armrest
+ - Darwin, 3-seater with four high backs and one back
+ - Darwin, 3-seater with four high backs and one back
+ - Darwin, 3-seater with four high backs and one back
+ - Darwin, 3-seater with four high backs and one back
+ - Darwin, 3-seater with four high backs and one back
+ - Darwin, 3-seater with four high backs and one back
+ - Darwin, 3-seater with four high backs and one back
+ - Darwin, replace one seat with no back with one table in birch melamine
+ - Darwin, replace one seat with no back with one table in oak melamine
+ - Darwin, replace one seat with no back with one table in white melamine
+ - Darwin, replace one seat with no back with one table in black melamine
+ - Join, table, cross legs, birch, H75, Ø60, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H75, Ø60, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H75, Ø60, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H75, Ø70, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H75, Ø70, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H75, Ø70, solid wood base, HPL, oak
+ - Join, table, cross legs, birch, H75, Ø90, solid wood base, melamine, birch
+ - Join, table, cross legs, oak, H75, Ø90, solid wood base, melamine, oak
+ - Join, table, cross legs, oak, H75, Ø90, solid wood base, HPL, oak
+ - Darwin, replace one seat with no back with one table in birch HPL
+ - Darwin, replace one seat with no back with one table in oak HPL
+ - Darwin, replace one seat with no back with one table in white HPL
+ - Darwin, replace one seat with no back with one table in black HPL
+ - Darwin, supplement for other color of steel base, per seating area
+ - Darwin, table H36, 64x64, birch melamine, birch
+ - Darwin, table H36, 64x64, oak melamine, oak
+ - Darwin, table H36, 64x64, white melamine, white
+ - Darwin, table H36, 64x64, black melamine, black
+ - Darwin, table H36, 128x64, birch melamine, birch
+ - Darwin, table H36, 128x64, oak melamine, oak
+ - Darwin, table H36, 128x64, white melamine, white
+ - Darwin, table H36, 128x64, black melamine, black
+ - Darwin, table H36, Ø90, birch melamine, birch
+ - Darwin, table H36, Ø90, oak melamine, oak
+ - Darwin, table H36, Ø90, white melamine, white
+ - Darwin, table H36, Ø90, black melamine, black
+ - Darwin, table H36, 64x64, birch HPL, birch
+ - Darwin, table H36, 64x64, oak HPL, oak
+ - Darwin, table H36, 64x64, white HPL, white
+ - Darwin, table H36, 64x64, black HPL, black
+ - Join, table, center column, birch, H60, 50x50, solid wood base, melamine, birch
+ - Join, table, center column, oak, H60, 50x50, solid wood base, melamine, oak
+ - Join, table, center column, oak, H60, 50x50, solid wood base, HPL, oak
+ - Join, table, center column, birch, H60, 60x60, solid wood base, melamine, birch
+ - Join, table, center column, oak, H60, 60x60, solid wood base, melamine, oak
+ - Join, table, center column, oak, H60, 60x60, solid wood base, HPL, oak
+ - Join, table, center column, birch, H60, 70x70, solid wood base, melamine, birch
+ - Join, table, center column, oak, H60, 70x70, solid wood base, melamine, oak
+ - Join, table, center column, oak, H60, 70x70, solid wood base, HPL, oak
+ - Join, table, center column, birch, H60, 80x80, solid wood base, melamine, birch
+ - Join, table, center column, oak, H60, 80x80, solid wood base, melamine, oak
+ - Join, table, center column, oak, H60, 80x80, solid wood base, HPL, oak
+ - Join, table, center column, birch, H60, 90x90, solid wood base, melamine, birch
+ - Join, table, center column, oak, H60, 90x90, solid wood base, melamine, oak
+ - Join, table, center column, oak, H60, 90x90, solid wood base, HPL, oak
+ - Join, table, center column, birch, H60, Ø60, solid wood base, melamine, birch
+ - Join, table, center column, oak, H60, Ø60, solid wood base, melamine, oak
+ - Join, table, center column, oak, H60, Ø60, solid wood base, HPL, oak
+ - Join, table, center column, birch, H60, Ø70, solid wood base, melamine, birch
+ - Join, table, center column, oak, H60, Ø70, solid wood base, melamine, oak
+ - Join, table, center column, oak, H60, Ø70, solid wood base, HPL, oak
+ - Join, table, center column, birch, H60, Ø90, solid wood base, melamine, birch
+ - Join, table, center column, oak, H60, Ø90, solid wood base, melamine, oak
+ - Join, table, center column, oak, H60, Ø90, solid wood base, HPL, oak
+ - Join, table, center column, birch, H75, 50x50, solid wood base, melamine, birch
+ - Join, table, center column, oak, H75, 50x50, solid wood base, melamine, oak
+ - Join, table, center column, oak, H75, 50x50, solid wood base, HPL, oak
+ - Join, table, center column, birch, H75, 60x60, solid wood base, melamine, birch
+ - Join, table, center column, oak, H75, 60x60, solid wood base, melamine, oak
+ - Join, table, center column, oak, H75, 60x60, solid wood base, HPL, oak
+ - Join, table, center column, birch, H75, 70x70, solid wood base, melamine, birch
+ - Join, table, center column, oak, H75, 70x70, solid wood base, melamine, oak
+ - Join, table, center column, oak, H75, 70x70, solid wood base, HPL, oak
+ - Join, table, center column, birch, H75, 80x80, solid wood base, melamine, birch
+ - Join, table, center column, oak, H75, 80x80, solid wood base, melamine, oak
+ - Join, table, center column, oak, H75, 80x80, solid wood base, HPL, oak
+ - Join, table, center column, birch, H75, 90x90, solid wood base, melamine, birch
+ - Join, table, center column, oak, H75, 90x90, solid wood base, melamine, oak
+ - Join, table, center column, oak, H75, 90x90, solid wood base, HPL, oak
+ - Join, table, center column, birch, H75, Ø60, solid wood base, melamine, birch
+ - Join, table, center column, oak, H75, Ø60, solid wood base, melamine, oak
+ - Join, table, center column, oak, H75, Ø60, solid wood base, HPL, oak
+ - Join, table, center column, birch, H75, Ø70, solid wood base, melamine, birch
+ - Join, table, center column, oak, H75, Ø70, solid wood base, melamine, oak
+ - Join, table, center column, oak, H75, Ø70, solid wood base, HPL, oak
+ - Join, table, center column, birch, H75, Ø90, solid wood base, melamine, birch
+ - Join, table, center column, oak, H75, Ø90, solid wood base, melamine, oak
+ - Join, table, center column, oak, H75, Ø90, solid wood base, HPL, oak
+ - Soft, bedside table, 70x40x40 cm, one drawer on top, birch HPL, round handles, birch
+ - Soft, bedside table, 70x40x40 cm, one drawer on top, oak HPL, round handles, oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back without armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), oak
+ - Lean, modular sofa, 3-seater + corner + 2-seater with back with armrests (connected), oak
+ - Pivot, table, cube, white, H43,5, 65x65, melamine, white
+ - Pivot, table, cube, white, H43,5, 130x65, melamine, white
+ - Pivot, table, cube, white, H43,5, Ø68, melamine, white
+ - Pivot, table, cube, white, H43,5, 65x65, HPL, white
+ - Pivot, table, cube, white, H43,5, 130x65, HPL, white
+ - Pivot, table, cube, white, H43,5, Ø68, HPL, white
+ - Pivot, table, cube, white, H53, 65x65, melamine, white
+ - Pivot, table, cube, white, H53, 130x65, melamine, white
+ - Pivot, table, cube, white, H53, Ø68, melamine, white
+ - Pivot, table, cube, white, H53, 65x65, HPL, white
+ - Pivot, table, cube, white, H53, 130x65, HPL, white
+ - Pivot, table, cube, white, H53, Ø68, HPL, white
+ - Pivot, table leg, bolt, H43,5, powder painted Ultra shine, per leg
+ - Pivot, table leg, pipe, H43,5, powder painted black, per leg
+ - Pivot, table leg, pipe, H53, powder painted black, per leg
+ - Nexus, table, corner legs, birch, H75, 60x60, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H75, 70x70, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H75, 120x70, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H75, 140x70, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H75, 80x80, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H75, 120x80, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H75, 140x80, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H75, 90x90, solid wood base, HPL, birch
+ - Nexus, table, corner legs, oak, H75, 50x50, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H75, 60x60, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H75, 70x70, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H75, 120x70, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H75, 140x70, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H75, 80x80, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H75, 120x80, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H75, 140x80, solid wood base, HPL, oak
+ - Nexus, table, corner legs, oak, H75, 90x90, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 60x60, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 60x60, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 60x60, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 60x60, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 70x70, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 70x70, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 70x70, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 70x70, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 120x70, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 120x70, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 120x70, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 120x70, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 140x70, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 140x70, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 140x70, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 140x70, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 80x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 80x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 80x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 80x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 120x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 120x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 120x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 120x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 140x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 140x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 140x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 140x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 180x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 180x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 180x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 180x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 90x90, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 90x90, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 90x90, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 90x90, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 120x90, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 120x90, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 120x90, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 120x90, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 140x90, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 140x90, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 140x90, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 140x90, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 180x90, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 180x90, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 180x90, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 180x90, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, Ø60, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, Ø60, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, Ø60, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, Ø60, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, Ø70, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, Ø70, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, Ø70, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, Ø70, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, Ø90, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, Ø90, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, Ø90, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, Ø90, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, Ø110, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, Ø110, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, Ø110, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, Ø110, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, Ø120, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, Ø120, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, Ø120, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, Ø120, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 1/2 1/2 Ø120, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 1/2 Ø120, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 1/2 Ø120, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 1/2 Ø120, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 1/2 1/2 Ø140, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 1/2 Ø140, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 1/2 Ø140, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 1/2 Ø140, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 65 x 65 rounded, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 65 x 65 rounded, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 65 x 65 rounded, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 65 x 65 rounded, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 120 x 70 rounded, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 120 x 70 rounded, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 120 x 70 rounded, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 120 x 70 rounded, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H72, 200 x 90 arc, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H72, 200 x 90 arc, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H72, 200 x 90 arc, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H72, 200 x 90 arc, solid wood base, HPL, oak
+ - Lip, table, corner legs with paper shelf, birch, H60, 50x50, solid wood base, melamine, birch
+ - Lip, table, corner legs with paper shelf, birch, H60, 50x50, solid wood base, HPL, birch
+ - Lip, table, corner legs with paper shelf, oak, H60, 50x50, solid wood base, melamine, oak
+ - Lip, table, corner legs with paper shelf, oak, H60, 50x50, solid wood base, HPL, oak
+ - Lip, table, corner legs with paper shelf, birch, H60, 60x60, solid wood base, melamine, birch
+ - Lip, table, corner legs with paper shelf, birch, H60, 60x60, solid wood base, HPL, birch
+ - Lip, table, corner legs with paper shelf, oak, H60, 60x60, solid wood base, melamine, oak
+ - Lip, table, corner legs with paper shelf, oak, H60, 60x60, solid wood base, HPL, oak
+ - Lip, table, corner legs with paper shelf, birch, H60, 70x70, solid wood base, melamine, birch
+ - Lip, table, corner legs with paper shelf, birch, H60, 70x70, solid wood base, HPL, birch
+ - Lip, table, corner legs with paper shelf, oak, H60, 70x70, solid wood base, melamine, oak
+ - Lip, table, corner legs with paper shelf, oak, H60, 70x70, solid wood base, HPL, oak
+ - Lip, table, corner legs with paper shelf, birch, H60, 120x70, solid wood base, melamine, birch
+ - Lip, table, corner legs with paper shelf, birch, H60, 120x70, solid wood base, HPL, birch
+ - Lip, table, corner legs with paper shelf, oak, H60, 120x70, solid wood base, melamine, oak
+ - Lip, table, corner legs with paper shelf, oak, H60, 120x70, solid wood base, HPL, oak
+ - Lip, table, corner legs with paper shelf, birch, H60, 140x70, solid wood base, melamine, birch
+ - Lip, table, corner legs with paper shelf, birch, H60, 140x70, solid wood base, HPL, birch
+ - Lip, table, corner legs with paper shelf, oak, H60, 140x70, solid wood base, melamine, oak
+ - Lip, table, corner legs with paper shelf, oak, H60, 140x70, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H60, 80x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 80x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H60, 80x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 80x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H60, 120x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 120x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H60, 120x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 120x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H60, 140x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 140x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H60, 140x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 140x80, solid wood base, HPL, oak
+ - Lip, table, corner legs, birch, H60, 180x80, solid wood base, melamine, birch
+ - Lip, table, corner legs, birch, H60, 180x80, solid wood base, HPL, birch
+ - Lip, table, corner legs, oak, H60, 180x80, solid wood base, melamine, oak
+ - Lip, table, corner legs, oak, H60, 180x80, solid wood base, HPL, oak
+ - Lip, table, T-legs, birch, H72, 120x70, solid wood base, melamine, birch
+ - Lip, table, T-legs, birch, H72, 120x70, solid wood base, HPL, birch
+ - Lip, table, T-legs, oak, H72, 120x70, solid wood base, melamine, oak
+ - Lip, table, T-legs, oak, H72, 120x70, solid wood base, HPL, oak
+ - Lip, table, T-legs, birch, H72, 140x70, solid wood base, melamine, birch
+ - Lip, table, T-legs, birch, H72, 140x70, solid wood base, HPL, birch
+ - Lip, table, T-legs, oak, H72, 140x70, solid wood base, melamine, oak
+ - Lip, table, T-legs, oak, H72, 140x70, solid wood base, HPL, oak
+ - Lip, table, T-legs, birch, H72, 120x80, solid wood base, melamine, birch
+ - Lip, table, T-legs, birch, H72, 120x80, solid wood base, HPL, birch
+ - Lip, table, T-legs, oak, H72, 120x80, solid wood base, melamine, oak
+ - Lip, table, T-legs, oak, H72, 120x80, solid wood base, HPL, oak
+ - Lip, table, T-legs, birch, H72, 140x80, solid wood base, melamine, birch
+ - Lip, table, T-legs, birch, H72, 140x80, solid wood base, HPL, birch
+ - Lip, table, T-legs, oak, H72, 140x80, solid wood base, melamine, oak
+ - Lip, table, T-legs, oak, H72, 140x80, solid wood base, HPL, oak
+ - Lip, table, T-legs, birch, H72, 180x80, solid wood base, melamine, birch
+ - Lip, table, T-legs, birch, H72, 180x80, solid wood base, HPL, birch
+ - Lip, table, T-legs, oak, H72, 180x80, solid wood base, melamine, oak
+ - Lip, table, T-legs, oak, H72, 180x80, solid wood base, HPL, oak
+ - Lip, table, T-legs, birch, H72, 120x90, solid wood base, melamine, birch
+ - Lip, table, T-legs, birch, H72, 120x90, solid wood base, HPL, birch
+ - Lip, table, T-legs, oak, H72, 120x90, solid wood base, melamine, oak
+ - Lip, table, T-legs, oak, H72, 120x90, solid wood base, HPL, oak
+ - Lip, table, T-legs, birch, H72, 140x90, solid wood base, melamine, birch
+ - Lip, table, T-legs, birch, H72, 140x90, solid wood base, HPL, birch
+ - Lip, table, T-legs, oak, H72, 140x90, solid wood base, melamine, oak
+ - Lip, table, T-legs, oak, H72, 140x90, solid wood base, HPL, oak
+ - Lip, table, T-legs, birch, H72, 180x90, solid wood base, melamine, birch
+ - Lip, table, T-legs, birch, H72, 180x90, solid wood base, HPL, birch
+ - Lip, table, T-legs, oak, H72, 180x90, solid wood base, melamine, oak
+ - Lip, table, T-legs, oak, H72, 180x90, solid wood base, HPL, oak
+ - Lip, table, T-legs with elevation, birch, H68-80, 120x70, solid wood base, melamine, birch
+ - Lip, table, T-legs with elevation, birch, H68-80, 120x70, solid wood base, HPL, birch
+ - Lip, table, T-legs with elevation, oak, H68-80, 120x70, solid wood base, melamine, oak
+ - Lip, table, T-legs with elevation, oak, H68-80, 120x70, solid wood base, HPL, oak
+ - Lip, table, T-legs with elevation, birch, H68-80, 140x70, solid wood base, melamine, birch
+ - Lip, table, T-legs with elevation, birch, H68-80, 140x70, solid wood base, HPL, birch
+ - Lip, table, T-legs with elevation, oak, H68-80, 140x70, solid wood base, melamine, oak
+ - Lip, table, T-legs with elevation, oak, H68-80, 140x70, solid wood base, HPL, oak
+ - Lip, table, T-legs with elevation, birch, H68-80, 120x80, solid wood base, melamine, birch
+ - Lip, table, T-legs with elevation, birch, H68-80, 120x80, solid wood base, HPL, birch
+ - Lip, table, T-legs with elevation, oak, H68-80, 120x80, solid wood base, melamine, oak
+ - Lip, table, T-legs with elevation, oak, H68-80, 120x80, solid wood base, HPL, oak
+ - Lip, table, T-legs with elevation, birch, H68-80, 140x80, solid wood base, melamine, birch
+ - Lip, table, T-legs with elevation, birch, H68-80, 140x80, solid wood base, HPL, birch
+ - Lip, table, T-legs with elevation, oak, H68-80, 140x80, solid wood base, melamine, oak
+ - Lip, table, T-legs with elevation, oak, H68-80, 140x80, solid wood base, HPL, oak
+ - Lip, table, T-legs with elevation, birch, H68-80, 180x80, solid wood base, melamine, birch
+ - Lip, table, T-legs with elevation, birch, H68-80, 180x80, solid wood base, HPL, birch
+ - Lip, table, T-legs with elevation, oak, H68-80, 180x80, solid wood base, melamine, oak
+ - Lip, table, T-legs with elevation, oak, H68-80, 180x80, solid wood base, HPL, oak
+ - Lip, table, T-legs with elevation, birch, H68-80, 120x90, solid wood base, melamine, birch
+ - Lip, table, T-legs with elevation, birch, H68-80, 120x90, solid wood base, HPL, birch
+ - Lip, table, T-legs with elevation, oak, H68-80, 120x90, solid wood base, melamine, oak
+ - Lip, table, T-legs with elevation, oak, H68-80, 120x90, solid wood base, HPL, oak
+ - Lip, table, T-legs with elevation, birch, H68-80, 140x90, solid wood base, melamine, birch
+ - Lip, table, T-legs with elevation, birch, H68-80, 140x90, solid wood base, HPL, birch
+ - Lip, table, T-legs with elevation, oak, H68-80, 140x90, solid wood base, melamine, oak
+ - Lip, table, T-legs with elevation, oak, H68-80, 140x90, solid wood base, HPL, oak
+ - Lip, table, T-legs with elevation, birch, H68-80, 180x90, solid wood base, melamine, birch
+ - Lip, table, T-legs with elevation, birch, H68-80, 180x90, solid wood base, HPL, birch
+ - Lip, table, T-legs with elevation, oak, H68-80, 180x90, solid wood base, melamine, oak
+ - Lip, table, T-legs with elevation, oak, H68-80, 180x90, solid wood base, HPL, oak
+ - Zeta, chair, fixed, birch
+ - Zeta, chair, fixed, birch
+ - Zeta, chair, fixed, birch
+ - Zeta, chair, fixed, birch
+ - Zeta, chair, fixed, birch
+ - Zeta, chair, fixed, birch
+ - Zeta, chair, fixed, birch
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 2-seater, fixed, birch
+ - Zeta, 2-seater, fixed, birch
+ - Zeta, 2-seater, fixed, birch
+ - Zeta, 2-seater, fixed, birch
+ - Zeta, 2-seater, fixed, birch
+ - Zeta, 2-seater, fixed, birch
+ - Zeta, 2-seater, fixed, birch
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 2-seater, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 3-seater,fixed, birch
+ - Zeta, 3-seater,fixed, birch
+ - Zeta, 3-seater,fixed, birch
+ - Zeta, 3-seater,fixed, birch
+ - Zeta, 3-seater,fixed, birch
+ - Zeta, 3-seater,fixed, birch
+ - Zeta, 3-seater,fixed, birch
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, 3-seater,fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, fixed, birch
+ - Zeta, high back chair, fixed, birch
+ - Zeta, high back chair, fixed, birch
+ - Zeta, high back chair, fixed, birch
+ - Zeta, high back chair, fixed, birch
+ - Zeta, high back chair, fixed, birch
+ - Zeta, high back chair, fixed, birch
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, fixed, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, stepless adjustment of back, birch
+ - Zeta, high back chair, stepless adjustment of back, birch
+ - Zeta, high back chair, stepless adjustment of back, birch
+ - Zeta, high back chair, stepless adjustment of back, birch
+ - Zeta, high back chair, stepless adjustment of back, birch
+ - Zeta, high back chair, stepless adjustment of back, birch
+ - Zeta, high back chair, stepless adjustment of back, birch
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, birch
+ - Zeta, high back chair, stepless adjustment of back, removable seat cover with incontinence sheet, birch
+ - Zeta, footrest with fixed cushion, birch
+ - Zeta, footrest with fixed cushion, birch
+ - Zeta, footrest with fixed cushion, birch
+ - Zeta, footrest with fixed cushion, birch
+ - Zeta, footrest with fixed cushion, birch
+ - Zeta, footrest with fixed cushion, birch
+ - Zeta, footrest with fixed cushion, birch
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Zeta, footrest with fixed cushion, removable seat cover with incontinence sheet, birch
+ - Meet, 1-seater module without back
+ - Meet, 1-seater module without back
+ - Meet, 1-seater module without back
+ - Meet, 1-seater module without back
+ - Meet, 1-seater module without back
+ - Meet, 1-seater module without back
+ - Meet, 1-seater module without back
+ - Meet, 1-seater module with back, armrest left and right
+ - Meet, 1-seater module with back, armrest left and right
+ - Meet, 1-seater module with back, armrest left and right
+ - Meet, 1-seater module with back, armrest left and right
+ - Meet, 1-seater module with back, armrest left and right
+ - Meet, 1-seater module with back, armrest left and right
+ - Meet, 1-seater module with back, armrest left and right
+ - Meet, 1-seater module with back, with armrest left and no armrest right
+ - Meet, 1-seater module with back, with armrest left and no armrest right
+ - Meet, 1-seater module with back, with armrest left and no armrest right
+ - Meet, 1-seater module with back, with armrest left and no armrest right
+ - Meet, 1-seater module with back, with armrest left and no armrest right
+ - Meet, 1-seater module with back, with armrest left and no armrest right
+ - Meet, 1-seater module with back, with armrest left and no armrest right
+ - Meet, 1-seater module with back, no armrest left and with armrest right
+ - Meet, 1-seater module with back, no armrest left and with armrest right
+ - Meet, 1-seater module with back, no armrest left and with armrest right
+ - Meet, 1-seater module with back, no armrest left and with armrest right
+ - Meet, 1-seater module with back, no armrest left and with armrest right
+ - Meet, 1-seater module with back, no armrest left and with armrest right
+ - Meet, 1-seater module with back, no armrest left and with armrest right
+ - Meet, 1-seater module with back
+ - Meet, 1-seater module with back
+ - Meet, 1-seater module with back
+ - Meet, 1-seater module with back
+ - Meet, 1-seater module with back
+ - Meet, 1-seater module with back
+ - Meet, 1-seater module with back
+ - Meet, 2-seater module without back
+ - Meet, 2-seater module without back
+ - Meet, 2-seater module without back
+ - Meet, 2-seater module without back
+ - Meet, 2-seater module without back
+ - Meet, 2-seater module without back
+ - Meet, 2-seater module without back
+ - Meet, 2-seater module with back, armrest left and right
+ - Meet, 2-seater module with back, armrest left and right
+ - Meet, 2-seater module with back, armrest left and right
+ - Meet, 2-seater module with back, armrest left and right
+ - Meet, 2-seater module with back, armrest left and right
+ - Meet, 2-seater module with back, armrest left and right
+ - Meet, 2-seater module with back, armrest left and right
+ - Meet, 2-seater module with back, with armrest left and no armrest right
+ - Meet, 2-seater module with back, with armrest left and no armrest right
+ - Meet, 2-seater module with back, with armrest left and no armrest right
+ - Meet, 2-seater module with back, with armrest left and no armrest right
+ - Meet, 2-seater module with back, with armrest left and no armrest right
+ - Meet, 2-seater module with back, with armrest left and no armrest right
+ - Meet, 2-seater module with back, with armrest left and no armrest right
+ - Meet, 2-seater module with back, no armrest left and with armrest right
+ - Meet, 2-seater module with back, no armrest left and with armrest right
+ - Meet, 2-seater module with back, no armrest left and with armrest right
+ - Meet, 2-seater module with back, no armrest left and with armrest right
+ - Meet, 2-seater module with back, no armrest left and with armrest right
+ - Meet, 2-seater module with back, no armrest left and with armrest right
+ - Meet, 2-seater module with back, no armrest left and with armrest right
+ - Meet, 2-seater module with back
+ - Meet, 2-seater module with back
+ - Meet, 2-seater module with back
+ - Meet, 2-seater module with back
+ - Meet, 2-seater module with back
+ - Meet, 2-seater module with back
+ - Meet, 2-seater module with back
+ - Meet, 3-seater module without back
+ - Meet, 3-seater module without back
+ - Meet, 3-seater module without back
+ - Meet, 3-seater module without back
+ - Meet, 3-seater module without back
+ - Meet, 3-seater module without back
+ - Meet, 3-seater module without back
+ - Meet, 3-seater module with back, armrest left and right
+ - Meet, 3-seater module with back, armrest left and right
+ - Meet, 3-seater module with back, armrest left and right
+ - Meet, 3-seater module with back, armrest left and right
+ - Meet, 3-seater module with back, armrest left and right
+ - Meet, 3-seater module with back, armrest left and right
+ - Meet, 3-seater module with back, armrest left and right
+ - Meet, 3-seater module with back, with armrest left and no armrest right
+ - Meet, 3-seater module with back, with armrest left and no armrest right
+ - Meet, 3-seater module with back, with armrest left and no armrest right
+ - Meet, 3-seater module with back, with armrest left and no armrest right
+ - Meet, 3-seater module with back, with armrest left and no armrest right
+ - Meet, 3-seater module with back, with armrest left and no armrest right
+ - Meet, 3-seater module with back, with armrest left and no armrest right
+ - Meet, 3-seater module with back, no armrest left and with armrest right
+ - Meet, 3-seater module with back, no armrest left and with armrest right
+ - Meet, 3-seater module with back, no armrest left and with armrest right
+ - Meet, 3-seater module with back, no armrest left and with armrest right
+ - Meet, 3-seater module with back, no armrest left and with armrest right
+ - Meet, 3-seater module with back, no armrest left and with armrest right
+ - Meet, 3-seater module with back, no armrest left and with armrest right
+ - Meet, 3-seater module with back
+ - Meet, 3-seater module with back
+ - Meet, 3-seater module with back
+ - Meet, 3-seater module with back
+ - Meet, 3-seater module with back
+ - Meet, 3-seater module with back
+ - Meet, 3-seater module with back
+ - Meet, connection table large, 0 degrees, oak HPL
+ - Meet, connection table, 45 degrees, oak HPL
+ - Meet, connection table, 90 degrees, oak HPL
+ - Meet, option 2-seater with back: back + back
+ - Meet, option 2-seater with back: rear back + rear back
+ - Meet, option 2-seater with back: back + rear back
+ - Meet, option 2-seater with back: back + no back
+ - Meet, option 2-seater with back: rear back + back
+ - Meet, option 2-seater with back: rear back + no back
+ - Meet, option 2-seater with back: no back + back
+ - Meet, option 2-seater with back: no back + rear back
+ - Meet, option 3-seater with back: back + back + back
+ - Meet, option 3-seater with back: rear back + rear back + rear back
+ - Meet, option 3-seater with back: back + no back + rear back
+ - Meet, option 3-seater with back: back + no back + no back
+ - Meet, option 3-seater with back: rear back + no back + back
+ - Meet, option 3-seater with back: rear back + no back + no back
+ - Meet, option 3-seater with back: no back + no back + back
+ - Meet, option 3-seater with back: no back + no back + rear back
+ - Meet, option 3-seater with back: back + back + rear back
+ - Meet, option 3-seater with back: back + back + no back
+ - Meet, option 3-seater with back: rear back + back + back
+ - Meet, option 3-seater with back: rear back + back + no back
+ - Meet, option 3-seater with back: no back + back + back
+ - Meet, option 3-seater with back: no back + back + rear back
+ - Meet, option 3-seater with back: back + rear back + rear back
+ - Meet, option 3-seater with back: back + rear back + no back
+ - Meet, option 3-seater with back: rear back + rear back + back
+ - Meet, option 3-seater with back: rear back + rear back + no back
+ - Meet, option 3-seater with back: no back + rear back + back
+ - Meet, option 3-seater with back: no back + rear back + rear back
+ - Meet, option 3-seater with back: back + no back + back
+ - Meet, option 3-seater with back: rear back + no back + rear back
+ - Darwin, table H36, 128x64, birch HPL, birch
+ - Darwin, table H36, 128x64, oak HPL, oak
+ - Darwin, table H36, 128x64, white HPL, white
+ - Darwin, table H36, 128x64, black HPL, black
+ - Darwin, table H36, Ø90, birch HPL, birch
+ - Darwin, table H36, Ø90, oak HPL, oak
+ - Darwin, table H36, Ø90, white HPL, white
+ - Darwin, table H36, Ø90, black HPL, black
+ - Darwin, supplement for other color of steel base, single table
+ - Darwin, supplement for other color of steel base, double table
+ - Darwin, connection bracket
+ - Mine, 1-seater bench
+ - Mine, 1-seater bench
+ - Mine, 1-seater bench
+ - Mine, 1-seater bench
+ - Mine, 1-seater bench
+ - Mine, 1-seater bench
+ - Mine, 1-seater bench
+ - Mine, 1-seater back low, without armrest
+ - Mine, 1-seater back low, without armrest
+ - Mine, 1-seater back low, without armrest
+ - Mine, 1-seater back low, without armrest
+ - Mine, 1-seater back low, without armrest
+ - Mine, 1-seater back low, without armrest
+ - Mine, 1-seater back low, without armrest
+ - Mine, 1-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Alma, chair with armrest, oak
+ - Alma, chair with armrest, oak
+ - Alma, chair with armrest, oak
+ - Alma, chair with armrest, oak
+ - Alma, chair with armrest, oak
+ - Alma, chair with armrest, oak
+ - Alma, chair with armrest, oak
+ - Alma, chair with armrest and removeable seat cover, oak
+ - Alma, chair with armrest and removeable seat cover, oak
+ - Alma, chair with armrest and removeable seat cover, oak
+ - Alma, chair with armrest and removeable seat cover, oak
+ - Alma, chair with armrest and removeable seat cover, oak
+ - Alma, chair with armrest and removeable seat cover, oak
+ - Alma, chair with armrest and removeable seat cover, oak
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, oak
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, oak
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, oak
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, oak
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, oak
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, oak
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, oak
+ - Mine, 1-seater back medium, without armrest
+ - Mine, 1-seater back medium, without armrest
+ - Mine, 1-seater back medium, without armrest
+ - Mine, 1-seater back medium, without armrest
+ - Mine, 1-seater back medium, without armrest
+ - Mine, 1-seater back medium, without armrest
+ - Mine, 1-seater back medium, without armrest
+ - Mine, 1-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Nexus, table, corner legs, birch, H75, 180x80, solid wood base, HPL, birch
+ - Nexus, table, corner legs, birch, H75, 180x90, solid wood base, HPL, birch
+ - Nexus, table, corner legs, oak, H75, 180x80, solid wood base, HPL, oak
+ - Mine, 1-seater back high, without armrest
+ - Mine, 1-seater back high, without armrest
+ - Mine, 1-seater back high, without armrest
+ - Mine, 1-seater back high, without armrest
+ - Mine, 1-seater back high, without armrest
+ - Mine, 1-seater back high, without armrest
+ - Mine, 1-seater back high, without armrest
+ - Mine, 1-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 1-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 1-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 1-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Nexus, table, corner legs, oak, H75, 180x90, solid wood base, HPL, oak
+ - Lean, adjustment fro removable seat cover for 1-seater, per pc.
+ - Lean, adjustment fro removable seat cover for 2-seater and arc, per pc.
+ - Mine, 2-seater bench
+ - Mine, 2-seater bench
+ - Mine, 2-seater bench
+ - Mine, 2-seater bench
+ - Mine, 2-seater bench
+ - Mine, 2-seater bench
+ - Mine, 2-seater bench
+ - Mine, 2-seater back low, without armrest
+ - Mine, 2-seater back low, without armrest
+ - Mine, 2-seater back low, without armrest
+ - Mine, 2-seater back low, without armrest
+ - Mine, 2-seater back low, without armrest
+ - Mine, 2-seater back low, without armrest
+ - Mine, 2-seater back low, without armrest
+ - Mine, 2-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Lean, adjustment fro removable seat cover for 3-seater, per pc.
+ - Lean, addition for incontience sheet for 1-seater, per pc.
+ - Lean, addition for incontience sheet for 2-seater and arc, per pc.
+ - Mine, 2-seater back medium, without armrest
+ - Mine, 2-seater back medium, without armrest
+ - Mine, 2-seater back medium, without armrest
+ - Mine, 2-seater back medium, without armrest
+ - Mine, 2-seater back medium, without armrest
+ - Mine, 2-seater back medium, without armrest
+ - Mine, 2-seater back medium, without armrest
+ - Mine, 2-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Lean, addition for incontience sheet for 3-seater, per pc.
+ - Pivot Cave, extra high chair with end plates
+ - Pivot Cave, extra high chair with end plates
+ - Pivot Cave, extra high chair with end plates
+ - Pivot Cave, extra high chair with end plates
+ - Pivot Cave, extra high chair with end plates
+ - Pivot Cave, extra high chair with end plates
+ - Pivot Cave, extra high chair with end plates
+ - Pivot Cave, extra high 1,5-seater with end plates
+ - Pivot Cave, extra high 1,5-seater with end plates
+ - Pivot Cave, extra high 1,5-seater with end plates
+ - Pivot Cave, extra high 1,5-seater with end plates
+ - Pivot Cave, extra high 1,5-seater with end plates
+ - Pivot Cave, extra high 1,5-seater with end plates
+ - Pivot Cave, extra high 1,5-seater with end plates
+ - Mine, 2-seater back high, without armrest
+ - Mine, 2-seater back high, without armrest
+ - Mine, 2-seater back high, without armrest
+ - Mine, 2-seater back high, without armrest
+ - Mine, 2-seater back high, without armrest
+ - Mine, 2-seater back high, without armrest
+ - Mine, 2-seater back high, without armrest
+ - Mine, 2-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 2-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 2-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 2-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Pivot Cave, extra high 2-seater with end plates
+ - Pivot Cave, extra high 2-seater with end plates
+ - Pivot Cave, extra high 2-seater with end plates
+ - Pivot Cave, extra high 2-seater with end plates
+ - Pivot Cave, extra high 2-seater with end plates
+ - Pivot Cave, extra high 2-seater with end plates
+ - Pivot Cave, extra high 2-seater with end plates
+ - Pivot Cave, extra high 3-seater with end plates
+ - Pivot Cave, extra high 3-seater with end plates
+ - Pivot Cave, extra high 3-seater with end plates
+ - Pivot Cave, extra high 3-seater with end plates
+ - Pivot Cave, extra high 3-seater with end plates
+ - Pivot Cave, extra high 3-seater with end plates
+ - Pivot Cave, extra high 3-seater with end plates
+ - Darwin, extra cover for seat
+ - Darwin, extra cover for seat
+ - Darwin, extra cover for seat
+ - Darwin, extra cover for seat
+ - Darwin, extra cover for seat
+ - Darwin, extra cover for seat
+ - Darwin, extra cover for seat
+ - Mine, 3-seater bench
+ - Mine, 3-seater bench
+ - Mine, 3-seater bench
+ - Mine, 3-seater bench
+ - Mine, 3-seater bench
+ - Mine, 3-seater bench
+ - Mine, 3-seater bench
+ - Mine, 3-seater back low, without armrest
+ - Mine, 3-seater back low, without armrest
+ - Mine, 3-seater back low, without armrest
+ - Mine, 3-seater back low, without armrest
+ - Mine, 3-seater back low, without armrest
+ - Mine, 3-seater back low, without armrest
+ - Mine, 3-seater back low, without armrest
+ - Mine, 3-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back low, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back low, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back low, LSF without armrest and RSF armrest narrow 5 cm
+ - Darwin, extra cover for armrest
+ - Darwin, extra cover for armrest
+ - Darwin, extra cover for armrest
+ - Darwin, extra cover for armrest
+ - Darwin, extra cover for armrest
+ - Darwin, extra cover for armrest
+ - Darwin, extra cover for armrest
+ - Darwin, extra cover for back
+ - Darwin, extra cover for back
+ - Darwin, extra cover for back
+ - Darwin, extra cover for back
+ - Darwin, extra cover for back
+ - Darwin, extra cover for back
+ - Darwin, extra cover for back
+ - Darwin, extra cover for high back
+ - Darwin, extra cover for high back
+ - Darwin, extra cover for high back
+ - Darwin, extra cover for high back
+ - Darwin, extra cover for high back
+ - Darwin, extra cover for high back
+ - Darwin, extra cover for high back
+ - Mine, 3-seater back medium, without armrest
+ - Mine, 3-seater back medium, without armrest
+ - Mine, 3-seater back medium, without armrest
+ - Mine, 3-seater back medium, without armrest
+ - Mine, 3-seater back medium, without armrest
+ - Mine, 3-seater back medium, without armrest
+ - Mine, 3-seater back medium, without armrest
+ - Mine, 3-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back medium, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back medium, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back medium, LSF without armrest and RSF armrest narrow 5 cm
+ - Darwin, adjust seating height (adjust legs with up to +/- 3 cm)
+ - Mine, customized, seating height 49 cm., per pair legs (additional)
+ - Mine, 3-seater back high, without armrest
+ - Mine, 3-seater back high, without armrest
+ - Mine, 3-seater back high, without armrest
+ - Mine, 3-seater back high, without armrest
+ - Mine, 3-seater back high, without armrest
+ - Mine, 3-seater back high, without armrest
+ - Mine, 3-seater back high, without armrest
+ - Mine, 3-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back high, armrest both sides, narrow 5 cm
+ - Mine, 3-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back high, LSF armrest narrow 5 cm and RSF without armrest
+ - Mine, 3-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Mine, 3-seater back high, LSF without armrest and RSF armrest narrow 5 cm
+ - Annet, cover for pillow 40x40 cm with zipper
+ - Annet, cover for pillow 40x40 cm with zipper
+ - Annet, cover for pillow 40x40 cm with zipper
+ - Annet, cover for pillow 40x40 cm with zipper
+ - Annet, cover for pillow 40x40 cm with zipper
+ - Annet, cover for pillow 40x40 cm with zipper
+ - Annet, cover for pillow 40x40 cm with zipper
+ - Annet, cover for pillow 50x50 cm with zipper
+ - Annet, cover for pillow 50x50 cm with zipper
+ - Annet, cover for pillow 50x50 cm with zipper
+ - Annet, cover for pillow 50x50 cm with zipper
+ - Annet, cover for pillow 50x50 cm with zipper
+ - Annet, cover for pillow 50x50 cm with zipper
+ - Annet, cover for pillow 50x50 cm with zipper
+ - Annet, cover for pillow 40x60 cm with zipper
+ - Annet, cover for pillow 40x60 cm with zipper
+ - Annet, cover for pillow 40x60 cm with zipper
+ - Annet, cover for pillow 40x60 cm with zipper
+ - Annet, cover for pillow 40x60 cm with zipper
+ - Annet, cover for pillow 40x60 cm with zipper
+ - Annet, cover for pillow 40x60 cm with zipper
+ - Mine, corner element inside (90 degrees), back low
+ - Mine, corner element inside (90 degrees), back low
+ - Mine, corner element inside (90 degrees), back low
+ - Mine, corner element inside (90 degrees), back low
+ - Mine, corner element inside (90 degrees), back low
+ - Mine, corner element inside (90 degrees), back low
+ - Mine, corner element inside (90 degrees), back low
+ - Mine, modular sofa, 3-seater + corner + 2-seater low back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater low back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater low back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater low back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater low back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater low back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater low back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater medium back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater medium back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater medium back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater medium back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater medium back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater medium back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater medium back with narrow armrests, 5 cm
+ - Nexus, dining chair without armrest, with back pillow, birch
+ - Nexus, dining chair without armrest, with back pillow, birch
+ - Nexus, dining chair without armrest, with back pillow, birch
+ - Nexus, dining chair without armrest, with back pillow, birch
+ - Nexus, dining chair without armrest, with back pillow, birch
+ - Nexus, dining chair without armrest, with back pillow, birch
+ - Nexus, dining chair without armrest, with back pillow, birch
+ - Nexus, dining chair with armrest and back pillow, birch
+ - Nexus, dining chair with armrest and back pillow, birch
+ - Nexus, dining chair with armrest and back pillow, birch
+ - Nexus, dining chair with armrest and back pillow, birch
+ - Nexus, dining chair with armrest and back pillow, birch
+ - Nexus, dining chair with armrest and back pillow, birch
+ - Nexus, dining chair with armrest and back pillow, birch
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, multi dining chair with armrest and back pillow, birch
+ - Nexus, multi dining chair with armrest and back pillow, birch
+ - Nexus, multi dining chair with armrest and back pillow, birch
+ - Nexus, multi dining chair with armrest and back pillow, birch
+ - Nexus, multi dining chair with armrest and back pillow, birch
+ - Nexus, multi dining chair with armrest and back pillow, birch
+ - Nexus, multi dining chair with armrest and back pillow, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, max dining chair with armrest and back pillow, birch
+ - Nexus, max dining chair with armrest and back pillow, birch
+ - Nexus, max dining chair with armrest and back pillow, birch
+ - Nexus, max dining chair with armrest and back pillow, birch
+ - Nexus, max dining chair with armrest and back pillow, birch
+ - Nexus, max dining chair with armrest and back pillow, birch
+ - Nexus, max dining chair with armrest and back pillow, birch
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, birch
+ - Nexus, dining chair without armrest, with back pillow, oak
+ - Nexus, dining chair without armrest, with back pillow, oak
+ - Nexus, dining chair without armrest, with back pillow, oak
+ - Nexus, dining chair without armrest, with back pillow, oak
+ - Nexus, dining chair without armrest, with back pillow, oak
+ - Nexus, dining chair without armrest, with back pillow, oak
+ - Nexus, dining chair without armrest, with back pillow, oak
+ - Nexus, dining chair with armrest and back pillow, oak
+ - Nexus, dining chair with armrest and back pillow, oak
+ - Nexus, dining chair with armrest and back pillow, oak
+ - Nexus, dining chair with armrest and back pillow, oak
+ - Nexus, dining chair with armrest and back pillow, oak
+ - Nexus, dining chair with armrest and back pillow, oak
+ - Nexus, dining chair with armrest and back pillow, oak
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, multi dining chair with armrest and back pillow, oak
+ - Nexus, multi dining chair with armrest and back pillow, oak
+ - Nexus, multi dining chair with armrest and back pillow, oak
+ - Nexus, multi dining chair with armrest and back pillow, oak
+ - Nexus, multi dining chair with armrest and back pillow, oak
+ - Nexus, multi dining chair with armrest and back pillow, oak
+ - Nexus, multi dining chair with armrest and back pillow, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, multi dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, max dining chair with armrest and back pillow, oak
+ - Nexus, max dining chair with armrest and back pillow, oak
+ - Nexus, max dining chair with armrest and back pillow, oak
+ - Nexus, max dining chair with armrest and back pillow, oak
+ - Nexus, max dining chair with armrest and back pillow, oak
+ - Nexus, max dining chair with armrest and back pillow, oak
+ - Nexus, max dining chair with armrest and back pillow, oak
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, oak
+ - Nexus, max dining chair with armrest, wheel on front leg and back pillow, oak
+ - Mine, corner element inside (90 degrees). back medium
+ - Mine, corner element inside (90 degrees). back medium
+ - Mine, corner element inside (90 degrees). back medium
+ - Mine, corner element inside (90 degrees). back medium
+ - Mine, corner element inside (90 degrees). back medium
+ - Mine, corner element inside (90 degrees). back medium
+ - Mine, corner element inside (90 degrees). back medium
+ - Mine, corner element inside (90 degrees), back high
+ - Mine, corner element inside (90 degrees), back high
+ - Mine, corner element inside (90 degrees), back high
+ - Mine, corner element inside (90 degrees), back high
+ - Mine, corner element inside (90 degrees), back high
+ - Mine, corner element inside (90 degrees), back high
+ - Mine, corner element inside (90 degrees), back high
+ - Mine, armrest/sidewall, LSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, low, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, low, narrow 5 cm, per unit
+ - Pivot, customized, seating height 46.5 cm., per leg (additional)
+ - Pivot, customized, seating height 49.5 cm., per leg (additional)
+ - Mine, modular sofa, 3-seater + corner + 2-seater high back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater high back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater high back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater high back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater high back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater high back with narrow armrests, 5 cm
+ - Mine, modular sofa, 3-seater + corner + 2-seater high back with narrow armrests, 5 cm
+ - Mine, no connection
+ - Mine, connection one side
+ - Mine, connection two sides
+ - Mine, supplement for other color of steel base, per seating area
+ - Mine, customized, reduced width of straight element
+ - Mine, customized, odd angel
+ - Mine, gap seat and back for 1-seater, per pc.
+ - Mine, gap seat and back for 2-seater and corner, per pc.
+ - Mine, gap seat and back for 3-seater, per pc.
+ - Mine, adjustment fro removable seat cover for 1-seater, per pc.
+ - Mine, adjustment fro removable seat cover for 2-seater and corner, per pc.
+ - Mine, adjustment fro removable seat cover for 3-seater, per pc.
+ - Mine, addition for incontience sheet for 1-seater, per pc.
+ - Mine, addition for incontience sheet for 2-seater and corner, per pc.
+ - Mine, addition for incontience sheet for 3-seater, per pc..
+ - Mine, additional removeable seat cover for Gap 1-seater
+ - Mine, additional removeable seat cover for Gap 1-seater
+ - Mine, additional removeable seat cover for Gap 1-seater
+ - Mine, additional removeable seat cover for Gap 1-seater
+ - Mine, additional removeable seat cover for Gap 1-seater
+ - Mine, additional removeable seat cover for Gap 1-seater
+ - Mine, additional removeable seat cover for Gap 1-seater
+ - Mine, additional removeable seat cover for Gap 2-seater
+ - Mine, additional removeable seat cover for Gap 2-seater
+ - Mine, additional removeable seat cover for Gap 2-seater
+ - Mine, additional removeable seat cover for Gap 2-seater
+ - Mine, additional removeable seat cover for Gap 2-seater
+ - Mine, additional removeable seat cover for Gap 2-seater
+ - Mine, additional removeable seat cover for Gap 2-seater
+ - Mine, additional removeable seat cover for Gap 3-seater
+ - Mine, additional removeable seat cover for Gap 3-seater
+ - Mine, additional removeable seat cover for Gap 3-seater
+ - Mine, additional removeable seat cover for Gap 3-seater
+ - Mine, additional removeable seat cover for Gap 3-seater
+ - Mine, additional removeable seat cover for Gap 3-seater
+ - Mine, additional removeable seat cover for Gap 3-seater
+ - Mine, additional removeable seat cover for Gap corner inside 90 dgr
+ - Mine, additional removeable seat cover for Gap corner inside 90 dgr
+ - Mine, additional removeable seat cover for Gap corner inside 90 dgr
+ - Mine, additional removeable seat cover for Gap corner inside 90 dgr
+ - Mine, additional removeable seat cover for Gap corner inside 90 dgr
+ - Mine, additional removeable seat cover for Gap corner inside 90 dgr
+ - Mine, additional removeable seat cover for Gap corner inside 90 dgr
+ - Alma, chair with armrest, birch
+ - Alma, chair with armrest, birch
+ - Alma, chair with armrest, birch
+ - Alma, chair with armrest, birch
+ - Alma, chair with armrest, birch
+ - Alma, chair with armrest, birch
+ - Alma, chair with armrest, birch
+ - Alma, chair with armrest and removeable seat cover, birch
+ - Alma, chair with armrest and removeable seat cover, birch
+ - Alma, chair with armrest and removeable seat cover, birch
+ - Alma, chair with armrest and removeable seat cover, birch
+ - Alma, chair with armrest and removeable seat cover, birch
+ - Alma, chair with armrest and removeable seat cover, birch
+ - Alma, chair with armrest and removeable seat cover, birch
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, birch
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, birch
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, birch
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, birch
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, birch
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, birch
+ - Alma, chair with armrest, removeable seat cover and incontinence sheet, birch
+ - Alma, extra removable seat cover
+ - Alma, extra removable seat cover
+ - Alma, extra removable seat cover
+ - Alma, extra removable seat cover
+ - Alma, extra removable seat cover
+ - Alma, extra removable seat cover
+ - Alma, extra removable seat cover
+ - Alma, addition for staining (light cherry, teak, mahogny, white and black) per unit
+ - Mine, armrest/sidewall, LSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, medium, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall, LSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, high, narrow 5 cm, per unit
+ - Mine, armrest/sidewall RSF, high, narrow 5 cm, per unit
+ - Darwin, extra seat
+ - Darwin, extra seat
+ - Darwin, extra seat
+ - Darwin, extra seat
+ - Darwin, extra seat
+ - Darwin, extra seat
+ - Darwin, extra seat
+ - Darwin, extra armrest
+ - Darwin, extra armrest
+ - Darwin, extra armrest
+ - Darwin, extra armrest
+ - Darwin, extra armrest
+ - Darwin, extra armrest
+ - Darwin, extra armrest
+ - Darwin, extra back
+ - Darwin, extra back
+ - Darwin, extra back
+ - Darwin, extra back
+ - Darwin, extra back
+ - Darwin, extra back
+ - Darwin, extra back
+ - Darwin, extra high back
+ - Darwin, extra high back
+ - Darwin, extra high back
+ - Darwin, extra high back
+ - Darwin, extra high back
+ - Darwin, extra high back
+ - Darwin, extra high back
+ - Alma, table, corner legs, solid wood base birch, H40, 40x40, birch melamine
+ - Alma, table, corner legs, solid wood base birch, H40, 40x40, birch HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 40x40, white HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 40x40, black HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 50x50, birch melamine
+ - Alma, table, corner legs, solid wood base birch, H40, 50x50, birch HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 50x50, white HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 50x50, black HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 60x60, birch melamine
+ - Alma, table, corner legs, solid wood base birch, H40, 60x60, birch HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 60x60, white HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 60x60, black HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 70x70, birch melamine
+ - Alma, table, corner legs, solid wood base birch, H40, 70x70, birch HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 70x70, white HPL
+ - Alma, table, corner legs, solid wood base birch, H40, 70x70, black HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø40, birch melamine
+ - Alma, table, corner legs, solid wood base birch, H40, Ø40, birch HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø40, white HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø40, black HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø50, birch melamine
+ - Alma, table, corner legs, solid wood base birch, H40, Ø50, birch HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø50, white HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø50, black HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø60, birch melamine
+ - Alma, table, corner legs, solid wood base birch, H40, Ø60, birch HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø60, white HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø60, black HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø70, birch melamine
+ - Alma, table, corner legs, solid wood base birch, H40, Ø70, birch HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø70, white HPL
+ - Alma, table, corner legs, solid wood base birch, H40, Ø70, black HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 40x40, oak melamine
+ - Alma, table, corner legs, solid wood base oak, H40, 40x40, oak HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 40x40, white HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 40x40, black HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 50x50, oak melamine
+ - Alma, table, corner legs, solid wood base oak, H40, 50x50, oak HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 50x50, white HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 50x50, black HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 60x60, oak melamine
+ - Alma, table, corner legs, solid wood base oak, H40, 60x60, oak HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 60x60, white HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 60x60, black HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 70x70, oak melamine
+ - Alma, table, corner legs, solid wood base oak, H40, 70x70, oak HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 70x70, white HPL
+ - Alma, table, corner legs, solid wood base oak, H40, 70x70, black HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø40, oak melamine
+ - Alma, table, corner legs, solid wood base oak, H40, Ø40, oak HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø40, white HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø40, black HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø50, oak melamine
+ - Alma, table, corner legs, solid wood base oak, H40, Ø50, oak HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø50, white HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø50, black HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø60, oak melamine
+ - Alma, table, corner legs, solid wood base oak, H40, Ø60, oak HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø60, white HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø60, black HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø70, oak melamine
+ - Alma, table, corner legs, solid wood base oak, H40, Ø70, oak HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø70, white HPL
+ - Alma, table, corner legs, solid wood base oak, H40, Ø70, black HPL
+ - Alma, table, corner legs, solid wood base birch, H60, 50x50, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 50x50, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 50x50, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 50x50, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 60x60, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 60x60, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 60x60, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 60x60, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 70x70, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 70x70, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 70x70, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 70x70, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 120x70, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 120x70, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 120x70, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 120x70, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 140x70, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 140x70, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 140x70, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 140x70, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 80x80, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 80x80, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 80x80, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 80x80, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 120x80, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 120x80, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 120x80, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 120x80, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 140x80, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 140x80, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 140x80, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 140x80, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 90x90, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 90x90, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 90x90, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, 90x90, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø60, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø60, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø60, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø60, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø70, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø70, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø70, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø70, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø90, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø90, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø90, white HPL, birch
+ - Santana, straight 1-seater stool
+ - Santana, straight 1-seater stool
+ - Santana, straight 1-seater stool
+ - Santana, straight 1-seater stool
+ - Santana, straight 1-seater stool
+ - Santana, straight 1-seater stool
+ - Santana, straight 1-seater stool
+ - Santana, straight 2-seater stool
+ - Santana, straight 2-seater stool
+ - Santana, straight 2-seater stool
+ - Santana, straight 2-seater stool
+ - Santana, straight 2-seater stool
+ - Santana, straight 2-seater stool
+ - Santana, straight 2-seater stool
+ - Santana, straight 3-seater stool
+ - Santana, straight 3-seater stool
+ - Santana, straight 3-seater stool
+ - Santana, straight 3-seater stool
+ - Santana, straight 3-seater stool
+ - Santana, straight 3-seater stool
+ - Santana, straight 3-seater stool
+ - Alma, table, corner legs, solid wood base birch, H60, Ø110, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø110, black HPL, birch
+ - Santana, 3-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF narrow armrest
+ - Santana, 3-seater, LSF narrow armrest and RSF narrow armrest
+ - Alma, table, corner legs, solid wood base oak, H60, 50x50, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 50x50, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 50x50, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 50x50, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 60x60, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 60x60, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 60x60, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 60x60, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 70x70, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 70x70, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 70x70, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 70x70, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 120x70, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 120x70, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 120x70, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 120x70, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 140x70, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 140x70, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 140x70, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 140x70, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 80x80, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 80x80, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 80x80, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 80x80, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 120x80, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 120x80, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 120x80, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 120x80, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 140x80, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 140x80, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 140x80, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 140x80, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 90x90, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 90x90, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 90x90, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, 90x90, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø60, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø60, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø60, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø60, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø70, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø70, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø70, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø70, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø90, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø90, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø90, white HPL, oak
+ - Pivot, 1-seater, without armrest
+ - Pivot, 1-seater, without armrest
+ - Pivot, 1-seater, without armrest
+ - Pivot, 1-seater, without armrest
+ - Pivot, 1-seater, without armrest
+ - Pivot, 1-seater, without armrest
+ - Pivot, 1-seater, without armrest
+ - Pivot, 2-seater, without armrest
+ - Pivot, 2-seater, without armrest
+ - Pivot, 2-seater, without armrest
+ - Pivot, 2-seater, without armrest
+ - Pivot, 2-seater, without armrest
+ - Pivot, 2-seater, without armrest
+ - Pivot, 2-seater, without armrest
+ - Pivot, 3-seater, without armrest
+ - Pivot, 3-seater, without armrest
+ - Pivot, 3-seater, without armrest
+ - Pivot, 3-seater, without armrest
+ - Pivot, 3-seater, without armrest
+ - Pivot, 3-seater, without armrest
+ - Pivot, 3-seater, without armrest
+ - Pivot, corner element inside (90 degrees)
+ - Pivot, corner element inside (90 degrees)
+ - Pivot, corner element inside (90 degrees)
+ - Pivot, corner element inside (90 degrees)
+ - Pivot, corner element inside (90 degrees)
+ - Pivot, corner element inside (90 degrees)
+ - Pivot, corner element inside (90 degrees)
+ - Pivot, arc inside 60 dgr
+ - Pivot, arc inside 60 dgr
+ - Pivot, arc inside 60 dgr
+ - Pivot, arc inside 60 dgr
+ - Pivot, arc inside 60 dgr
+ - Pivot, arc inside 60 dgr
+ - Pivot, arc inside 60 dgr
+ - Pivot, round stool with notch (68 cm. dia.)
+ - Pivot, round stool with notch (68 cm. dia.)
+ - Pivot, round stool with notch (68 cm. dia.)
+ - Pivot, round stool with notch (68 cm. dia.)
+ - Pivot, round stool with notch (68 cm. dia.)
+ - Pivot, round stool with notch (68 cm. dia.)
+ - Pivot, round stool with notch (68 cm. dia.)
+ - Pivot, round stool (68 cm. dia.)
+ - Pivot, round stool (68 cm. dia.)
+ - Pivot, round stool (68 cm. dia.)
+ - Pivot, round stool (68 cm. dia.)
+ - Pivot, round stool (68 cm. dia.)
+ - Pivot, round stool (68 cm. dia.)
+ - Pivot, round stool (68 cm. dia.)
+ - Pivot, round stool (136 cm. dia.)
+ - Pivot, round stool (136 cm. dia.)
+ - Pivot, round stool (136 cm. dia.)
+ - Pivot, round stool (136 cm. dia.)
+ - Pivot, round stool (136 cm. dia.)
+ - Pivot, round stool (136 cm. dia.)
+ - Pivot, round stool (136 cm. dia.)
+ - Pivot Cave, extra high arc inside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc inside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc inside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc inside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc inside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc inside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc inside 60 dgr, without sidewalls
+ - Pivot, round stool (45 cm. dia.)
+ - Pivot, round stool (45 cm. dia.)
+ - Pivot, round stool (45 cm. dia.)
+ - Pivot, round stool (45 cm. dia.)
+ - Pivot, round stool (45 cm. dia.)
+ - Pivot, round stool (45 cm. dia.)
+ - Pivot, round stool (45 cm. dia.)
+ - Pivot Cave, extra high arc outside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc outside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc outside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc outside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc outside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc outside 60 dgr, without sidewalls
+ - Pivot Cave, extra high arc outside 60 dgr, without sidewalls
+ - Alma, table, corner legs, solid wood base birch, H75, 60x60, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 60x60, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 60x60, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 60x60, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 70x70, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 70x70, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 70x70, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 70x70, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x70, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x70, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x70, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x70, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x70, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x70, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x70, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x70, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 80x80, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 80x80, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 80x80, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 80x80, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x80, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x80, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x80, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x80, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x80, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x80, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x80, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x80, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 180x80, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 180x80, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 180x80, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 180x80, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 90x90, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 90x90, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 90x90, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 90x90, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x90, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x90, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x90, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 120x90, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x90, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x90, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x90, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 140x90, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 180x90, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 180x90, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 180x90, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 180x90, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø60, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø60, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø60, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø60, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø70, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø70, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø70, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø70, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø90, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø90, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø90, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø90, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø110, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø110, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø110, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø110, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø120, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø120, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø120, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø120, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø120, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø120, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø120, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø120, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø140, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø140, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø140, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, Ø140, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 200x90, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 200x90, birch HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 200x90, white HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H75, 200x90, black HPL, birch
+ - Alma, table, corner legs, solid wood base oak, H75, 60x60, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 60x60, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 60x60, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 60x60, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 70x70, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 70x70, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 70x70, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 70x70, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x70, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x70, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x70, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x70, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x70, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x70, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x70, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x70, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 80x80, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 80x80, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 80x80, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 80x80, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x80, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x80, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x80, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x80, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x80, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x80, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x80, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x80, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 180x80, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 180x80, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 180x80, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 180x80, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 90x90, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 90x90, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 90x90, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 90x90, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x90, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x90, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x90, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 120x90, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x90, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x90, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x90, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 140x90, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 180x90, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 180x90, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 180x90, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 180x90, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø60, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø60, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø60, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø60, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø70, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø70, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø70, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø70, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø90, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø90, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø90, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø90, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø110, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø110, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø110, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø110, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø120, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø120, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø120, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø120, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø120, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø120, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø120, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø120, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø140, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø140, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø140, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, Ø140, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 200x90 one side arc, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 200x90 one side arc, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 200x90 one side arc, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H75, 200x90 one side arc, black HPL, oak
+ - Alma, table, corner legs, solid wood base birch, H60, Ø90, black HPL, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø110, birch melamine, birch
+ - Alma, table, corner legs, solid wood base birch, H60, Ø110, birch HPL, birch
+ - Alma, table, corner legs, solid wood base oak, H60, Ø90, black HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø110, oak melamine, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø110, oak HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø110, white HPL, oak
+ - Alma, table, corner legs, solid wood base oak, H60, Ø110, black HPL, oak
+ - Mine, bar height 1-seater, seating height 66 cm., addition per module
+ - Mine, bar height 2-seater, seating height 66 cm., addition per module
+ - Mine, bar height 3-seater, seating height 66 cm., addition per module
+ - Mine, bar height corner, seating height 66 cm., addition per module
+ - Mine, customized, seating height 52 cm., per pair legs (additional)
+ - Darwin, bar height 1-seater, seating height 66 cm., addition per module
+ - Darwin, bar height 2-seater, seating height 66 cm., addition per module
+ - Darwin, bar height 3-seater, seating height 66 cm., addition per module
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two glas doors top, birch HPL, flat black handles, birch
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two doors top, birch HPL, flat black handles, birch
+ - Soft, sideboard, 84x98x45 cm, two doors, birch HPL, flat black handles, birch
+ - Soft, sideboard, 84x145x45 cm, two doors and three drawers, birch HPL, flat black handles, birch
+ - Soft, drawer, 84x98x45 cm, with three drawers, birch HPL, flat black handles, birch
+ - Soft, bedside table, 70x40x40 cm, one drawer on top, birch HPL, flat black handles, birch
+ - Soft, bedside table, 70x40x40 cm, two drawers at bottom, birch HPL, flat black handles, birch
+ - Soft, bedside table, 70x40x40 cm, three drawers, birch HPL, flat black handles, birch
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two glas doors top, oak HPL, flat black handles, oak
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two doors top, oak HPL, flat black handles, oak
+ - Soft, sideboard, 84x98x45 cm, two doors, oak HPL, flat black handles, oak
+ - Soft, sideboard, 84x145x45 cm, two doors and three drawers, oak HPL, flat black handles, oak
+ - Soft, drawer, 84x98x45 cm, with three drawers, oak HPL, flat black handles, oak
+ - Soft, bedside table, 70x40x40 cm, one drawer on top, oak HPL, flat black handles, oak
+ - Soft, bedside table, 70x40x40 cm, two drawers at bottom, oak HPL, flat black handles, oak
+ - Soft, bedside table, 70x40x40 cm, three drawers, oak HPL, flat black handles, oak
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two glas doors top, birch HPL, classic handles silver, birch
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two doors top, birch HPL, classic handles silver, birch
+ - Soft, sideboard, 84x98x45 cm, two doors, birch HPL, classic handles silver, birch
+ - Soft, sideboard, 84x145x45 cm, two doors and three drawers, birch HPL, classic handles silver, birch
+ - Soft, drawer, 84x98x45 cm, with three drawers, birch HPL, classic handles silver, birch
+ - Soft, bedside table, 70x40x40 cm, one drawer on top, birch HPL, classic handles silver, birch
+ - Soft, bedside table, 70x40x40 cm, two drawers at bottom, birch HPL, classic handles silver, birch
+ - Soft, bedside table, 70x40x40 cm, three drawers, birch HPL, classic handles silver, birch
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two glas doors top, oak HPL, classic handles silver, oak
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two doors top, oak HPL, classic handles silver, oak
+ - Soft, sideboard, 84x98x45 cm, two doors, oak HPL, classic handles silver, oak
+ - Soft, sideboard, 84x145x45 cm, two doors and three drawers, oak HPL, classic handles silver, oak
+ - Soft, drawer, 84x98x45 cm, with three drawers, oak HPL, classic handles silver, oak
+ - Soft, bedside table, 70x40x40 cm, one drawer on top, oak HPL, classic handles silver, oak
+ - Soft, bedside table, 70x40x40 cm, two drawers at bottom, oak HPL, classic handles silver, oak
+ - Soft, bedside table, 70x40x40 cm, three drawers, oak HPL, classic handles silver, oak
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two glas doors top, birch HPL, push-to-open, birch
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two doors top, birch HPL, push-to-open, birch
+ - Soft, sideboard, 84x98x45 cm, two doors, birch HPL, push-to-open, birch
+ - Soft, sideboard, 84x145x45 cm, two doors and three drawers, birch HPL, push-to-open, birch
+ - Soft, drawer, 84x98x45 cm, with three drawers, birch HPL, push-to-open, birch
+ - Soft, bedside table, 70x40x40 cm, one drawer on top, birch HPL, push-to-open, birch
+ - Soft, bedside table, 70x40x40 cm, two drawers at bottom, birch HPL, push-to-open, birch
+ - Soft, bedside table, 70x40x40 cm, three drawers, birch HPL, push-to-open, birch
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two glas doors top, oak HPL, push-to-open, oak
+ - Soft, buffet, 180x98x45 cm, two doors bottom and two doors top, oak HPL, push-to-open, oak
+ - Soft, sideboard, 84x98x45 cm, two doors, oak HPL, push-to-open, oak
+ - Soft, sideboard, 84x145x45 cm, two doors and three drawers, oak HPL, push-to-open, oak
+ - Soft, drawer, 84x98x45 cm, with three drawers, oak HPL, push-to-open, oak
+ - Soft, bedside table, 70x40x40 cm, one drawer on top, oak HPL, push-to-open, oak
+ - Soft, bedside table, 70x40x40 cm, two drawers at bottom, oak HPL, push-to-open, oak
+ - Soft, bedside table, 70x40x40 cm, three drawers, oak HPL, push-to-open, oak
+ - Annet, various
+ - Bankett, various
+ - Dapple, various
+ - Join, various, oak
+ - Lean, various
+ - Lip, various
+ - Marin, various
+ - Meet, various
+ - Nexus, various
+ - Pivot, various
+ - Pivot Cave, various
+ - Pivot Step, various
+ - Santana, various
+ - Soft, various
+ - Zeta, various
+ - Darwin, various
+ - Mine, various
+ - Alma, various
